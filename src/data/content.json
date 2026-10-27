@@ -1,0 +1,4418 @@
+{
+ "collections": [
+  {
+   "title": "Golden Age Intense Treatment",
+   "slug": "golden-age-intense-treatment",
+   "tagline": "Yeni Nesil Yenileyici ve Gençleştirici Profesyonel Bakım",
+   "sections": [
+    {
+     "kind": "hero",
+     "eyebrow": "PROFESYONEL BAKIM",
+     "title": "Golden Age Intense Treatment",
+     "subtitle": "Yeni Nesil Yenileyici ve Gençleştirici Profesyonel Bakım",
+     "desc": [
+      "Golden Age Treatment, senolytic technology yaklaşımı, exosome technology ve ileri bakım aktifleri ile geliştirilmiş yeni nesil profesyonel bakım protokolüdür. Yaş alma belirtilerinin görünümünü azaltmaya; cilde daha canlı, sıkı, dolgun ve aydınlık bir görünüm kazandırmaya yardımcı olur."
+     ],
+     "benefits": [
+      "Yaşlanma belirtilerinin görünümünü azaltır",
+      "Sıkılık ve elastikiyet görünümünü destekler",
+      "Cilt yenilenmesini destekler"
+     ]
+    },
+    {
+     "kind": "ingredients",
+     "items": [
+      {
+       "name": "SENOLYTIC TECHNOLOGY",
+       "sub": "",
+       "desc": "Yaş alma belirtilerinin görünümünü azaltmaya yardımcı olur."
+      },
+      {
+       "name": "EXOSOME TECHNOLOGY",
+       "sub": "",
+       "desc": "Cildin yenilenmesini destekler; daha canlı, sıkı ve aydınlık bir görünüm sağlar."
+      },
+      {
+       "name": "POLYNUCLEOTIDES",
+       "sub": "",
+       "desc": "Cildin daha güçlü ve yoğun görünmesini destekler."
+      },
+      {
+       "name": "PRO-COLLAGEN",
+       "sub": "",
+       "desc": "Elastikiyet ve sıkılık görünümüne katkı sağlar."
+      },
+      {
+       "name": "HYALFIRM®",
+       "sub": "",
+       "desc": "Yoğun nem ve dolgunluk desteği sunar."
+      },
+      {
+       "name": "AMINO CORE",
+       "sub": "",
+       "desc": "Amino asit ve bitkisel aktiflerle cildi destekler."
+      }
+     ]
+    },
+    {
+     "kind": "protocol",
+     "steps": [
+      {
+       "n": "01",
+       "title": "PEELING",
+       "desc": "Proteaz teknolojisi ve succinic acid ile geliştirilen profesyonel peeling aşamasıdır. Cilt yenilenme süreçlerini destekleyerek daha pürüzsüz, aydınlık ve bakım uygulamasına hazır bir görünüm kazandırır."
+      },
+      {
+       "n": "02",
+       "title": "YENİLEYİCİ BAKIM",
+       "desc": "AMINOCORE teknolojisi, Japon sedir özü ve Vitamin B12 ile geliştirilen yoğun yenileyici ampul aşamasıdır. Cilt konforunu, cilt nemini ve canlılığı destekleyerek daha dengeli bir cilt görünümüne katkı sağlar."
+      },
+      {
+       "n": "03",
+       "title": "ONARICI BAKIM",
+       "desc": "Senolytic technology, HyalFirm® ve hyaluronic acid ile formüle edilen yoğun bakım ampulüdür. Cilt yoğunluğu, dolgunluk ve elastikiyeti destekleyerek daha sıkı ve canlı bir görünüm sağlar."
+      },
+      {
+       "n": "04",
+       "title": "YOĞUN NEMLENDİRME",
+       "desc": "Exosome, Pro-Collagen ve polynucleotide teknolojileriyle geliştirilen biyoteknolojik bakım aşamasıdır. Cildin yenilenme süreçlerini destekleyerek daha güçlü, yapılandırılmış ve daha genç bir cilt görünümüne katkı sağlar."
+      },
+      {
+       "n": "05",
+       "title": "MASKE",
+       "desc": "Exosome, polynucleotide, aminoasitler ve Vitamin B12 ile geliştirilen yoğun yenileyici maske aşamasıdır. Aktif içeriklerin penetrasyonunu destekleyerek cildin daha canlı, dolgun ve enerjik görünmesine katkı sağlar."
+      },
+      {
+       "n": "06",
+       "title": "KORUMA",
+       "desc": "Exosome teknolojisi, Centella Asiatica exosome’ları, biyomimetik kolajen, Argireline® ve Vitamin B12 ile geliştirilen yoğun bakım kremidir. Nem, cilt konforu ve yaş alma belirtilerinin görünümüne yönelik çok yönlü bakım desteği sunar."
+      }
+     ]
+    },
+    {
+     "kind": "products",
+     "label": "EV DEVAM ÜRÜNLERİ",
+     "items": [
+      {
+       "name": "Golden Age Intense Serum 50 ml",
+       "note": "",
+       "tag": "",
+       "desc": "Yoğun nem desteği sağlayan, cildin daha canlı ve aydınlık görünmesine yardımcı günlük bakım serumu.",
+       "features": [
+        "Yoğun nem desteği",
+        "Dolgun görünüm",
+        "Tüm cilt tiplerine uygun"
+       ],
+       "image": "golden-serum"
+      },
+      {
+       "name": "Golden Age Intense Cream 50 ml",
+       "note": "",
+       "tag": "",
+       "desc": "Yaşlanma belirtilerinin görünümünü azaltmaya ve cilde yoğun bakım sağlamaya yardımcı günlük bakım kremi.",
+       "features": [
+        "Sıkılık desteği",
+        "Besleyici bakım",
+        "Tüm cilt tipleri için uygun"
+       ],
+       "image": "golden-cream"
+      },
+      {
+       "name": "Golden Age Intense Eye Contour 15 ml",
+       "note": "",
+       "tag": "",
+       "desc": "Göz çevresindeki yaş alma belirtilerinin görünümünü azaltmaya yardımcı bakım kremi.",
+       "features": [
+        "Göz çevresini aydınlatır",
+        "Sıkılık desteği",
+        "Tüm cilt tiplerine uygun"
+       ],
+       "image": null
+      },
+      {
+       "name": "Golden Age Intense Ampoule (10 adet x 5 ml)",
+       "note": "",
+       "tag": "",
+       "desc": "Yoğun bakım sağlayan profesyonel destek ampulü.",
+       "features": [
+        "Yoğun bakım desteği",
+        "Canlı görünüm kazandırır",
+        "Tüm cilt tiplerine uygun"
+       ],
+       "image": null
+      }
+     ]
+    },
+    {
+     "kind": "cta",
+     "text": "Profesyonel Golden Age Intense Treatment hakkında detaylı bilgi almak için bizimle iletişime geçin.",
+     "button": "İLETİŞİME GEÇİN"
+    },
+    {
+     "kind": "usp",
+     "items": [
+      "PROFESYONEL FORMÜLASYON",
+      "SENOLYTIC TECHNOLOGY YAKLAŞIMI",
+      "EKSOZOM VE POLİNÜKLEOTİD DESTEĞİ",
+      "YENİLEYİCİ PREMIUM BAKIM",
+      "TÜM CİLT TİPLERİNE UYGUN"
+     ]
+    }
+   ],
+   "short": "Golden Age",
+   "accent": "#b9787f",
+   "tint": "#f7e8e7",
+   "hero": "golden-still",
+   "card": "golden-still",
+   "wide": "golden-banner",
+   "gallery": [
+    "golden-hero-tr",
+    "gold-mask-model",
+    "golden-lab"
+   ],
+   "ing": "ing-golden",
+   "kind": "collection"
+  },
+  {
+   "title": "Infinity Treatment",
+   "slug": "infinity-treatment",
+   "tagline": "Infinity Beautyplan Premium",
+   "sections": [
+    {
+     "kind": "hero",
+     "eyebrow": "PROFESYONEL BAKIM",
+     "title": "Infinity Treatment",
+     "subtitle": "Infinity Beautyplan Premium",
+     "desc": [
+      "Kırışıklık görünümü, mimik çizgileri ve elastikiyet kaybı yaşayan ciltler için geliştirilen profesyonel yaşlanma karşıtı bakım protokolüdür. Growth factor technology ve biyoteknolojik aktifler ile cildin daha sıkı, pürüzsüz, dolgun ve genç görünmesine yardımcı olur."
+     ],
+     "benefits": [
+      "İnce çizgi görünümünü azaltır",
+      "Cilt elastikiyetini destekler",
+      "Daha dolgun bir görünüm sağlar"
+     ]
+    },
+    {
+     "kind": "ingredients",
+     "items": [
+      {
+       "name": "GROWTH FACTOR",
+       "sub": "",
+       "desc": "Cilt yenilenmesini destekleyen biyoteknolojik aktif kompleks."
+      },
+      {
+       "name": "MELATONIN",
+       "sub": "",
+       "desc": "Cildin gece yenilenme sürecini destekler."
+      },
+      {
+       "name": "CHARDONNAY GRAPE EXTRACT",
+       "sub": "",
+       "desc": "Antioksidan etkisiyle cildi çevresel faktörlere karşı destekler."
+      },
+      {
+       "name": "PERSIAN SILK TREE EXTRACT",
+       "sub": "",
+       "desc": "Yorgunluk görünümünü azaltmaya ve canlılık kazandırmaya yardımcı olur."
+      },
+      {
+       "name": "EDELWEISS",
+       "sub": "",
+       "desc": "Cildin korunmasına yardımcı antioksidan bitki özü."
+      }
+     ]
+    },
+    {
+     "kind": "protocol",
+     "steps": [
+      {
+       "n": "01",
+       "title": "PEELING",
+       "desc": "Mikro aktif karbon kapsülleri ile cildi nazikçe arındırır; detoks etkisi sağlayarak cildi profesyonel bakım uygulamasına hazırlar."
+      },
+      {
+       "n": "02",
+       "title": "YENİLEYİCİ BAKIM",
+       "desc": "5 growth factor ve Japon bahar suyu ile cilt yenilenmesini destekler; cilde canlı ve sağlıklı bir görünüm kazandırmaya yardımcı olur."
+      },
+      {
+       "n": "03",
+       "title": "ONARICI BAKIM",
+       "desc": "Chardonnay grape extract ve Persian silk tree extract ile yaşlanma belirtilerinin görünümünü azaltmaya yardımcı olur."
+      },
+      {
+       "n": "04",
+       "title": "YOĞUN NEMLENDİRME",
+       "desc": "Coenzyme Q10, kreatin ve C vitamini ile cildin sıkılık ve elastikiyet görünümünü destekler."
+      },
+      {
+       "n": "05",
+       "title": "MASKE",
+       "desc": "Melatonin, triptofan ve B6 vitamini içeren formülüyle cildin doğal yenilenme mekanizmalarını destekler; daha canlı ve dinlenmiş bir görünüm kazandırmaya yardımcı olur."
+      },
+      {
+       "n": "06",
+       "title": "KORUMA",
+       "desc": "Persian silk tree extract ve beyaz trüf ile cilde yoğun bakım sunarak daha sıkı ve pürüzsüz bir görünüm kazandırır."
+      },
+      {
+       "n": "07",
+       "title": "GECE MASKESİ",
+       "desc": "Melatonin, magnezyum ve B6 vitamini ile gece boyunca cildin doğal yenilenme sürecini destekleyen tamamlayıcı bakım maskesidir."
+      }
+     ]
+    },
+    {
+     "kind": "products",
+     "label": "EV DEVAM ÜRÜNLERİ",
+     "items": [
+      {
+       "name": "Infinity Cream 50 ml",
+       "note": "",
+       "tag": "",
+       "desc": "Yoğun bakım desteği sağlayarak cildin daha pürüzsüz, canlı ve sıkı görünmesine yardımcı olur.",
+       "features": [
+        "Yoğun nem desteği",
+        "Elastikiyet görünümünü destekler",
+        "Tüm cilt tiplerine uygun"
+       ],
+       "image": "infinity-cream"
+      }
+     ]
+    },
+    {
+     "kind": "cta",
+     "text": "Profesyonel Infinity Treatment hakkında detaylı bilgi almak için bizimle iletişime geçin.",
+     "button": "İLETİŞİME GEÇİN"
+    },
+    {
+     "kind": "usp",
+     "items": [
+      "PROFESYONEL FORMÜLASYON",
+      "GROWTH FACTOR TECHNOLOGY",
+      "BİYOTEKNOLOJİK AKTİFLER",
+      "YAŞLANMA KARŞITI BAKIM",
+      "TÜM CİLT TİPLERİNE UYGUN"
+     ]
+    }
+   ],
+   "short": "Infinity",
+   "accent": "#8d5f88",
+   "tint": "#f3e9f2",
+   "hero": "infinity-hero-tr",
+   "card": "infinity-cream",
+   "wide": "infinity-pro",
+   "gallery": [
+    "infinity-eye"
+   ],
+   "ing": "ing-infinity",
+   "kind": "collection"
+  },
+  {
+   "title": "Goji Treatment",
+   "slug": "goji-treatment",
+   "tagline": "Antioxidant Beautyplan",
+   "sections": [
+    {
+     "kind": "hero",
+     "eyebrow": "PROFESYONEL BAKIM",
+     "title": "Goji Treatment",
+     "subtitle": "Antioxidant Beautyplan",
+     "desc": [
+      "Mat, yorgun ve çevresel faktörlerden etkilenen ciltler için geliştirilen profesyonel antioksidan bakım protokolü. Goji berry ve biyoteknolojik aktifler ile cildin daha canlı, aydınlık ve enerjik görünmesine yardımcı olur."
+     ],
+     "benefits": [
+      "Antioksidan koruma sağlar",
+      "Cilde canlılık ve ışıltı kazandırır",
+      "Cildin doğal bariyerini destekler"
+     ]
+    },
+    {
+     "kind": "ingredients",
+     "items": [
+      {
+       "name": "ECOCERT® CERTIFIED GOJI BERRY",
+       "sub": "",
+       "desc": "Antioksidan bakım desteğiyle canlı görünüm sağlar."
+      },
+      {
+       "name": "BETAINE",
+       "sub": "",
+       "desc": "Cildin nem dengesini korumaya yardımcı olur."
+      },
+      {
+       "name": "AVOCADO OIL",
+       "sub": "",
+       "desc": "Cildi besler, yumuşatır ve bakım desteği sağlar."
+      },
+      {
+       "name": "SHEA BUTTER",
+       "sub": "",
+       "desc": "Yoğun nem desteğiyle konfor hissini artırır."
+      },
+      {
+       "name": "BAL",
+       "sub": "",
+       "desc": "Besleyici ve yumuşatıcı bakım desteği sağlar."
+      }
+     ]
+    },
+    {
+     "kind": "protocol",
+     "steps": [
+      {
+       "n": "01",
+       "title": "TEMİZLEME",
+       "desc": "Goji berry extract ile cildi nazikçe arındırır ve bakım uygulamasına hazırlar."
+      },
+      {
+       "n": "02",
+       "title": "YENİLEYİCİ BAKIM",
+       "desc": "Amino asitler ve goji berry özü ile cilt yenilenmesini destekleyen yoğun bakım ampulüdür."
+      },
+      {
+       "n": "03",
+       "title": "ONARICI BAKIM",
+       "desc": "Goji berry extract, bal ve betaine ile cilde antioksidan koruma ve uzun süreli nem desteği sağlar."
+      },
+      {
+       "n": "04",
+       "title": "YOĞUN NEMLENDİRME",
+       "desc": "Goji berry, avocado oil ve shea butter ile cildi yoğun şekilde besler ve nemlendirir."
+      },
+      {
+       "n": "05",
+       "title": "MASKE",
+       "desc": "Goji berry ve kinoa tohumu içeren formülüyle cildi yatıştırır, besler ve antioksidan bakım sağlar."
+      },
+      {
+       "n": "06",
+       "title": "KORUMA",
+       "desc": "Tüm aktif bileşenleri bir araya getirerek cildi besler, korur ve bakımın etkisini tamamlar."
+      }
+     ]
+    },
+    {
+     "kind": "products",
+     "label": "EV DEVAM ÜRÜNLERİ",
+     "items": [
+      {
+       "name": "Balancing Serum 50 ml",
+       "note": "",
+       "tag": "",
+       "desc": "Cildin daha canlı, dengeli ve enerjik görünmesine yardımcı olan antioksidan bakım serumu.",
+       "features": [
+        "Antioksidan koruma",
+        "Nem desteği",
+        "Tüm cilt tiplerine uygun"
+       ],
+       "image": null
+      },
+      {
+       "name": "Hydro Balancing Cream 50 ml",
+       "note": "",
+       "tag": "",
+       "desc": "Mat ve nemsiz cilt görünümünü azaltmaya yardımcı günlük bakım kremi.",
+       "features": [
+        "Günlük nem desteği",
+        "Daha canlı görünüm",
+        "Normal ve karma ciltler için uygun"
+       ],
+       "image": null
+      },
+      {
+       "name": "Nutri Balancing Cream 50 ml",
+       "note": "",
+       "tag": "",
+       "desc": "Yoğun bakım sağlayarak kuru ve beslenme ihtiyacı olan cilt görünümünü destekler.",
+       "features": [
+        "Yoğun besleyici bakım",
+        "Cilt bariyeri desteği",
+        "Kuru ve çok kuru ciltler için uygun"
+       ],
+       "image": null
+      }
+     ]
+    },
+    {
+     "kind": "cta",
+     "text": "Profesyonel Goji Treatment bakım uygulamaları hakkında detaylı bilgi almak için bizimle iletişime geçin.",
+     "button": "İLETİŞİME GEÇİN"
+    },
+    {
+     "kind": "usp",
+     "items": [
+      "PROFESYONEL FORMÜLASYON",
+      "ANTİOKSİDAN AKTİFLER",
+      "BİYOTEKNOLOJİK YAKLAŞIM",
+      "CANLANDIRICI BAKIM",
+      "TÜM CİLT TİPLERİNE UYGUN"
+     ]
+    }
+   ],
+   "short": "Goji",
+   "accent": "#b5473f",
+   "tint": "#f8ebe8",
+   "hero": "goji-treatment",
+   "card": "goji-treatment",
+   "wide": "goji-still",
+   "kind": "collection"
+  },
+  {
+   "title": "Skin Sensations Treatment",
+   "slug": "skin-sensations-treatment",
+   "tagline": "Luxury Beautyplan",
+   "sections": [
+    {
+     "kind": "hero",
+     "eyebrow": "PROFESYONEL BAKIM",
+     "title": "Skin Sensations Treatment",
+     "subtitle": "Luxury Beautyplan",
+     "desc": [
+      "Cilt elastikiyetini desteklemek, canlı bir görünüm kazandırmak ve yaşlanma belirtilerinin görünümünü azaltmaya yardımcı olmak için geliştirilen profesyonel bakım protokolü. Bioavailable Vitamin complexes, doğal yağlar ve biyoteknolojik aktifler ile cildin daha aydınlık, pürüzsüz ve genç görünmesine katkı sağlar."
+     ],
+     "benefits": [
+      "Cilt elastikiyetini destekler",
+      "Yoğun nem desteği sağlar",
+      "Daha aydınlık görünüm kazandırır"
+     ]
+    },
+    {
+     "kind": "ingredients",
+     "items": [
+      {
+       "name": "BIOAVAILABLE VITAMINS (A+C+E)",
+       "sub": "",
+       "desc": "Cildin daha canlı ve aydınlık görünmesini destekler."
+      },
+      {
+       "name": "TRACE AVENA COMPLEX",
+       "sub": "",
+       "desc": "Cildin doğal dengesini destekler."
+      },
+      {
+       "name": "24K GOLD",
+       "sub": "",
+       "desc": "Cilde ışıltılı ve canlı görünüm kazandırmaya yardımcı olur."
+      },
+      {
+       "name": "AUREALIS®",
+       "sub": "",
+       "desc": "Cildin daha enerjik ve taze görünmesini destekler."
+      }
+     ]
+    },
+    {
+     "kind": "protocol",
+     "steps": [
+      {
+       "n": "01",
+       "title": "TEMİZLEME",
+       "desc": "Eser elementler ile cildi nazikçe arındırır ve profesyonel bakım uygulamasına hazırlar."
+      },
+      {
+       "n": "02",
+       "title": "YENİLEYİCİ BAKIM",
+       "desc": "Oligogeline®, C vitamini ve Ellagi-C® ile cildin canlılığını destekler."
+      },
+      {
+       "n": "03",
+       "title": "ONARICI BAKIM",
+       "desc": "Hyaluronic acid ve Fucus algleri ile cilde yoğun nem desteği sağlar."
+      },
+      {
+       "n": "04",
+       "title": "YOĞUN NEMLENDİRME",
+       "desc": "Trace Avena Protein Complex®, Vitazyme® ACE Complex ve Jeju organik kamelya yağı ile cildi besler ve canlandırır."
+      },
+      {
+       "n": "05",
+       "title": "MASKE",
+       "desc": "24K altın ve deniz yosunu özleri ile cilde daha sıkı ve aydınlık bir görünüm kazandırır."
+      },
+      {
+       "n": "06",
+       "title": "KORUMA",
+       "desc": "Trace Avena Protein Complex®, betaine ve Vitazyme® ACE Complex ile bakımın etkisinin devamlılığını destekler."
+      }
+     ]
+    },
+    {
+     "kind": "products",
+     "label": "EV DEVAM ÜRÜNLERİ",
+     "items": [
+      {
+       "name": "Sensations 50 ml (Vitamin Shot)",
+       "note": "",
+       "tag": "",
+       "desc": "Cildin daha canlı, pürüzsüz ve aydınlık görünmesine yardımcı olan yoğun bakım serumu.",
+       "features": [
+        "Yoğun nem desteği",
+        "Elastikiyet görünümünü destekler",
+        "Tüm cilt tipleri için uygundur"
+       ],
+       "image": "sensations-shot"
+      },
+      {
+       "name": "Hydro Revitalizing Cream 50 ml",
+       "note": "",
+       "tag": "",
+       "desc": "Cildin nemsiz ve yorgun görünümünü azaltmaya yardımcı bakım kremi.",
+       "features": [
+        "Daha canlı görünüm",
+        "Konforlu nem desteği",
+        "Normal, karma ve hassas ciltler için uygundur"
+       ],
+       "image": null
+      },
+      {
+       "name": "Hydro-Nutri Revitalizing Cream 50 ml",
+       "note": "",
+       "tag": "",
+       "desc": "Besleyici aktif içerikler ile cildin daha dolgun ve sağlıklı görünmesine yardımcı olur.",
+       "features": [
+        "Yoğun bakım etkisi",
+        "Cilt bariyerini destekler",
+        "Normal ve kuru ciltler için uygundur"
+       ],
+       "image": "sensations-hydronutri"
+      }
+     ]
+    },
+    {
+     "kind": "cta",
+     "text": "Profesyonel Skin Sensations Treatment bakım uygulamaları hakkında detaylı bilgi almak için bizimle iletişime geçin.",
+     "button": "İLETİŞİME GEÇİN"
+    },
+    {
+     "kind": "usp",
+     "items": [
+      "PROFESYONEL FORMÜLASYON",
+      "MULTİVİTAMİN VE MİNERAL DESTEKLİ AKTİFLER",
+      "BİYOTEKNOLOJİK YAKLAŞIM",
+      "CANLANDIRICI PREMIUM BAKIM",
+      "TÜM CİLT TİPLERİNE UYGUN"
+     ]
+    }
+   ],
+   "short": "Skin Sensations",
+   "accent": "#c08a3e",
+   "tint": "#f8efe2",
+   "hero": "sensations-shot",
+   "card": "sensations-shot",
+   "kind": "collection"
+  },
+  {
+   "title": "RGnerin Treatment",
+   "slug": "rgnerin-treatment",
+   "tagline": "Renovating Beautyplan",
+   "sections": [
+    {
+     "kind": "hero",
+     "eyebrow": "PROFESYONEL BAKIM",
+     "title": "RGnerin Treatment",
+     "subtitle": "Renovating Beautyplan",
+     "desc": [
+      "Mimik çizgileri, elastikiyet kaybı ve yaşlanma belirtileri yaşayan ciltler için geliştirilen profesyonel bakım protokolü. Biyoteknolojik peptitler, yenileyici aktif içerikler ve yoğun bakım desteği ile cildin daha sıkı, pürüzsüz ve genç görünmesine yardımcı olur."
+     ],
+     "benefits": [
+      "Kırışıklık görünümünü azaltır",
+      "Daha sıkı bir görünüm sağlar",
+      "Cildi yenilemeye yardımcı olur"
+     ]
+    },
+    {
+     "kind": "ingredients",
+     "items": [
+      {
+       "name": "ACID COMPLEX",
+       "sub": "Glycolic, Salicylic and Lactic Acid",
+       "desc": "Cildi arındırır, pürüzsüz ve aydınlık görünüm sağlar."
+      },
+      {
+       "name": "VİTAMİN SHOT",
+       "sub": "(Vit. A, B5, B7, E ve F)",
+       "desc": "Cilt yenilenmesini ve pürüzsüz görünümü destekler."
+      },
+      {
+       "name": "AMINO-FIRM",
+       "sub": "",
+       "desc": "Cildin elastikiyetini ve sıkılık görünümünü destekleyen aktif bakım kompleksi."
+      },
+      {
+       "name": "ARGIRELINE PEPTIDE",
+       "sub": "",
+       "desc": "Mimik çizgilerinin görünümünü azaltmaya yardımcı olur."
+      }
+     ]
+    },
+    {
+     "kind": "protocol",
+     "steps": [
+      {
+       "n": "01",
+       "title": "TEMİZLEME",
+       "desc": "Glycolic acid, lactic acid ve salicylic acid ile cildi arındırır; yenilenme sürecini ve daha pürüzsüz görünümü destekler."
+      },
+      {
+       "n": "02",
+       "title": "YENİLEYİCİ BAKIM",
+       "desc": "Susam glikoproteinleri ve amino asitler ile cildin elastikiyetini destekler, daha sıkı bir görünüm kazandırmaya yardımcı olur."
+      },
+      {
+       "n": "03",
+       "title": "ONARICI BAKIM",
+       "desc": "Argireline® peptide, vitaminler ve alfa hidroksi asitler ile ince çizgi ve kırışıklık görünümünün azalmasına yardımcı olur."
+      },
+      {
+       "n": "04",
+       "title": "YOĞUN NEMLENDİRME",
+       "desc": "Avocado oil, amino asitler ve hyaluronic acid ile cildi yoğun şekilde besler, nemlendirir ve dolgunlaştırır."
+      },
+      {
+       "n": "05",
+       "title": "MASKE",
+       "desc": "Deniz yosunu özü, hatmi özü ve aloe vera ile cildi yoğun şekilde nemlendirir, canlandırır ve sıkılaştırır."
+      },
+      {
+       "n": "06",
+       "title": "KORUMA",
+       "desc": "Besleyici ve nemlendirici aktifler ile bakımın etkisinin devamlılığını destekleyen yoğun son bakım aşamasıdır."
+      }
+     ]
+    },
+    {
+     "kind": "products",
+     "label": "EV DEVAM ÜRÜNLERİ",
+     "items": [
+      {
+       "name": "Wrinkle Serum 50 ml",
+       "note": "",
+       "tag": "",
+       "desc": "İnce çizgi ve kırışıklık görünümünü azaltmaya yardımcı yoğun bakım serumu.",
+       "features": [
+        "Elastikiyet görünümünü destekler",
+        "Yoğun nem desteği sağlar",
+        "Tüm cilt tiplerine uygundur"
+       ],
+       "image": "rgnerin-serum"
+      },
+      {
+       "name": "Hydro-Nutri Wrinkle Cream 50 ml",
+       "note": "",
+       "tag": "",
+       "desc": "Cildin daha pürüzsüz ve canlı görünmesine yardımcı günlük bakım kremi.",
+       "features": [
+        "Günlük bakım kullanımı",
+        "Daha dolgun görünüm",
+        "Normal ve kuru cilt tipleri için uygundur"
+       ],
+       "image": null
+      },
+      {
+       "name": "Nutri+ Rich Wrinkle Cream 50 ml",
+       "note": "",
+       "tag": "",
+       "desc": "Cildin yoğun beslenmesine yardımcı olan, kırışıklık görünümünü azaltmayı ve cilde daha konforlu bir his kazandırmayı destekleyen zengin dokulu bakım kremi.",
+       "features": [
+        "Cildin beslenmesine yardımcı olur",
+        "Kırışıklık görünümünü azaltmayı destekler",
+        "Yoğun nem ve konfor sağlar",
+        "Kuru ve çok kuru ciltler için uygundur"
+       ],
+       "image": null
+      }
+     ]
+    },
+    {
+     "kind": "cta",
+     "text": "Profesyonel RGnerin Treatment bakım uygulamaları hakkında detaylı bilgi almak için bizimle iletişime geçin.",
+     "button": "İLETİŞİME GEÇİN"
+    },
+    {
+     "kind": "usp",
+     "items": [
+      "PROFESYONEL FORMÜLASYON",
+      "PEPTİT DESTEKLİ AKTİFLER",
+      "BİYOTEKNOLOJİK YAKLAŞIM",
+      "YAŞLANMA KARŞITI PREMIUM BAKIM",
+      "TÜM CİLT TİPLERİNE UYGUN"
+     ]
+    }
+   ],
+   "short": "RGnerin",
+   "accent": "#8579ad",
+   "tint": "#efedf6",
+   "hero": "rgnerin-treatment",
+   "card": "rgnerin-serum",
+   "kind": "collection"
+  },
+  {
+   "title": "Age Defense Treatment",
+   "slug": "age-defense-treatment",
+   "tagline": "Age Defense Beautyplan",
+   "sections": [
+    {
+     "kind": "hero",
+     "eyebrow": "PROFESYONEL BAKIM",
+     "title": "Age Defense Treatment",
+     "subtitle": "Age Defense Beautyplan",
+     "desc": [
+      "Yoğun yaşlanma belirtileri, elastikiyet kaybı ve çevresel faktörlerden etkilenen ciltler için geliştirilen profesyonel bakım protokolü. ECOCERT® sertifikalı pro ve prebiyotik kompleksler, biyoteknolojik aktifler ve yoğun nem desteği ile cildin daha sıkı, canlı ve dengeli görünmesine yardımcı olur."
+     ],
+     "benefits": [
+      "Kırışıklık görünümünü azaltır",
+      "Cilt mikrobiyotasını destekler",
+      "Yoğun nem desteği sağlar"
+     ]
+    },
+    {
+     "kind": "ingredients",
+     "items": [
+      {
+       "name": "PRO & PREBIOTIC COMPLEX",
+       "sub": "",
+       "desc": "Cilt bariyerini ve doğal dengesini destekler."
+      },
+      {
+       "name": "JOJOBA OIL & BEESWAX COMPLEX",
+       "sub": "",
+       "desc": "Cildi yumuşatır, nem dengesini ve konforu destekler."
+      },
+      {
+       "name": "DRY OIL COMPLEX",
+       "sub": "",
+       "desc": "Besleyici yağlarla cildi yumuşatır ve esneklik kazandırır."
+      },
+      {
+       "name": "POLLU-BLOCK",
+       "sub": "",
+       "desc": "Cildi çevresel kirliliğe karşı korumaya yardımcı aktif kompleks."
+      },
+      {
+       "name": "D-PROTECT",
+       "sub": "",
+       "desc": "Cilt bariyerini destekleyen koruyucu aktif kompleks."
+      }
+     ]
+    },
+    {
+     "kind": "protocol",
+     "steps": [
+      {
+       "n": "01",
+       "title": "TEMİZLEME",
+       "desc": "Lime havyarı ile cildi nazikçe arındırır; ölü hücrelerin uzaklaştırılmasına ve cildin bakım uygulamasına hazırlanmasına yardımcı olur."
+      },
+      {
+       "n": "02",
+       "title": "YENİLEYİCİ BAKIM",
+       "desc": "D-Protect ve Japon sediri özü ile cilt bariyerini destekler, cilde daha aydınlık bir görünüm kazandırır."
+      },
+      {
+       "n": "03",
+       "title": "ONARICI BAKIM",
+       "desc": "Pro & prebiotic complex, jojoba ve balmumu ile cildi korur, nemlendirir ve yaşlanma belirtilerine karşı destek sağlar."
+      },
+      {
+       "n": "04",
+       "title": "YOĞUN NEMLENDİRME",
+       "desc": "Actidefense®, Dry Oil Complex ve macadamia yağı ile cildi yoğun şekilde besler ve çevresel faktörlere karşı korumaya yardımcı olur."
+      },
+      {
+       "n": "05",
+       "title": "MASKE",
+       "desc": "Pro & prebiotics, vitamin A ve B kompleksi ile cildin koruyucu bariyerini destekler ve yoğun nem kazandırır."
+      },
+      {
+       "n": "06",
+       "title": "KORUMA",
+       "desc": "Pro & prebiotic complex ile cildin nem, canlılık ve konforunu destekleyerek bakımın etkisinin devamlılığına yardımcı olur."
+      }
+     ]
+    },
+    {
+     "kind": "products",
+     "label": "EV DEVAM ÜRÜNLERİ",
+     "items": [
+      {
+       "name": "Hydro-Nutri Anti-Aging 360 Cream",
+       "note": "",
+       "tag": "",
+       "desc": "Yoğun bakım desteği sağlayarak cildin daha canlı, pürüzsüz ve dengeli görünmesine yardımcı olur.",
+       "features": [
+        "Yoğun nem desteği",
+        "Cilt bariyerini destekler",
+        "Anti-aging etki sağlar",
+        "Tüm cilt tiplerine uygundur"
+       ],
+       "image": null
+      }
+     ]
+    },
+    {
+     "kind": "cta",
+     "text": "Profesyonel Age Defense Treatment bakım uygulamaları hakkında detaylı bilgi almak için bizimle iletişime geçin.",
+     "button": "İLETİŞİME GEÇİN"
+    },
+    {
+     "kind": "usp",
+     "items": [
+      "PROFESYONEL FORMÜLASYON",
+      "PRO & PREBIOTIC COMPLEX",
+      "BİYOTEKNOLOJİK YAKLAŞIM",
+      "GLOBAL ANTI-AGING BAKIM",
+      "TÜM CİLT TİPLERİNE UYGUN"
+     ]
+    }
+   ],
+   "short": "Age Defense",
+   "accent": "#a98c74",
+   "tint": "#f5efe9",
+   "hero": "age-defense-pro",
+   "card": "age-defense-pro",
+   "wide": "age-defense-secrets",
+   "kind": "collection"
+  },
+  {
+   "title": "Ocean Miracle Treatment",
+   "slug": "ocean-miracle-treatment",
+   "tagline": "Hydra Lifting Beautyplan",
+   "sections": [
+    {
+     "kind": "hero",
+     "eyebrow": "PROFESYONEL BAKIM",
+     "title": "Ocean Miracle Treatment",
+     "subtitle": "Hydra Lifting Beautyplan",
+     "desc": [
+      "Nem kaybı yaşayan ve elastikiyetini yitirmiş ciltler için geliştirilen profesyonel bakım protokolü. Quinton Seawater, Hyadisine, Wakame seaweed extract ve yoğun nem kompleksleri ile cildin daha dolgun, canlı ve pürüzsüz görünmesine yardımcı olur."
+     ],
+     "benefits": [
+      "Yoğun nem desteği sağlar",
+      "Daha dolgun görünüm kazandırır",
+      "Cildi canlandırmaya yardımcı olur"
+     ]
+    },
+    {
+     "kind": "ingredients",
+     "items": [
+      {
+       "name": "MARINE PLASMA (QUINTON SEAWATER)",
+       "sub": "",
+       "desc": "Mineral desteğiyle nemli ve canlı görünüm sağlar."
+      },
+      {
+       "name": "HYADISINE",
+       "sub": "",
+       "desc": "Hyaluronic acid kıyasla %97 daha fazla nem desteği sunar."
+      },
+      {
+       "name": "WAKAME SEAWEED EXTRACT",
+       "sub": "",
+       "desc": "Sıkılaşma ve yenilenmiş görünüm sağlamaya yardımcı olur."
+      },
+      {
+       "name": "JUVENESSENCE®",
+       "sub": "",
+       "desc": "Yenilenme sürecini ve genç görünümü destekler."
+      }
+     ]
+    },
+    {
+     "kind": "protocol",
+     "steps": [
+      {
+       "n": "01",
+       "title": "TEMİZLEME",
+       "desc": "Keratoclean ve Olivoyl Glutamate içeren peeling jelidir. Cildi arındırır ve bakım uygulamasına hazırlar."
+      },
+      {
+       "n": "02",
+       "title": "YENİLEYİCİ BAKIM",
+       "desc": "Deniz plazması, deniz yosunu özü ve Hyadisine ile cildi yoğun nemlendirir ve yenilenmesini destekler."
+      },
+      {
+       "n": "03",
+       "title": "ONARICI BAKIM",
+       "desc": "Hyadisine, Juvenessence® ve Fucogel içeriğiyle yoğun nem desteği sunar; yaşlanma belirtilerinin görünümünü azaltmaya yardımcı olur."
+      },
+      {
+       "n": "04",
+       "title": "YOĞUN NEMLENDİRME",
+       "desc": "Wakame extract, doğal pirinç yağı, tahıl ve zeytin özü ile cildi besler, elastikiyet görünümünü destekler."
+      },
+      {
+       "n": "05",
+       "title": "MASKE",
+       "desc": "Wakame extract ile formüle edilmiş soyulabilir maskedir. Cildi yeniler, sakinleştirir ve ferahlatıcı etki sağlar."
+      },
+      {
+       "n": "06",
+       "title": "KORUMA",
+       "desc": "Juvenessence®, Hyadisine, Fucogel ve concentrated seawater ile yoğun nem ve sıkılaşma görünümünü destekler."
+      }
+     ]
+    },
+    {
+     "kind": "products",
+     "label": "EV DEVAM ÜRÜNLERİ",
+     "items": [
+      {
+       "name": "Marine Plasma Fresh Serum 50 ml",
+       "note": "",
+       "tag": "",
+       "desc": "Nem desteği sağlayarak cildin daha canlı ve dolgun görünmesine yardımcı olur.",
+       "features": [
+        "Nem desteği",
+        "Elastikiyet görünümünü destekler",
+        "Tüm cilt tiplerine uygundur"
+       ],
+       "image": "marine-fresh"
+      },
+      {
+       "name": "Marine Plasma Rich Serum 50 ml",
+       "note": "",
+       "tag": "",
+       "desc": "Yoğun nem desteği sağlayarak cildin daha canlı ve dolgun görünmesine yardımcı olur. AWARD BADGE MARINE PLASMA RICH SERUM, Malezya’da Sisters ve Beauty Trend dergilerinin düzenlediği Güzellik Ödülleri’nde 2016–2017 döneminin ‘En İyi Serum’ ödülünü kazanmıştır.",
+       "features": [
+        "Yoğun nem desteği",
+        "Elastikiyet görünümünü destekler",
+        "Kuru ve çok kuru cilt tiplerine uygundur"
+       ],
+       "image": null
+      },
+      {
+       "name": "Hydro Firming Cream 50 ml",
+       "note": "",
+       "tag": "",
+       "desc": "Nemsiz ve yorgun cilt görünümünü azaltmaya yardımcı günlük bakım kremi.",
+       "features": [
+        "Günlük bakım kullanımı",
+        "Daha canlı görünüm",
+        "Konforlu nem desteği",
+        "Tüm cilt tipleri için uygundur."
+       ],
+       "image": null
+      },
+      {
+       "name": "Nutri Firming Cream 50 ml",
+       "note": "",
+       "tag": "",
+       "desc": "Besleyici aktif içerikler ile cildin daha pürüzsüz ve sağlıklı görünmesine yardımcı olur.",
+       "features": [
+        "Yoğun bakım etkisi",
+        "Cilt bariyerini destekler",
+        "Kuru ve çok kuru ciltler için uygundur"
+       ],
+       "image": null
+      }
+     ]
+    },
+    {
+     "kind": "cta",
+     "text": "Profesyonel Ocean Miracle Treatment bakım uygulamaları hakkında detaylı bilgi almak için bizimle iletişime geçin.",
+     "button": "İLETİŞİME GEÇİN"
+    },
+    {
+     "kind": "usp",
+     "items": [
+      "PROFESYONEL FORMÜLASYON",
+      "YOĞUN NEM DESTEĞİ",
+      "BİYOTEKNOLOJİK AKTİFLER",
+      "MARINE TECHNOLOGY",
+      "TÜM CİLT TİPLERİNE UYGUN"
+     ]
+    }
+   ],
+   "short": "Ocean Miracle",
+   "accent": "#5a8b9b",
+   "tint": "#e9f1f3",
+   "hero": "ocean-pro",
+   "card": "marine-fresh",
+   "kind": "collection"
+  },
+  {
+   "title": "Shine Stop Beautyplan Treatment",
+   "slug": "shine-stop-beautyplan-treatment",
+   "tagline": "Parlama Karşıtı & Mat Görünüm Bakımı",
+   "sections": [
+    {
+     "kind": "hero",
+     "eyebrow": "PROFESYONEL BAKIM",
+     "title": "Shine Stop Beautyplan Treatment",
+     "subtitle": "Parlama Karşıtı & Mat Görünüm Bakımı",
+     "desc": [
+      "Yağlanma, parlama ve düzensiz cilt görünümü yaşayan ciltler için geliştirilen profesyonel bakım protokolü. Sebum dengeleyici aktifler, marine kompleksler ve biyoteknolojik içerikler ile cildin daha mat, dengeli ve pürüzsüz görünmesine yardımcı olur."
+     ],
+     "benefits": [
+      "Gözenek görünümünü azaltır",
+      "Parlama karşıtı bakım sağlar ve sebum dengesini destekler",
+      "Akne oluşumunu önlemeye yardımcı olur"
+     ]
+    },
+    {
+     "kind": "ingredients",
+     "items": [
+      {
+       "name": "AZELOGLICINA®",
+       "sub": "",
+       "desc": "Cildi arındırır ve temiz görünüm kazandırır."
+      },
+      {
+       "name": "LIPACIDE™ C8G",
+       "sub": "",
+       "desc": "Sebum dengesini ve gözenek görünümünü destekler."
+      },
+      {
+       "name": "SALICYLIC ACID",
+       "sub": "",
+       "desc": "Gözenekleri arındırır ve sebum dengesine yardımcı olur."
+      },
+      {
+       "name": "PURSLANE EXTRACT",
+       "sub": "",
+       "desc": "Cildi yatıştırmaya ve sakinleştirmeye yardımcı olur."
+      },
+      {
+       "name": "AMIPORINE®",
+       "sub": "",
+       "desc": "Cildin nem dengesini destekleyen aktif içerik."
+      }
+     ]
+    },
+    {
+     "kind": "protocol",
+     "steps": [
+      {
+       "n": "01",
+       "title": "TEMİZLEME",
+       "desc": "LIPACIDE®, salicylic acid ve purslane extract ile cildi derinlemesine arındırır; sebum dengesini destekler ve bakım uygulamasına hazırlar."
+      },
+      {
+       "n": "02",
+       "title": "PEELING",
+       "desc": "Salicylic acid içeren peeling jelidir. Keratin birikimini azaltarak cilt dokusunun yenilenmesini destekler."
+      },
+      {
+       "n": "03",
+       "title": "ONARICI BAKIM",
+       "desc": "AZELSOME®, Marine Affinisphere ve çinko glukonat ile sebum dengesini destekler, cildi yatıştırmaya yardımcı olur."
+      },
+      {
+       "n": "04",
+       "title": "YOĞUN NEMLENDİRME",
+       "desc": "Marine Affinisphere, AMIPORINE® ve Aqua Shuttle ile cildi yoğun nemlendirirken cilt kusurlarının görünümünü azaltmaya yardımcı olur."
+      },
+      {
+       "n": "05",
+       "title": "MASKE",
+       "desc": "Deniz yosunu özü ve yosun kumu ile formüle edilmiş soyulabilir maskedir. Sebum dengesini destekler ve cilde yoğun nem kazandırır."
+      },
+      {
+       "n": "06",
+       "title": "KORUMA",
+       "desc": "Aqua Shuttle, AMIPORINE® ve Marine Affinisphere ile yoğun nem desteği sunar, sebum dengesini korumaya yardımcı olur. SPF içeriğiyle bakım rutinini tamamlar."
+      }
+     ]
+    },
+    {
+     "kind": "products",
+     "label": "EV DEVAM ÜRÜNLERİ",
+     "items": [
+      {
+       "name": "Anti-Aging Sebo-Regulating Cream 50 ml",
+       "note": "",
+       "tag": "",
+       "desc": "Yağlı ve karma cilt görünümünü dengelemeye yardımcı günlük bakım kremi.",
+       "features": [
+        "Sebum dengeleme desteği",
+        "Mat görünüm sağlar",
+        "Yağlı ve olgun ciltler için uygundur"
+       ],
+       "image": null
+      },
+      {
+       "name": "Hydro Sebo-Regulating Gel Cream 50 ml",
+       "note": "",
+       "tag": "",
+       "desc": "Sebum görünümünü dengelemeye yardımcı hafif dokulu bakım kremi.",
+       "features": [
+        "Mat görünüm kazandırır",
+        "Cilt bariyerini destekler",
+        "Yağlı ve genç ciltler için uygundur"
+       ],
+       "image": null
+      },
+      {
+       "name": "Sebo-Control Anti-Blemish Gel 10 ml",
+       "note": "",
+       "tag": "",
+       "desc": "Lokal olarak uygulanan sivilce karşıtı bakım jeli.",
+       "features": [
+        "Günlük bakım için uygundur",
+        "Sivilce ve akne görünümünü azaltmaya yardımcı olur",
+        "Yağlı ve problemli ciltler için uygundur"
+       ],
+       "image": null
+      }
+     ]
+    },
+    {
+     "kind": "cta",
+     "text": "Profesyonel Shine Stop Beautyplan Treatment bakım uygulamaları hakkında detaylı bilgi almak için bizimle iletişime geçin.",
+     "button": "İLETİŞİME GEÇİN"
+    },
+    {
+     "kind": "usp",
+     "items": [
+      "PROFESYONEL FORMÜLASYON",
+      "SEBUM DENGELEYİCİ AKTİFLER",
+      "BİYOTEKNOLOJİK YAKLAŞIM",
+      "MAT GÖRÜNÜM DESTEĞİ",
+      "TÜM CİLT TİPLERİNE UYGUN"
+     ]
+    }
+   ],
+   "short": "Shine Stop",
+   "accent": "#7c7b80",
+   "tint": "#efeff0",
+   "hero": "shine-treatment",
+   "card": "shine-still",
+   "wide": "shine-still",
+   "kind": "collection"
+  },
+  {
+   "title": "Advanced Nácar Treatment",
+   "slug": "advanced-nacar-treatment",
+   "tagline": "",
+   "sections": [
+    {
+     "kind": "hero",
+     "eyebrow": "PROFESYONEL BAKIM",
+     "title": "Advanced Nácar Treatment",
+     "subtitle": "Advanced Nácar Beautyplan Premium",
+     "desc": [
+      "Gelişmiş aktif içeriklerle formüle edilen profesyonel bakım protokolü; koyu leke görünümünü azaltmaya, cilt tonunu eşitlemeye ve daha aydınlık bir cilt görünümü kazandırmaya yardımcı olur."
+     ],
+     "benefits": [
+      "Koyu lekelerin görünümünü azaltır",
+      "Cilt tonunu aydınlatır ve eşitler",
+      "Yaşlanma belirtilerine karşı bakım desteği sunar"
+     ]
+    },
+    {
+     "kind": "ingredients",
+     "items": [
+      {
+       "name": "NIACINAMIDE",
+       "sub": "",
+       "desc": "Cilt tonunu eşitler, leke görünümünü azaltmaya yardımcı olur."
+      },
+      {
+       "name": "ADVANCED ACID COMPLEX",
+       "sub": "Mandelic Acid, Tranexamic Acid, Liposomal Kojic Acid ve Citric Acid",
+       "desc": "Aydınlık, pürüzsüz ve eşit tonlu görünümü destekler."
+      },
+      {
+       "name": "ALLANTOIN",
+       "sub": "",
+       "desc": "Cildi yatıştırır, nemlendirir ve bariyeri destekler."
+      },
+      {
+       "name": "STOP SMS AGING",
+       "sub": "",
+       "desc": "Yaşlanma belirtilerine karşı bakım desteği sağlar."
+      },
+      {
+       "name": "GS LIGHT",
+       "sub": "",
+       "desc": "Leke görünümünü azaltır, cilt tonunu eşitlemeye yardımcı olur."
+      }
+     ]
+    },
+    {
+     "kind": "protocol",
+     "steps": [
+      {
+       "n": "01",
+       "title": "PEELING",
+       "desc": "Yüksek konsantrasyonlu asit kompleksi ile cilt yenilenmesini destekler; daha pürüzsüz, aydınlık ve bakıma hazır bir görünüm sağlar."
+      },
+      {
+       "n": "02",
+       "title": "NÖTRALİZASYON",
+       "desc": "Nötralize edici aktifler ile peeling sonrası cildin pH dengesini destekler ve cilde konfor kazandırır."
+      },
+      {
+       "n": "03",
+       "title": "YENİLEYİCİ BAKIM",
+       "desc": "Mandelic acid, tranexamic acid, liposomal kojic acid, okta-desenedioik asit ve mikroenkapsüle glabridin içeren formülüyle cilt tonunun eşitlenmesine ve leke görünümünün azalmasına yardımcı olur."
+      },
+      {
+       "n": "04",
+       "title": "YOĞUN NEMLENDİRME",
+       "desc": "Allantoin, tek hücreli alg Platy Monas Subcordiformis, kreatin ve Tazmanya özü ile cildin yenilenmesini, nem dengesini ve canlı görünümünü destekler."
+      },
+      {
+       "n": "05",
+       "title": "MASKE",
+       "desc": "Tazmanya özü ve Japon Sirrina kompleksi ile cildi yatıştırmaya, rahatlatmaya ve bakım sonrası konfor hissini artırmaya yardımcı olur."
+      },
+      {
+       "n": "06",
+       "title": "KORUMA",
+       "desc": "STOP SMS Aging, niacinamide, Thapsus kompleksi ve SPF 50 koruma desteği ile cildi çevresel faktörlere karşı destekler; daha aydınlık, eşit tonlu ve genç görünümlü bir cilt görünümüne katkı sağlar."
+      }
+     ]
+    },
+    {
+     "kind": "products",
+     "label": "EV DEVAM ÜRÜNLERİ",
+     "items": [
+      {
+       "name": "Clarifying Anti-Aging Cream SPF 50 50 ml",
+       "note": "",
+       "tag": "",
+       "desc": "Koyu leke görünümünü azaltmaya ve yeniden oluşumunu önlemeye yardımcı SPF 50 içerikli yaşlanma karşıtı aydınlatıcı krem. Sadece gündüz kullanılır.",
+       "features": [
+        "Leke karşıtı bakım",
+        "Cilt tonunu eşitler",
+        "Anti-aging bakım",
+        "SPF 50"
+       ],
+       "image": null
+      },
+      {
+       "name": "Clarifying Concentrated Serum 30 ml",
+       "note": "",
+       "tag": "",
+       "desc": "Tüm cilt tipleri için uygundur. Koyu lekeler, soluk ve düzensiz tonlu ciltler ve yaşlanma belirtileri ile mücadelede etkili bakım serumudur.",
+       "features": [
+        "Leke görünümünü azaltır",
+        "Cilt tonunu dengeler",
+        "Anti-aging bakım"
+       ],
+       "image": "serum-lightening"
+      }
+     ]
+    },
+    {
+     "kind": "cta",
+     "text": "Profesyonel Advanced Nácar Treatment bakım uygulamaları hakkında detaylı bilgi almak için bizimle iletişime geçin.",
+     "button": "İLETİŞİME GEÇİN"
+    },
+    {
+     "kind": "usp",
+     "items": [
+      "PROFESYONEL FORMÜLASYON",
+      "AYDINLATICI AKTİFLER",
+      "BİYOTEKNOLOJİK YAKLAŞIM",
+      "SPF 50",
+      "TÜM CİLT TİPLERİNE UYGUN"
+     ]
+    }
+   ],
+   "short": "Advanced Nácar",
+   "accent": "#a39079",
+   "tint": "#f4efe8",
+   "hero": "nacar-treatment",
+   "card": "nacar-treatment",
+   "kind": "collection"
+  },
+  {
+   "title": "Q10 Rescue Nutri Treatment",
+   "slug": "q10-rescue-nutri-treatment",
+   "tagline": "Q10 Rescue Beautyplan",
+   "sections": [
+    {
+     "kind": "hero",
+     "eyebrow": "PROFESYONEL BAKIM",
+     "title": "Q10 Rescue Nutri Treatment",
+     "subtitle": "Q10 Rescue Beautyplan",
+     "desc": [
+      "Yorgun, nemsiz, elastikiyet kaybı yaşayan ve çevresel faktörlerden etkilenen ciltler için geliştirilen profesyonel bakım protokolü. Coenzyme Q10, besleyici yağ kompleksleri ve biyoteknolojik aktifler ile cildin daha canlı, güçlü ve enerjik görünmesine yardımcı olur."
+     ],
+     "benefits": [
+      "Enerji desteği sağlar",
+      "Cilt bariyerini destekler",
+      "Daha dolgun görünüm kazandırır"
+     ]
+    },
+    {
+     "kind": "ingredients",
+     "items": [
+      {
+       "name": "SMART Q10 GPS TECHNOLOGY",
+       "sub": "",
+       "desc": "Q10 desteğiyle daha canlı ve enerjik görünüm sağlar."
+      },
+      {
+       "name": "ADVANCED NUTRICARE COMPLEX",
+       "sub": "",
+       "desc": "Besleyici yağlarla cildi yumuşatır ve konfor sağlar."
+      },
+      {
+       "name": "CHRONO BALANCE",
+       "sub": "",
+       "desc": "Gündüz ve gece cilt fonksiyonlarını destekler."
+      },
+      {
+       "name": "YENİ GENÇLİK",
+       "sub": "",
+       "desc": "Yaş alma etkilerine karşı cildi destekler."
+      },
+      {
+       "name": "COSMETIC RADIOFREQUENCY",
+       "sub": "",
+       "desc": "Cildin doğal yenilenme mekanizmalarını destekler."
+      }
+     ]
+    },
+    {
+     "kind": "protocol",
+     "steps": [
+      {
+       "n": "01",
+       "title": "TEMİZLEME",
+       "desc": "Süksinik asit ve biyoteknolojik enzim eksfoliyan ile cildi nazikçe yeniler, ölü hücreleri arındırır ve cilde enerji kazandırır."
+      },
+      {
+       "n": "02",
+       "title": "YENİLEYİCİ BAKIM",
+       "desc": "Nutricare kompleksi ile cildi derinlemesine besler, yaşlanma belirtilerinin görünümünü azaltmaya ve cildi korumaya yardımcı olur."
+      },
+      {
+       "n": "03",
+       "title": "ONARICI BAKIM",
+       "desc": "Q10 GPS teknolojisi ile cildin enerji üretimini destekler, cildi yeniden dengeleyerek canlılık kazandırır."
+      },
+      {
+       "n": "04",
+       "title": "YOĞUN NEMLENDİRME",
+       "desc": "Sıkılaşma ve kırışıklık karşıtı bakım sunar. Organik silikon ve C vitamini ile etkisi desteklenir."
+      },
+      {
+       "n": "05",
+       "title": "MASKE",
+       "desc": "Deniz yosunu özü, kreatin ve C vitamini içeren soyulabilir maske ile cilde yoğun nem, enerji ve aydınlık görünüm kazandırır."
+      },
+      {
+       "n": "06",
+       "title": "KORUMA",
+       "desc": "Nutricare kompleksi, argan, tsubaki ve macadamia yağları ile cildi yoğun şekilde besler, onarır ve enerji kazandırır."
+      }
+     ]
+    },
+    {
+     "kind": "products",
+     "label": "EV DEVAM ÜRÜNLERİ",
+     "items": [
+      {
+       "name": "Q10 Rescue Intensive Nutri Cream 50 ml",
+       "note": "",
+       "tag": "",
+       "desc": "Cildin daha canlı, güçlü ve pürüzsüz görünmesine yardımcı olan yoğun bakım kremi.",
+       "features": [
+        "Yoğun nem desteği",
+        "Olgun ve çok olgun cilt tiplerine uygundur",
+        "Kuru, cansız ve donuk ciltler için uygundur"
+       ],
+       "image": "q10-pack"
+      }
+     ]
+    },
+    {
+     "kind": "cta",
+     "text": "Profesyonel Q10 Rescue Nutri Treatment bakım uygulamaları hakkında detaylı bilgi almak için bizimle iletişime geçin.",
+     "button": "İLETİŞİME GEÇİN"
+    },
+    {
+     "kind": "usp",
+     "items": [
+      "PROFESYONEL FORMÜLASYON",
+      "SMART Q10 GPS TECHNOLOGY",
+      "OLGUN CİLT TİPLERİNE UYGUN"
+     ]
+    }
+   ],
+   "short": "Q10 Rescue",
+   "accent": "#b08a3c",
+   "tint": "#f6efe0",
+   "hero": "q10-treatment",
+   "card": "q10-pack",
+   "wide": "q10-banner",
+   "kind": "collection"
+  },
+  {
+   "title": "Purifying Beautyplan Treatment",
+   "slug": "purifying-beautyplan-treatment",
+   "tagline": "Oksijen Destekli Arındırıcı Bakım",
+   "sections": [
+    {
+     "kind": "hero",
+     "eyebrow": "PROFESYONEL BAKIM",
+     "title": "Purifying Treatment",
+     "subtitle": "Purifying Beautyplan",
+     "desc": [
+      "Şehir yaşamı ve çevresel faktörlerin cilt üzerindeki etkilerine karşı geliştirilen profesyonel arındırıcı bakım protokolü. Oksijen destekli aktifler, detoks kompleksleri ve biyoteknolojik içerikler ile cildin daha temiz, canlı ve dengeli bir görünüm kazanmasına yardımcı olur."
+     ],
+     "benefits": [
+      "Cildi arındırır",
+      "Daha canlı görünüm sağlar",
+      "Oksijen desteği sunar"
+     ]
+    },
+    {
+     "kind": "ingredients",
+     "items": [
+      {
+       "name": "OXYFORCE®",
+       "sub": "",
+       "desc": "Cilde canlı ve enerjik görünüm desteği sağlar."
+      },
+      {
+       "name": "RIBOXYL™",
+       "sub": "",
+       "desc": "Cildin solunumu destekler, canlı görünüm sağlar."
+      },
+      {
+       "name": "CHLORELLA DRONE-TECH",
+       "sub": "",
+       "desc": "Cilt fonksiyonlarını ve yenilenmiş görünümü destekler."
+      },
+      {
+       "name": "D+E CELL COMPLEX",
+       "sub": "",
+       "desc": "Cildin arınma sürecini destekler."
+      },
+      {
+       "name": "OXY-MOVER",
+       "sub": "",
+       "desc": "Cilde oksijen desteğiyle taze görünüm kazandırır."
+      }
+     ]
+    },
+    {
+     "kind": "protocol",
+     "steps": [
+      {
+       "n": "01",
+       "title": "PEELING",
+       "desc": "Tartarik asit, elma özü, citric acid ve limon özü ile cildi nazikçe arındırır; ölü hücrelerin uzaklaştırılmasını ve bakım uygulamasına hazırlanmasını destekler."
+      },
+      {
+       "n": "02",
+       "title": "TEMİZLEME",
+       "desc": "Potasyum, hidrolize protein, palmitik asit ve stearik asit ile gözenekleri arındırır; siyah nokta görünümünü azaltır ve cildi rahatlatır."
+      },
+      {
+       "n": "03",
+       "title": "OKSİJEN AKTİVASYONU",
+       "desc": "RIBOXYL® ve D-Ribose ile cilde yoğun oksijen desteği sağlayarak cildin enerji üretimini destekler."
+      },
+      {
+       "n": "04",
+       "title": "YOĞUN NEMLENDİRME",
+       "desc": "CHLORELLA DRONE-TECH, D+E Cell Complex ve OXY-MOVER ile hücre fonksiyonlarını destekler; toksinlerin uzaklaştırılmasına ve oksijen transferine katkı sağlar."
+      },
+      {
+       "n": "05",
+       "title": "MASKE",
+       "desc": "Deniz yosunu kumu ve nane özü ile cildi canlandırır; nem ve oksijen desteği sağlayarak daha canlı bir görünüm kazandırır."
+      },
+      {
+       "n": "06",
+       "title": "KORUMA",
+       "desc": "Macadamia yağı ve RIBOXYL® ile cildi yoğun şekilde nemlendirir, besler ve oksijen desteği sağlar."
+      }
+     ]
+    },
+    {
+     "kind": "products",
+     "label": "EV DEVAM ÜRÜNLERİ",
+     "items": [
+      {
+       "name": "Oxygenating Serum 50 ml",
+       "note": "",
+       "tag": "",
+       "desc": "Saf oksijen içeren, cildin daha canlı ve ferah görünmesine yardımcı nemlendirici serum.",
+       "features": [
+        "Oksijen desteği sağlar",
+        "Yoğun nem desteği sunar",
+        "Tüm cilt tipleri için uygundur"
+       ],
+       "image": null
+      },
+      {
+       "name": "Oxygenating Moisturizing Cream 50 ml",
+       "note": "",
+       "tag": "",
+       "desc": "Normal ve karma ciltler için geliştirilmiş hafif dokulu nemlendirici bakım kremi.",
+       "features": [
+        "Nem desteği sağlar",
+        "Hafif dokuya sahiptir",
+        "Normal ve karma ciltler için uygundur"
+       ],
+       "image": null
+      },
+      {
+       "name": "Oxygenating Nourishing Cream 50 ml",
+       "note": "",
+       "tag": "",
+       "desc": "Kuru ve normal ciltler için geliştirilmiş zengin dokulu besleyici bakım kremi.",
+       "features": [
+        "Yoğun besleyici bakım sağlar",
+        "Cilt konforunu destekler",
+        "Kuru ve normal ciltler için uygundur"
+       ],
+       "image": null
+      }
+     ]
+    },
+    {
+     "kind": "cta",
+     "text": "Profesyonel Purifying Beautyplan Treatment bakım uygulamaları hakkında detaylı bilgi almak için bizimle iletişime geçin.",
+     "button": "İLETİŞİME GEÇİN"
+    },
+    {
+     "kind": "usp",
+     "items": [
+      "PROFESYONEL FORMÜLASYON",
+      "OKSİJEN TRANSFER TEKNOLOJİSİ",
+      "BİYOTEKNOLOJİK YAKLAŞIM",
+      "TÜM CİLT TİPLERİNE UYGUN"
+     ]
+    }
+   ],
+   "short": "Purifying",
+   "accent": "#6f9a83",
+   "tint": "#eaf2ed",
+   "hero": "purifying-still",
+   "card": "purifying-cleanser",
+   "kind": "collection"
+  },
+  {
+   "title": "Retinol Proage Treatment",
+   "slug": "retinol-proage-treatment",
+   "tagline": "",
+   "sections": [
+    {
+     "kind": "hero",
+     "eyebrow": "PROFESYONEL BAKIM",
+     "title": "Retinol Proage Treatment",
+     "subtitle": "Retinol Proage Beautyplan",
+     "desc": [
+      "Pure retinol ve RETI-BOOST teknolojisi ile geliştirilen profesyonel retinizasyon bakım protokolü; cilt yenilenmesini desteklemeye, kırışıklık görünümünü azaltmaya ve daha sıkı bir cilt görünümü kazandırmaya yardımcı olur."
+     ],
+     "benefits": [
+      "Cilt yenilenmesini destekler",
+      "Daha sıkı ve pürüzsüz bir cilt görünümü sağlar",
+      "Leke ve kırışıklık görünümünü azaltır"
+     ]
+    },
+    {
+     "kind": "ingredients",
+     "items": [
+      {
+       "name": "PURE RETINOL",
+       "sub": "",
+       "desc": "Cilt yenilenmesini ve kırışıklık görünümünün azalmasını destekler."
+      },
+      {
+       "name": "RETI-BOOST",
+       "sub": "",
+       "desc": "Retinol etkinliğini destekleyen biyoteknolojik komplekstir."
+      },
+      {
+       "name": "BAKUCHIOL",
+       "sub": "",
+       "desc": "Elastikiyet görünümünü destekler, hassasiyet riskini azaltmaya yardımcı olur."
+      },
+      {
+       "name": "GROWTH FACTORS",
+       "sub": "",
+       "desc": "Cilt yenilenmesini destekleyen biyomoleküler bakım teknolojisi."
+      },
+      {
+       "name": "STABILIZED VITAMIN C",
+       "sub": "",
+       "desc": "Aydınlık, canlı ve eşit tonlu görünüm sağlar."
+      },
+      {
+       "name": "SQUALANE",
+       "sub": "",
+       "desc": "Cildi besler, nem bariyerini ve yumuşaklığı destekler."
+      }
+     ]
+    },
+    {
+     "kind": "protocol",
+     "steps": [
+      {
+       "n": "01",
+       "title": "TEMİZLEME",
+       "desc": "Pirinç yağı, makademya cevizi yağı, meyan kökü ve squalane ile cildi besler, nemlendirir ve bakım uygulamasına hazırlar."
+      },
+      {
+       "n": "02",
+       "title": "YENİLEME",
+       "desc": "Growth factors, proteoglikanlar, hyaluronic acid ve Hydra+ kompleksi ile cilt yenilenmesini, sıkılık ve elastikiyet görünümünü destekler."
+      },
+      {
+       "n": "03",
+       "title": "RETİNİZASYON",
+       "desc": "Pure retinol (%0,15 & %0,30), hyaluronic acid, squalane ve soya özü ile cilt dokusunun yenilenmesine, kırışıklık ve leke görünümünün azalmasına yardımcı olur."
+      },
+      {
+       "n": "04",
+       "title": "YOĞUN NEMLENDİRME",
+       "desc": "RETI-BOOST, bakuchiol ve C vitamini ile retinol bakım etkisini destekler; cildin daha pürüzsüz, canlı ve dengeli görünmesine katkı sağlar."
+      },
+      {
+       "n": "05",
+       "title": "MASKE",
+       "desc": "Vitamin B12 içeren Algae Peel-Off maske ile cildi yatıştırır, konfor hissi sağlar ve aktif içeriklerin bakım etkisini destekler."
+      },
+      {
+       "n": "06",
+       "title": "KORUMA",
+       "desc": "Bakuchiol, C vitamini, hyaluronic acid ve SPF 50 koruma desteği ile cildi korur, nemlendirir ve yaşlanma belirtilerinin görünümünü azaltmaya yardımcı olur."
+      }
+     ]
+    },
+    {
+     "kind": "products",
+     "label": "EV DEVAM ÜRÜNLERİ",
+     "items": [
+      {
+       "name": "Retinol Proage Renewal Day Cream SPF 50 50 ml",
+       "note": "",
+       "tag": "",
+       "desc": "Cildi nemlendirmeye, korumaya ve yaşlanma belirtilerinin görünümünü azaltmaya yardımcı olur.",
+       "features": [
+        "Gündüz kullanımı için uygundur",
+        "Fotoyaşlanma görünümüne karşı destek sağlar",
+        "Koyu leke ve kırışıklık görünümünü azaltmaya yardımcı olur",
+        "Tüm cilt tipleri için uygundur"
+       ],
+       "image": null
+      },
+      {
+       "name": "Retinol Proage Renewal Night Cream - 0.15% & 0.30% 30 ml",
+       "note": "",
+       "tag": "",
+       "desc": "Gece boyunca cilt yenilenmesini destekler, kırışıklık ve koyu leke görünümünün azalmasına katkı sağlar.",
+       "features": [
+        "Gece bakımına uygundur",
+        "Koyu leke görünümünü azaltmaya yardımcı olur",
+        "Cildi sıkılaştırmaya ve nemlendirmeye yardımcı olur",
+        "Tüm cilt tipleri için uygundur"
+       ],
+       "image": null
+      }
+     ]
+    },
+    {
+     "kind": "cta",
+     "text": "Profesyonel Retinol Proage Treatment bakım uygulamaları hakkında detaylı bilgi almak için bizimle iletişime geçin.",
+     "button": "İLETİŞİME GEÇİN"
+    },
+    {
+     "kind": "usp",
+     "items": [
+      "PROFESYONEL FORMÜLASYON",
+      "PURE RETINOL",
+      "RETI-BOOST TEKNOLOJİSİ",
+      "SPF 50",
+      "TÜM CİLT TİPLERİNE UYGUN"
+     ]
+    }
+   ],
+   "short": "Retinol Proage",
+   "accent": "#5c2440",
+   "tint": "#f2e8ec",
+   "hero": "retinol-hero",
+   "card": "retinol-hero",
+   "kind": "collection"
+  },
+  {
+   "title": "Eye Perfection Beautyplan Treatment",
+   "slug": "eye-perfection-beautyplan-treatment",
+   "tagline": "Göz Çevresi Yenileyici Bakım",
+   "sections": [
+    {
+     "kind": "hero",
+     "eyebrow": "PROFESYONEL BAKIM",
+     "title": "Eye Perfection Treatment",
+     "subtitle": "Eye Perfection Beautyplan Premium",
+     "desc": [
+      "Göz çevresindeki yorgun görünüm, ince çizgiler, koyu halka ve göz kapağı sarkmaları yaşayan ciltler için geliştirilen profesyonel bakım protokolü. Biyoteknolojik aktifler, peptit kompleksleri ve yoğun nem desteği ile göz çevresinin daha aydınlık, canlı ve pürüzsüz görünmesine yardımcı olur."
+     ],
+     "benefits": [
+      "Koyu halka görünümünü azaltır",
+      "Göz çevresini canlandırır",
+      "İnce çizgi görünümünü azaltır"
+     ]
+    },
+    {
+     "kind": "ingredients",
+     "items": [
+      {
+       "name": "GROWTH FACTORS",
+       "sub": "",
+       "desc": "Cilt yenilenmesini destekleyen biyomoleküler bakım teknolojisi."
+      },
+      {
+       "name": "B-TECH KOMPLEKSİ",
+       "sub": "",
+       "desc": "Göz çevresinin canlı ve dinlenmiş görünmesini destekler."
+      },
+      {
+       "name": "RETINOL-V",
+       "sub": "",
+       "desc": "İnce çizgi ve kırışıklık görünümünü azaltmaya destek olur."
+      }
+     ]
+    },
+    {
+     "kind": "protocol",
+     "steps": [
+      {
+       "n": "01",
+       "title": "TEMİZLEME",
+       "desc": "Enzimatik ve mekanik peeling etkisiyle göz çevresini nazikçe yeniler, sonraki bakım aşamalarına hazırlar."
+      },
+      {
+       "n": "02",
+       "title": "YENİLEME",
+       "desc": "5 bitki özü içeren B-Tech Complex ile göz çevresine canlılık kazandırmayı destekler."
+      },
+      {
+       "n": "03",
+       "title": "MASKE",
+       "desc": "Salatalık özü, Ginkgo Biloba, Ginseng ve Guarana ile göz çevresini canlandırır, yorgunluk görünümünü azaltır."
+      },
+      {
+       "n": "04",
+       "title": "YOĞUN NEMLENDİRME",
+       "desc": "Growth factors, lifting kompleksi ve stevia özü ile sıkılaşmayı destekler, ince çizgi görünümünü azaltmaya yardımcı olur."
+      },
+      {
+       "n": "05",
+       "title": "MASKE",
+       "desc": "Göz çevresini canlandırır, nem ve aydınlık görünümünü destekler."
+      },
+      {
+       "n": "06",
+       "title": "KORUMA",
+       "desc": "Retinol-like, lipozomal Vitamin K1 oksit ve botanik biyomolekül kompleksi ile göz çevresini besler, daha pürüzsüz ve genç bir görünüm kazandırmaya yardımcı olur."
+      }
+     ]
+    },
+    {
+     "kind": "products",
+     "label": "EV DEVAM ÜRÜNLERİ",
+     "items": [
+      {
+       "name": "Eye Contour Anti-Wrinkle 15 ml",
+       "note": "",
+       "tag": "",
+       "desc": "Göz çevresinin daha aydınlık, canlı ve pürüzsüz görünmesine yardımcı bakım kremi.",
+       "features": [
+        "Yoğun nem desteği",
+        "Göz çevresi kırışıklık görünümünü azaltmaya yardımcı olur",
+        "Tüm cilt tiplerine uygundur"
+       ],
+       "image": null
+      },
+      {
+       "name": "Eye Contour Anti-Puffiness & Dark Circles 15 ml",
+       "note": "",
+       "tag": "",
+       "desc": "Göz altındaki şişlik, koyu halka ve yorgun görünümü azaltmaya yardımcı bakım kremi.",
+       "features": [
+        "Koyu halka görünümünü azaltır",
+        "Göz altı şişliği görünümünü azaltır",
+        "Tüm cilt tipleri için uygundur"
+       ],
+       "image": null
+      }
+     ]
+    },
+    {
+     "kind": "cta",
+     "text": "Profesyonel Eye Perfection Beautyplan Treatment bakım uygulamaları hakkında detaylı bilgi almak için bizimle iletişime geçin.",
+     "button": "İLETİŞİME GEÇİN"
+    },
+    {
+     "kind": "usp",
+     "items": [
+      "PROFESYONEL FORMÜLASYON",
+      "PEPTİT DESTEKLİ AKTİFLER",
+      "BİYOTEKNOLOJİK YAKLAŞIM",
+      "GÖZ ÇEVRESİ BAKIMI",
+      "TÜM CİLT TİPLERİNE UYGUN"
+     ]
+    }
+   ],
+   "short": "Eye Perfection",
+   "accent": "#868a96",
+   "tint": "#eef0f3",
+   "hero": "eye-pro",
+   "card": "eye-retail",
+   "wide": "eye-retail",
+   "kind": "collection"
+  },
+  {
+   "title": "Süper Konsantre Serumlar",
+   "slug": "super-konsantre-serumlar",
+   "tagline": "Cildiniz için etkileyici sonuçlar sunan süper konsantre formüller koleksiyonu.",
+   "sections": [
+    {
+     "kind": "hero",
+     "eyebrow": "",
+     "title": "Süper Konsantre Serumlar",
+     "subtitle": "",
+     "desc": [
+      "Super Concentrates’in gücünü keşfedin: Cildiniz için sonuç vadeden güçlü aktif içerik kombinasyonlarıyla zenginleştirilmiş, hafif ve hızlı emilen üç formülden oluşan bir koleksiyon. Bu süper konsantreler yalnızca etkileyici cilt bakım faydaları sunmakla kalmaz, aynı zamanda hoş dokulara ve aromalara da sahiptir."
+     ],
+     "benefits": [
+      "Hafif ve hızlı emilen formüller",
+      "Konsantre aktif içerikler",
+      "Hedefe yönelik bakım desteği"
+     ]
+    },
+    {
+     "kind": "ingredients",
+     "items": [
+      {
+       "name": "Blue Chamomile",
+       "sub": "",
+       "desc": "Cildin daha sakin, konforlu ve dengeli görünmesini destekleyen bitkisel aktif içerik."
+      },
+      {
+       "name": "Lipoic Acid",
+       "sub": "",
+       "desc": "Antioksidan bakım desteği sunarak cildi çevresel faktörlere karşı destekler ve daha canlı bir görünüm kazandırmaya yardımcı olur."
+      },
+      {
+       "name": "White Rose",
+       "sub": "",
+       "desc": "Cilde ferahlık, yumuşaklık ve ışıltılı görünüm desteği sağlayan bitkisel içerik."
+      },
+      {
+       "name": "Hyaluronik 4D",
+       "sub": "",
+       "desc": "Cildin nem dengesini destekleyerek daha dolgun, pürüzsüz ve nemli bir görünüm sağlamaya yardımcı olur."
+      },
+      {
+       "name": "Z-Marine",
+       "sub": "",
+       "desc": "Deniz kaynaklı bakım desteğiyle cildin daha taze, canlı ve dengeli görünmesine katkı sağlar."
+      },
+      {
+       "name": "Madagascar Extract",
+       "sub": "",
+       "desc": "Cildin daha sıkı, toparlanmış ve enerjik görünmesini destekleyen bitkisel aktif içerik."
+      }
+     ]
+    },
+    {
+     "kind": "products",
+     "label": "ÜRÜN GRUBU",
+     "items": [
+      {
+       "name": "4D Powerlift Super Concentrate",
+       "note": "",
+       "tag": "",
+       "desc": "Cildin daha sıkı, dolgun ve pürüzsüz görünmesine yardımcı yoğun bakım konsantresi.",
+       "features": [
+        "Sıkılık görünümünü destekler",
+        "Yoğun nem ve dolgunluk sağlar",
+        "Tüm cilt tiplerine uygundur"
+       ],
+       "image": null
+      },
+      {
+       "name": "Rose D-Tox Super Concentrate",
+       "note": "",
+       "tag": "",
+       "desc": "Cildin daha canlı, dengeli ve arınmış görünmesine yardımcı konsantre bakım serumu.",
+       "features": [
+        "Antioksidan bakım desteği",
+        "Canlı görünüm sağlar",
+        "Yorgun cilt görünümünü destekler",
+        "Tüm cilt tiplerine uygundur"
+       ],
+       "image": null
+      }
+     ]
+    },
+    {
+     "kind": "effects",
+     "items": [
+      {
+       "title": "Arınmış Görünüm Desteği",
+       "desc": "Ciltteki kir ve kalıntı görünümünün azalmasına yardımcı olarak daha temiz ve taze bir cilt görünümünü destekler."
+      },
+      {
+       "title": "Antioksidan Bakım",
+       "desc": "Cildi çevresel faktörlere karşı destekler ve daha canlı, enerjik bir görünüm kazandırmaya yardımcı olur."
+      },
+      {
+       "title": "Yoğun Nem ve Dolgunluk",
+       "desc": "Nem desteğiyle cildin daha dolgun, pürüzsüz ve konforlu görünmesine katkı sağlar."
+      },
+      {
+       "title": "Sıkı Görünüm Desteği",
+       "desc": "Cildin daha sıkı, toparlanmış ve genç görünümlü bir yapıya kavuşmasına yardımcı olur."
+      }
+     ]
+    },
+    {
+     "kind": "cta",
+     "text": "Profesyonel Süper Konsantre Serumlar bakım uygulamaları hakkında detaylı bilgi almak için bizimle iletişime geçin.",
+     "button": "İLETİŞİME GEÇİN"
+    },
+    {
+     "kind": "usp",
+     "items": [
+      "HAFİF VE HIZLI EMİLEN FORMÜLLER",
+      "KONSANTRE AKTİF İÇERİKLER",
+      "HEDEFE YÖNELİK BAKIM",
+      "PROFESYONEL BAKIM DESTEĞİ"
+     ]
+    }
+   ],
+   "short": "Süper Konsantre Serumlar",
+   "accent": "#6c4a86",
+   "tint": "#f0eaf4",
+   "hero": "serum-o2",
+   "card": "serum-o2",
+   "kind": "collection"
+  },
+  {
+   "title": "Temizleme Serisi",
+   "slug": "temizleme-serisi",
+   "tagline": "Cildin ihtiyaç duyduğu günlük arındırma, dengeleme ve oksijen desteğini sağlamak üzere geliştirilen profesyonel temizleme ürünleri koleksiyonu.",
+   "sections": [
+    {
+     "kind": "hero",
+     "eyebrow": "",
+     "title": "Temizleme Serisi",
+     "subtitle": "",
+     "desc": [
+      "Nazik ama etkili formülleri sayesinde cildi arındırırken cilt bariyerinin korunmasına yardımcı olur ve bakım uygulamalarına hazırlanmasını destekler."
+     ],
+     "benefits": []
+    },
+    {
+     "kind": "products",
+     "label": "ÜRÜNLER",
+     "items": [
+      {
+       "name": "3 in 1 Cleanser Deep Cleansing Green Tea",
+       "note": "Sisters ve Beauty Trend Malaysia tarafından düzenlenen Beauty Awards’ta 2017/2018 Yılının En İyi Yüz Temizleyicisi seçilmiştir.",
+       "tag": "",
+       "desc": "Yeşil çay özü ve ipek protein peptitleri ile formüle edilen çok fonksiyonlu temizleyici; cildi nazikçe arındırmaya, tonik etkisi sağlamaya ve makyaj kalıntılarını temizlemeye yardımcı olur.",
+       "features": [
+        "Cildi temizler",
+        "Makyaj kalıntılarını arındırır",
+        "Tonik etkisi sağlar",
+        "Tüm cilt tipleri için uygundur"
+       ],
+       "inci": {
+        "label": "İçerik",
+        "value": "Green Tea Extract, Silk Protein Peptides"
+       },
+       "image": "cleanser-deep"
+      },
+      {
+       "name": "Detox Cleanser",
+       "note": "",
+       "tag": "",
+       "desc": "Sebum dengesini desteklemeye yardımcı arındırıcı temizleme jeli. Yağlı, karma ve problemli cilt görünümüne yönelik geliştirilmiştir.",
+       "features": [
+        "Sebum dengesini destekler",
+        "Arındırır",
+        "Cilt görünümünü dengelemeye yardımcı olur",
+        "Yağlı, karma ve problemli ciltler için uygundur"
+       ],
+       "inci": {
+        "label": "İçerik",
+        "value": "Salicylic Acid, Purslane Extract"
+       },
+       "image": null
+      },
+      {
+       "name": "Three Action Peeling",
+       "note": "",
+       "tag": "",
+       "desc": "Üç farklı asit kombinasyonu ile geliştirilen peeling uygulaması; cildi ölü hücrelerden arındırmaya ve daha pürüzsüz bir görünüm kazandırmaya yardımcı olur.",
+       "features": [
+        "Derinlemesine temizler",
+        "Cilt yenilenmesini destekler",
+        "Pürüzsüz görünüm sağlar",
+        "Tüm cilt tipleri için uygundur"
+       ],
+       "inci": {
+        "label": "İçerik",
+        "value": "Glycolic Acid, Lactic Acid, Salicylic Acid"
+       },
+       "image": null
+      },
+      {
+       "name": "Oxygenating Mask",
+       "note": "",
+       "tag": "",
+       "desc": "Mat ve yorgun cilt görünümünü canlandırmaya yardımcı oksijen destekli bakım maskesi. Cilde ferahlık ve enerji kazandırmaya destek olur.",
+       "features": [
+        "Oksijen desteği",
+        "Canlandırıcı etki",
+        "Ferahlık hissi",
+        "Tüm cilt tipleri için uygundur"
+       ],
+       "inci": {
+        "label": "İçerik",
+        "value": "Riboxyl®, Avocado Oil, Surfactant"
+       },
+       "image": null
+      }
+     ]
+    },
+    {
+     "kind": "cta",
+     "text": "Profesyonel Temizleme Serisi bakım uygulamaları hakkında detaylı bilgi almak için bizimle iletişime geçin.",
+     "button": "İLETİŞİME GEÇİN"
+    },
+    {
+     "kind": "usp",
+     "items": [
+      "GÜNLÜK ARINDIRMA DESTEĞİ",
+      "CİLT BARİYERİNE SAYGILI FORMÜLLER",
+      "TÜM CİLT TİPLERİNE UYGUN SEÇENEKLER",
+      "BAKIMA HAZIRLAYAN TEMİZLEME"
+     ]
+    }
+   ],
+   "short": "Temizleme Serisi",
+   "accent": "#7e9a83",
+   "tint": "#edf3ee",
+   "hero": "cleansers-banner",
+   "card": "cleanser-deep",
+   "wide": "cleanser-balancing",
+   "kind": "collection"
+  },
+  {
+   "title": "Profesyonel Kimyasal Peeling",
+   "slug": "profesyonel-kimyasal-peeling",
+   "tagline": "Profesyonel kimyasal peeling sistemi; cilt yenilenmesini desteklemeye, ölü hücreleri arındırmaya ve daha pürüzsüz, dengeli bir cilt görünümü kazandırmaya yardımcı olur.",
+   "sections": [
+    {
+     "kind": "hero",
+     "eyebrow": "",
+     "title": "Profesyonel Kimyasal Peeling",
+     "subtitle": "",
+     "desc": [
+      "Cilt yüzeyindeki ölü hücrelerin arındırılmasına, cilt dokusunun daha pürüzsüz görünmesine ve cilt tonunun eşitlenmesine yardımcı profesyonel bakım sistemidir."
+     ],
+     "benefits": [
+      "Cilt yenilenmesini destekler",
+      "Daha pürüzsüz ve aydınlık bir görünüm sağlar",
+      "Cilt tonunun eşitlenmesine yardımcı olur"
+     ]
+    },
+    {
+     "kind": "products",
+     "label": "PEEL SEÇENEKLERİ",
+     "items": [
+      {
+       "name": "[ P.S.F ] Peel",
+       "note": "",
+       "tag": "",
+       "desc": "Lekeli ciltler ve yaşlanma belirtileri için geliştirilmiş yenileyici peeling çözümü.",
+       "features": [
+        "Kırışıklık görünümünü azaltmaya yardımcı olur",
+        "Cilt dokusunun yenilenmesini destekler",
+        "Daha sıkı ve pürüzsüz bir görünüm sağlar",
+        "Leke görünümünü azaltır ve cilt tonunu eşitler"
+       ],
+       "inci": {
+        "label": "Aktif Asitler",
+        "value": "Pyruvic Acid %15, Succinic Acid %5, Ferulic Acid %5"
+       },
+       "image": null
+      },
+      {
+       "name": "[ S.A.S ] Peel",
+       "note": "",
+       "tag": "",
+       "desc": "Yağlı, akne eğilimli ve problemli ciltler için geliştirilmiş arındırıcı peeling çözümü.",
+       "features": [
+        "Cildi arındırır",
+        "Gözenek görünümünü azaltmaya yardımcı olur",
+        "Sebum dengesini sağlar",
+        "Cilt dokusunu pürüzsüzleştirmeye yardımcı olur"
+       ],
+       "inci": {
+        "label": "Aktif Asitler",
+        "value": "Shikimic Acid %10, Azelaic Acid %12, Salicylic Acid %2"
+       },
+       "image": null
+      }
+     ]
+    },
+    {
+     "kind": "protocol",
+     "steps": [
+      {
+       "n": "01",
+       "title": "TEMİZLEME",
+       "desc": "Pre-Treatment Preparing Lotion uygulanarak cilt arındırılır ve peeling uygulamasına hazırlanır."
+      },
+      {
+       "n": "02",
+       "title": "PEELING",
+       "desc": "Cilt ihtiyacına göre [P.S.F] Peel veya [S.A.S] Peel uygulanarak kontrollü eksfoliasyon sağlanır."
+      },
+      {
+       "n": "03",
+       "title": "NÖTRALİZASYON",
+       "desc": "Post-Peel Neutralizing Solution ile peeling etkisi dengelenir ve cilt rahatlatılır."
+      },
+      {
+       "n": "04",
+       "title": "YOĞUN NEMLENDİRME",
+       "desc": "[H.S] Peel Booster uygulanarak cildin yenilenme süreci desteklenir."
+      },
+      {
+       "n": "05",
+       "title": "MASKE",
+       "desc": "Cilt ihtiyacına göre Novanew Mask veya Sensitive Mask uygulanarak cildin nem ve konfor dengesinin desteklenmesine yardımcı olunur."
+      },
+      {
+       "n": "06",
+       "title": "KORUMA (GÜNEŞ KREMİ)",
+       "desc": "Bakım, Advanced Nácar Treatment’in ev devam ürünü olan Clarifying Anti-Aging Cream SPF 50 ile tamamlanır ve cilt korunur."
+      }
+     ]
+    },
+    {
+     "kind": "cta",
+     "text": "Profesyonel Kimyasal Peeling bakım uygulamaları hakkında detaylı bilgi almak için bizimle iletişime geçin.",
+     "button": "İLETİŞİME GEÇİN"
+    },
+    {
+     "kind": "usp",
+     "items": [
+      "PROFESYONEL PEELING SİSTEMİ",
+      "KONTROLLÜ EKSFOLİASYON",
+      "CİLT TONU EŞİTLEME DESTEĞİ",
+      "PÜRÜZSÜZ GÖRÜNÜM",
+      "PROFESYONEL UYGULAMA"
+     ]
+    }
+   ],
+   "short": "Kimyasal Peeling",
+   "accent": "#8d6a4c",
+   "tint": "#f4ece4",
+   "hero": "peel-home",
+   "card": "peel-case",
+   "wide": "peel-booster",
+   "kind": "collection"
+  },
+  {
+   "title": "Algae Peel-Off Maske Koleksiyonu",
+   "slug": "algae-peel-off-maske-koleksiyonu",
+   "tagline": "1979’dan beri geliştirilen orijinal Algae Peel-Off Maske teknolojisi.",
+   "sections": [
+    {
+     "kind": "hero",
+     "eyebrow": "",
+     "title": "Algae Peel-Off Facial Mask Collection",
+     "subtitle": "",
+     "desc": [
+      "CASMARA’nın deniz yosunu bazlı Peel-Off Maskeleri, profesyonel cilt bakımında uzun yıllardır tercih edilen özel bir bakım konseptidir. Deniz yosunu kumu ve hedefe yönelik aktif içeriklerin birleşimiyle formüle edilen bu maskeler, farklı cilt ihtiyaçlarına yönelik profesyonel çözümler sunar.",
+      "Tek parça halinde soyulabilen özel yapısı sayesinde cilt yüzeyine kusursuz şekilde uyum sağlar ve uygulama öncesinde kullanılan aktif içeriklerin etkisini desteklemeye yardımcı olur. Göz çevresi ve dudaklar dahil tüm yüze uygulanabilmesi, geleneksel maskelerin ulaşamadığı bölgelere de bakım sağlamasına olanak tanır.",
+      "Ferahlatıcı etkisi sayesinde cilt sıcaklığının 6°C’ye kadar azalmasına yardımcı olur. Bu etki, cildin daha konforlu hissedilmesini desteklerken bakım sonrasında daha canlı, dengeli ve yenilenmiş bir görünüm kazandırmaya katkı sağlar."
+     ],
+     "benefits": []
+    },
+    {
+     "kind": "products",
+     "label": "MASKE SEÇENEKLERİ",
+     "items": [
+      {
+       "name": "Gold Mask",
+       "note": "",
+       "tag": "Canlandırıcı & Yenileyici",
+       "desc": "Altın ve mineraller ile formüle edilen bu maske, cilde daha canlı, aydınlık ve yenilenmiş bir görünüm kazandırmaya yardımcı olur.",
+       "features": [],
+       "inci": {
+        "label": "İçerik",
+        "value": "Altın, Mineraller"
+       },
+       "image": null
+      },
+      {
+       "name": "Reaffirming Mask 2020",
+       "note": "",
+       "tag": "Karma & Yağlı",
+       "desc": "Deniz yosunu özü, eser elementler ve amino asitler ile formüle edilen bu maske, fazla sebum görünümünü dengelemeye ve cildi arındırmaya yardımcı olur.",
+       "features": [],
+       "inci": {
+        "label": "İçerik",
+        "value": "Amino Acids, Trace Elements, Aloin"
+       },
+       "image": null
+      },
+      {
+       "name": "Vitamin Vegetable Mask",
+       "note": "",
+       "tag": "Vitamin Desteği",
+       "desc": "Vitamin C ve dereotu ile formüle edilmiş bu maske, cilt elastikiyetini ve sıkılığını desteklemeye yardımcı olur.",
+       "features": [],
+       "inci": {
+        "label": "İçerik",
+        "value": "Vitamin C, Dill"
+       },
+       "image": null
+      },
+      {
+       "name": "Sensitive Mask",
+       "note": "",
+       "tag": "Hassas Ciltler & Yatıştırıcı Etki",
+       "desc": "Oat ve menekşe özü ile formüle edilmiş bu maske, hassas ciltler için özel olarak geliştirilmiştir.",
+       "features": [],
+       "inci": {
+        "label": "İçerik",
+        "value": "Oat, Violet Extract"
+       },
+       "image": null
+      },
+      {
+       "name": "Novanew Mask 2045",
+       "note": "",
+       "tag": "Yüksek Nem",
+       "desc": "Glucose ile formüle edilmiş bu maske, cildin doğal nem dengesini desteklemeye yardımcı olur.",
+       "features": [],
+       "inci": {
+        "label": "İçerik",
+        "value": "Glucose"
+       },
+       "image": null
+      },
+      {
+       "name": "RGnerin Mask 2055",
+       "note": "",
+       "tag": "Hücre Yenileyici & Botoks Etki",
+       "desc": "Aloe Vera ve keten tohumu ile formüle edilmiş bu maske, cildin nem seviyesini desteklemeye yardımcı olur.",
+       "features": [],
+       "inci": {
+        "label": "İçerik",
+        "value": "Aloe Vera, Flaxseed"
+       },
+       "image": null
+      },
+      {
+       "name": "Re6tense Mask 2060",
+       "note": "",
+       "tag": "Sıkılaştırıcı & Yenileyici",
+       "desc": "Kiwi özü ve haşhaş tohumu ile formüle edilmiş bu maske, cildin daha sıkı ve canlı görünmesine yardımcı olur.",
+       "features": [],
+       "inci": {
+        "label": "İçerik",
+        "value": "Kiwi, Poppy Seed"
+       },
+       "image": null
+      },
+      {
+       "name": "Goji Mask 2070",
+       "note": "",
+       "tag": "Antioksidan & Koruyucu",
+       "desc": "Goji Berry özü ve kinoa tohumu ile formüle edilmiş bu maske, cildi serbest radikallere karşı korumaya yardımcı olur.",
+       "features": [],
+       "inci": {
+        "label": "İçerik",
+        "value": "Goji Berry, Quinoa Seed"
+       },
+       "image": null
+      },
+      {
+       "name": "Green Mask 2025",
+       "note": "",
+       "tag": "Oksijen Desteği",
+       "desc": "A ve C vitaminleri, potasyum, magnezyum, kalsiyum, fosfor ve demir açısından zengin nane ile formüle edilmiş bir maskedir.",
+       "features": [],
+       "inci": {
+        "label": "İçerik",
+        "value": "Mint"
+       },
+       "image": null
+      }
+     ]
+    },
+    {
+     "kind": "cta",
+     "text": "Profesyonel Algae Peel-Off Maske Koleksiyonu bakım uygulamaları hakkında detaylı bilgi almak için bizimle iletişime geçin.",
+     "button": "İLETİŞİME GEÇİN"
+    },
+    {
+     "kind": "usp",
+     "items": [
+      "ORİJİNAL ALGAE PEEL-OFF TEKNOLOJİSİ",
+      "PROFESYONEL MASKE SEÇENEKLERİ",
+      "TAM YÜZ UYGULAMA",
+      "FERAHLATICI BAKIM ETKİSİ",
+      "CİLT İHTİYACINA GÖRE ÇÖZÜM"
+     ]
+    }
+   ],
+   "short": "Algae Peel-Off Maske",
+   "accent": "#6f8f7a",
+   "tint": "#ecf2ee",
+   "hero": "mask-still",
+   "card": "gold-mask-model",
+   "wide": "mask-banner",
+   "kind": "collection"
+  },
+  {
+   "kind": "device",
+   "slug": "masaj-gozlugu",
+   "title": "Masaj Gözlüğü",
+   "short": "Masaj Gözlüğü",
+   "tagline": "Göz çevresi bakımında teknolojik konfor.",
+   "accent": "#a8786a",
+   "tint": "#f6eeea",
+   "hero": "massage-glasses",
+   "card": "massage-glasses",
+   "eyebrow": "PROFESYONEL GÖZ ÇEVRESİ BAKIM CİHAZI",
+   "desc": "Doğrudan takılarak kullanılan Masaj Gözlüğü; basınç, titreşim, sıcak-soğuk uygulama ve rahatlatıcı müzik özellikleriyle göz çevresi bakım deneyimini destekler. Göz çevresinde daha dinlenmiş, aydınlık ve toparlanmış bir görünüm kazandırmaya yardımcı olur.",
+   "features": [
+    [
+     "Basınç Masajı",
+     "Rahatlatıcı basınç etkisi"
+    ],
+    [
+     "Titreşimli Masaj",
+     "Konforlu masaj deneyimi"
+    ],
+    [
+     "Sıcak & Soğuk Uygulama",
+     "Farklı bakım ihtiyaçlarına yönelik destek"
+    ],
+    [
+     "Rahatlatıcı Müzik",
+     "Keyifli ve dinlendirici deneyim"
+    ],
+    [
+     "Ergonomik Tasarım",
+     "Yüze uyum sağlayan konforlu yapı"
+    ]
+   ],
+   "effects": [
+    [
+     "Kırışıklık Görünümünü Azaltmaya Yardımcı Olur",
+     "Kaz ayağı, göz çevresi ve kaş arası bölgelerinde daha pürüzsüz bir görünüm destekler."
+    ],
+    [
+     "Koyu Halka Görünümünü Hafifletmeye Yardımcı Olur",
+     "Yorgun görünümü azaltmaya ve göz altı bölgesinin daha aydınlık görünmesine katkı sağlar."
+    ],
+    [
+     "Göz Altı Torbalarının Görünümünü Azaltmaya Yardımcı Olur",
+     "Şişlik görünümünü hafifletmeye ve göz çevresinin daha dinlenmiş görünmesine destek olur."
+    ],
+    [
+     "Lifting Etkisi Sunar",
+     "Göz çevresinde daha sıkı, toparlanmış ve uyanık bir görünüm sağlamaya yardımcı olur."
+    ]
+   ],
+   "about": [
+    "Göz çevresi, bakım rutinlerinde özel ilgi gerektiren hassas bölgelerden biridir. İnce çizgi, kırışıklık, koyu halka, şişlik ve yorgun görünüm gibi belirtiler bu bölgede daha hızlı fark edilebilir.",
+    "Masaj Gözlüğü, göz çevresi bakımını desteklemek amacıyla geliştirilmiş elektronik bir bakım cihazıdır. Doğrudan takılarak kullanılır ve manuel masaj gerektirmez.",
+    "Basınç masajı, titreşimli masaj, sıcak-soğuk uygulama ve rahatlatıcı müzik özellikleriyle bakım sürecini daha konforlu hale getirir. Ergonomik tasarımı sayesinde göz çevresine uyum sağlar ve profesyonel bakım uygulamalarında tamamlayıcı bir destek sunar."
+   ],
+   "steps": [
+    "Cilt temizlendikten sonra göz çevresi bakım rutini hazırlanır.",
+    "Masaj gözlüğü göz çevresine uygun şekilde takılır.",
+    "İhtiyaca göre uygun fonksiyon seçilerek cihaz çalıştırılır.",
+    "Uygulama sırasında cihaz kendi sistemiyle göz çevresi bakım deneyimini destekler."
+   ],
+   "note": "Ürün manuel masaj gerektirmez. Doğrudan takılarak çalışan elektronik bir bakım cihazıdır.",
+   "uses": [
+    "Göz çevresi bakım rutinleri",
+    "Profesyonel bakım uygulamaları",
+    "Rahatlatıcı bakım seansları",
+    "Koyu halka görünümüne yönelik bakım rutinleri",
+    "Göz altı şişlik görünümüne yönelik bakım rutinleri",
+    "Kırışıklık görünümünü azaltmaya yardımcı bakım uygulamaları"
+   ],
+   "cta": [
+    "Göz çevresi bakımınıza teknolojik konfor katın.",
+    "Masaj Gözlüğü, gelişmiş masaj modları ve rahatlatıcı kullanım deneyimiyle göz çevresinin daha dinlenmiş, aydınlık ve toparlanmış görünmesini destekler.",
+    "DETAYLI BİLGİ AL"
+   ],
+   "faqs": [
+    {
+     "q": "Masaj gözlüğü ne işe yarar?",
+     "a": "Göz çevresi bakımını destekleyen elektronik bir bakım cihazıdır. Basınç, titreşim, sıcak-soğuk uygulama ve müzik özellikleriyle rahatlatıcı bir kullanım sunar."
+    },
+    {
+     "q": "Sadece göz çevresi bakım uygulamalarında mı kullanılır?",
+     "a": "Hayır. Göz çevresi bakımını desteklemek için geliştirilmiş olsa da akne, leke, nem, yaşlanma karşıtı veya hassas cilt bakımları gibi farklı profesyonel uygulamalarla kombinlenebilir. Bakım deneyimini daha konforlu ve rahatlatıcı hale getirmeye yardımcı olur."
+    },
+    {
+     "q": "Ürün manuel olarak mı kullanılır?",
+     "a": "Hayır. Ürün doğrudan takılır ve seçilen fonksiyona göre kendi çalışma sistemiyle kullanılır."
+    },
+    {
+     "q": "Sadece göz çevresi için mi uygundur?",
+     "a": "Evet, temel kullanım amacı göz çevresi bakımını desteklemektir."
+    },
+    {
+     "q": "Hangi özelliklere sahiptir?",
+     "a": "Basınç masajı, titreşimli masaj, sıcak-soğuk uygulama, rahatlatıcı müzik ve ergonomik tasarım özelliklerine sahiptir."
+    },
+    {
+     "q": "Lifting etkisi sağlar mı?",
+     "a": "Göz çevresinde daha sıkı, toparlanmış ve uyanık bir görünüm sağlamaya yardımcı olur."
+    },
+    {
+     "q": "Profesyonel kullanıma uygun mu?",
+     "a": "Evet. Profesyonel bakım uygulamalarında göz çevresi bakımını destekleyici cihaz olarak konumlandırılabilir."
+    }
+   ]
+  }
+ ],
+ "concerns": [
+  {
+   "title": "Atopik Cilt",
+   "slug": "atopik-cilt",
+   "heading": "Atopik Ciltler İçin Yüz Kremleri",
+   "tagline": "Sakinleşmiş, korunmuş ve konforlu bir cilt.",
+   "intro": "Atopik cilt daha hassastır ve genellikle yoğun kuruluk, pullanma veya kaşıntı hissi gösterebilir. Kızarıklık ve dönemsel hassasiyet atakları da görülebilir. Bu cilt tipi çok nazik bakıma, cilt bariyerini güçlendiren yoğun neme ve hassasiyete duyarlı formüllere ihtiyaç duyar. Doğru bakım ile atopik cilt sakinleşir, dengesini yeniden kazanır ve gün geçtikçe daha konforlu hale gelir.",
+   "products": [
+    {
+     "name": "3 in 1 Deep Cleanser",
+     "desc": "3’ü 1 arada yüz temizleyici.",
+     "kind": "Temizleyiciler",
+     "collection": null,
+     "image": null
+    },
+    {
+     "name": "Age Defense Anti-aging 360° Cream",
+     "desc": "Cilt bariyerini destekleyen, 360° yaşlanma karşıtı bakım kremi.",
+     "kind": "Kremler",
+     "collection": null,
+     "image": null
+    },
+    {
+     "name": "Marine Plasma Fresh Serum 50 ml",
+     "desc": "Cilde yoğun nem desteği sağlayarak daha taze, canlı ve pürüzsüz bir görünüm kazandırmaya yardımcı serum.",
+     "kind": "Serumlar",
+     "collection": "ocean-miracle-treatment",
+     "image": "marine-fresh"
+    },
+    {
+     "name": "Marine Plasma Rich Serum 50 ml",
+     "desc": "Kuru ve nemsiz ciltlerde dolgunluk, konfor ve yoğun nem desteği sunan zengin bakım serumu.",
+     "kind": "Serumlar",
+     "collection": "ocean-miracle-treatment",
+     "image": null
+    },
+    {
+     "name": "Hydro Firming Cream 50 ml",
+     "desc": "Cildin nem dengesini desteklerken daha sıkı, canlı ve pürüzsüz bir görünüm sağlamaya yardımcı hafif dokulu krem.",
+     "kind": "Kremler",
+     "collection": "ocean-miracle-treatment",
+     "image": null
+    },
+    {
+     "name": "Nutri Firming Cream 50 ml",
+     "desc": "Besleyici dokusuyla cildin daha sıkı, yumuşak ve konforlu görünmesine yardımcı yoğun bakım kremi.",
+     "kind": "Kremler",
+     "collection": "ocean-miracle-treatment",
+     "image": null
+    },
+    {
+     "name": "Eye Contour Anti-puffiness & Dark Circles",
+     "desc": "Göz altı şişliği ve koyu halka görünümünü azaltmaya yardımcı göz çevresi bakımı.",
+     "kind": "Göz Çevresi",
+     "collection": "eye-perfection-beautyplan-treatment",
+     "image": null
+    },
+    {
+     "name": "Eye Contour Anti-wrinkle",
+     "desc": "Göz çevresindeki kırışıklık ve ince çizgi görünümünü azaltmaya yardımcı bakım kremi.",
+     "kind": "Göz Çevresi",
+     "collection": "eye-perfection-beautyplan-treatment",
+     "image": null
+    }
+   ],
+   "extra": {
+    "title": "Global yaşlanma karşıtı formüller",
+    "subtitle": "Olgun ciltler için ideal koleksiyon.",
+    "text": "Age Defense, doğal içerikler, prebiyotikler ve probiyotiklerden oluşan özel kombinasyonuyla cildi zamanın etkilerine karşı destekler. Gelişmiş formülü cilt bariyerini güçlendirmeye, mikrobiyota dengesini korumaya ve yaşlanma belirtilerinin görünümünü azaltmaya yardımcı olur. Sonuç: Gün geçtikçe daha sıkı, dengeli ve ışıltılı bir cilt görünümü."
+   },
+   "faqs": [
+    {
+     "q": "Atopik cilde sahip olmak ne anlama gelir?",
+     "a": "Atopik cilt, çok hassas ve aşırı kuruluğa eğilimli bir cilt tipidir. Koruyucu bariyeri zayıflamış olabilir; bu da özellikle hassas dönemlerinde pullanma, kızarıklık ve kaşıntıya neden olabilir."
+    },
+    {
+     "q": "Atopik cilde günlük bakım nasıl yapılır?",
+     "a": "Cildi derinlemesine nemlendiren, bariyeri destekleyen ve konfor sağlayan nazik formüller tercih edilmelidir. Parfüm ve alkol içermeyen, yatıştırıcı ürünler kullanılabilir."
+    },
+    {
+     "q": "Atopik cildim varsa nelerden kaçınmalıyım?",
+     "a": "Cildi kurutan sert temizleyicilerden, aşırı sıcak sudan ve tahrişe neden olabilecek agresif ürünlerden kaçınmak gerekir. Cildi nemli tutmak ve güneşten korumak önemlidir."
+    },
+    {
+     "q": "Yüzümde atopik dermatit varsa hangi güneş koruyucuyu kullanmalıyım?",
+     "a": "Parfüm ve alkol içermeyen mineral güneş koruyucular tercih edilebilir. Çinko oksit veya titanyum dioksit içeren formüller hassas ciltler için daha konforlu olabilir."
+    }
+   ]
+  },
+  {
+   "title": "Kuru Cilt",
+   "slug": "kuru-cilt",
+   "heading": "Kuru Ciltler İçin Yüz Kremleri",
+   "tagline": "Yumuşak, beslenmiş ve konforlu bir cilt.",
+   "intro": "Kuru cilt, normalden daha düşük sebum üretimiyle karakterizedir. Bu durum cildin nemi tutma kapasitesini azaltabilir. Sonuç olarak ciltte gerginlik hissi, esneklik kaybı, matlık ve pürüzlü görünüm oluşabilir. Küçük pullanmalar, hassasiyet ve ince çizgi görünümünün erken belirginleşmesi de yaygındır. Cildinizin ihtiyaç duyduğu beslenmeyi ve canlılığı geri kazandıracak ideal bakımı keşfedin.",
+   "products": [
+    {
+     "name": "3 in 1 Deep Cleanser",
+     "desc": "3’ü 1 arada yüz temizleyici.",
+     "kind": "Temizleyiciler",
+     "collection": null,
+     "image": null
+    },
+    {
+     "name": "Q10 Rescue Intensive Nutri Cream",
+     "desc": "Kuru ve olgun ciltler için yoğun besleyici bakım sağlayan krem.",
+     "kind": "Kremler",
+     "collection": "q10-rescue-nutri-treatment",
+     "image": "q10-pack"
+    },
+    {
+     "name": "Marine Plasma Fresh Serum 50 ml",
+     "desc": "Cilde yoğun nem desteği sağlayarak daha taze, canlı ve pürüzsüz bir görünüm kazandırmaya yardımcı serum.",
+     "kind": "Serumlar",
+     "collection": "ocean-miracle-treatment",
+     "image": "marine-fresh"
+    },
+    {
+     "name": "Marine Plasma Rich Serum 50 ml",
+     "desc": "Kuru ve nemsiz ciltlerde dolgunluk, konfor ve yoğun nem desteği sunan zengin bakım serumu.",
+     "kind": "Serumlar",
+     "collection": "ocean-miracle-treatment",
+     "image": null
+    },
+    {
+     "name": "Hydro Firming Cream 50 ml",
+     "desc": "Cildin nem dengesini desteklerken daha sıkı, canlı ve pürüzsüz bir görünüm sağlamaya yardımcı hafif dokulu krem.",
+     "kind": "Kremler",
+     "collection": "ocean-miracle-treatment",
+     "image": null
+    },
+    {
+     "name": "Nutri Firming Cream 50 ml",
+     "desc": "Besleyici dokusuyla cildin daha sıkı, yumuşak ve konforlu görünmesine yardımcı yoğun bakım kremi.",
+     "kind": "Kremler",
+     "collection": "ocean-miracle-treatment",
+     "image": null
+    },
+    {
+     "name": "Age Defense Anti-aging 360° Cream",
+     "desc": "Cilt bariyerini destekleyen, 360° yaşlanma karşıtı bakım kremi.",
+     "kind": "Kremler",
+     "collection": null,
+     "image": null
+    },
+    {
+     "name": "Eye Contour Anti-wrinkle",
+     "desc": "Göz çevresindeki kırışıklık ve ince çizgi görünümünü azaltmaya yardımcı bakım kremi.",
+     "kind": "Göz Çevresi",
+     "collection": "eye-perfection-beautyplan-treatment",
+     "image": null
+    }
+   ],
+   "extra": {
+    "title": "Besleyici formüller",
+    "subtitle": "Kuru ve olgun ciltler için mükemmel koleksiyon.",
+    "text": "Golden Age, sıkılık, canlılık ve konforunu geri kazanmaya ihtiyaç duyan kuru ve olgun ciltler için ideal bir koleksiyondur. Gelenek ve inovasyonu bir araya getiren formülleriyle cildi derinlemesine beslemeye, yoğunlaştırmaya ve daha ışıltılı bir görünüm kazandırmaya yardımcı olur."
+   },
+   "faqs": [
+    {
+     "q": "Cildinizi neden gergin ve mat hissedersiniz?",
+     "a": "Kuru cilt yeterli doğal nemi üretemediğinde yumuşaklığını ve parlaklığını kaybedebilir. Soğuk hava, yaş alma ve uygun olmayan bakım rutinleri bu hissi artırabilir."
+    },
+    {
+     "q": "Kuru cilt nasıl bir rutine ihtiyaç duyar?",
+     "a": "Yoğun nem ve besleyici bakım gerekir. Nazik temizleyiciler, zengin dokulu kremler ve güneş koruması kuru cilt rutininin temel adımlarıdır."
+    },
+    {
+     "q": "Yaş aldıkça kuru cilt değişir mi?",
+     "a": "Evet. Yaşla birlikte cilt daha kuru, daha ince ve daha sıkılık kaybına eğilimli hale gelebilir. Bu nedenle besleyici ve yoğunlaştırıcı formüller tercih edilmelidir."
+    }
+   ]
+  },
+  {
+   "title": "Yağlı Cilt",
+   "slug": "yagli-cilt",
+   "heading": "Yağlı Ciltler İçin Yüz Kremleri",
+   "tagline": "Taze, dengeli ve ışıltılı bir cilt.",
+   "intro": "Yağlı cilt normalden daha fazla sebum üretir. Bu durum özellikle alın, burun ve çene bölgesinde parlama oluşmasına neden olabilir. Gözenekler daha belirgin görünebilir; sivilce, akne ve siyah nokta oluşumu daha sık görülebilir. Cildinizi dengeli, eşit görünümlü ve bakımlı tutacak ideal rutini keşfedin.",
+   "products": [
+    {
+     "name": "Detox Cleanser",
+     "desc": "Yağlı, karma ve problemli ciltlerde sebum dengesini destekleyen arındırıcı yüz temizleyici.",
+     "kind": "Temizleyiciler",
+     "collection": "temizleme-serisi",
+     "image": null
+    },
+    {
+     "name": "Shine Stop Hydro Sebo-regulating Gel-Cream",
+     "desc": "Yağlı ve karma ciltlerde nem desteği sağlarken mat görünümü destekleyen hafif krem-jel.",
+     "kind": "Kremler",
+     "collection": "shine-stop-beautyplan-treatment",
+     "image": null
+    },
+    {
+     "name": "Shine Stop Anti-aging Sebo-regulating Cream",
+     "desc": "Yağlı ve olgun ciltlerde sebum dengesini destekleyen matlaştırıcı yaşlanma karşıtı krem.",
+     "kind": "Kremler",
+     "collection": "shine-stop-beautyplan-treatment",
+     "image": null
+    },
+    {
+     "name": "Eye Contour Anti-puffiness & Dark Circles",
+     "desc": "Göz altı şişliği ve koyu halka görünümünü azaltmaya yardımcı göz çevresi bakımı.",
+     "kind": "Göz Çevresi",
+     "collection": "eye-perfection-beautyplan-treatment",
+     "image": null
+    }
+   ],
+   "extra": {
+    "title": "Gelişmiş formüller",
+    "subtitle": "Kusurlu görünüme eğilimli ciltler için ideal koleksiyon.",
+    "text": "Shine Stop, fazla yağı dengelemeye ve cilt kusurlarının görünümünü kontrol altına almaya yardımcı akıllı aktif içeriklerle geliştirilmiştir. Hafif dokuları sayesinde yağlı ve karma ciltlerde daha mat, dengeli ve pürüzsüz bir görünüm destekler."
+   },
+   "faqs": [
+    {
+     "q": "Ciltte fazla yağlanma neden oluşur?",
+     "a": "Sebum fazlalığı hormonal faktörler, genetik yapı, stres veya uygun olmayan bakım rutinlerinden kaynaklanabilir. Bu durum parlama, geniş gözenek ve cilt kusurlarına yol açabilir."
+    },
+    {
+     "q": "Yağlı cildim varsa nemlendirici krem kullanmalı mıyım?",
+     "a": "Evet. Yağlı cilt de neme ihtiyaç duyar. Hafif ve yağsız dokulu nemlendiriciler cildin dengeli kalmasına yardımcı olur."
+    },
+    {
+     "q": "Yağlı cilt için doğru temizlik nasıl olmalıdır?",
+     "a": "Cildi kurutmadan fazla yağı, kirleri ve makyaj kalıntılarını arındıran nazik ama etkili temizleyiciler tercih edilmelidir."
+    }
+   ]
+  },
+  {
+   "title": "Karma Cilt",
+   "slug": "karma-cilt",
+   "heading": "Karma Ciltler İçin Yüz Kremleri",
+   "tagline": "Dengeli, eşit görünümlü ve sağlıklı bir cilt.",
+   "intro": "Karma cilt; alın, burun ve çene gibi yağlanmanın daha fazla olduğu bölgeler ile yanaklarda daha kuru veya normal alanların bir arada görüldüğü cilt tipidir. Bu durum T bölgesinde parlama ve belirgin gözenek görünümüne; diğer bölgelerde ise nem ve konfor ihtiyacına neden olabilir. Cildinizi dengeli ve bakımlı tutacak ideal rutini keşfedin.",
+   "products": [
+    {
+     "name": "3 in 1 Deep Cleanser",
+     "desc": "3’ü 1 arada yüz temizleyici.",
+     "kind": "Temizleyiciler",
+     "collection": null,
+     "image": null
+    },
+    {
+     "name": "Marine Plasma Fresh Serum",
+     "desc": "Cilde nem desteği sağlayarak daha canlı ve taze görünmesine yardımcı serum.",
+     "kind": "Serumlar",
+     "collection": "ocean-miracle-treatment",
+     "image": "marine-fresh"
+    },
+    {
+     "name": "Pure Oxygen Oxygenating Serum",
+     "desc": "Cildin daha ferah, canlı ve nemli görünmesine yardımcı oksijen destekli serum.",
+     "kind": "Serumlar",
+     "collection": "purifying-beautyplan-treatment",
+     "image": null
+    },
+    {
+     "name": "Hydra Lifting Hydro Firming Cream",
+     "desc": "Hafif dokusuyla nem ve sıkılık görünümünü destekleyen günlük bakım kremi.",
+     "kind": "Kremler",
+     "collection": "ocean-miracle-treatment",
+     "image": null
+    },
+    {
+     "name": "Balancing Moisturizing Cream",
+     "desc": "Cildin nem dengesini destekleyen hafif dokulu günlük bakım kremi.",
+     "kind": "Kremler",
+     "collection": null,
+     "image": null
+    },
+    {
+     "name": "Eye Contour Anti-puffiness & Dark Circles",
+     "desc": "Göz altı şişliği ve koyu halka görünümünü azaltmaya yardımcı göz çevresi bakımı.",
+     "kind": "Göz Çevresi",
+     "collection": "eye-perfection-beautyplan-treatment",
+     "image": null
+    }
+   ],
+   "extra": {
+    "title": "Oksijenlendirici formüller",
+    "subtitle": "Karma ciltler için ideal koleksiyon.",
+    "text": "Pure Oxygen, cildi arınmış, canlı ve ışıltılı tutmaya yardımcı oksijen destekli bakım sunar. Hafif ve ciltle bütünleşen dokularıyla karma cildi dengelemeye yardımcı olur; taze, eşit görünümlü ve parlak bir cilt görünümü destekler."
+   },
+   "faqs": [
+    {
+     "q": "Karma cilde sahip olmak ne anlama gelir?",
+     "a": "Karma ciltte T bölgesi daha yağlı, yanaklar ise daha kuru veya normal olabilir. Bu nedenle cildin farklı bölgeleri farklı ihtiyaçlar gösterebilir."
+    },
+    {
+     "q": "Karma cilt nasıl bakıma ihtiyaç duyar?",
+     "a": "Cildi kurutmadan T bölgesindeki yağ görünümünü dengeleyen, hafif ve ferah dokular tercih edilmelidir."
+    },
+    {
+     "q": "Her bölge için farklı rutinlere ihtiyacım var mı?",
+     "a": "Her zaman gerekmez. Ancak ihtiyaç halinde T bölgesine dengeleyici, yanaklara ise daha besleyici ürünler uygulanabilir."
+    }
+   ]
+  },
+  {
+   "title": "Hassas Cilt",
+   "slug": "hassas-cilt",
+   "heading": "Hassas Ciltler İçin Bakımlar",
+   "tagline": "Hassas ve tahriş olmuş ciltler için yatıştırıcı bakım ve koruma.",
+   "intro": "Hassas cilt özel bir ilgi gerektirir. Doğal bariyeri daha kırılgan olabilir ve hava koşulları, kirlilik veya bazı kozmetik içeriklere karşı kolayca reaksiyon gösterebilir. Kızarıklık, gerginlik, kaşıntı ve rahatsızlık hissi görülebilir. Casmara hassas cilt bakım ürünleri, cildi yatıştırmaya, korumaya ve cilt bariyerini desteklemeye yardımcı olur.",
+   "products": [
+    {
+     "name": "3 in 1 Deep Cleanser",
+     "desc": "3’ü 1 arada yüz temizleyici.",
+     "kind": "Temizleyiciler",
+     "collection": null,
+     "image": null
+    },
+    {
+     "name": "Age Defense Anti-aging 360° Cream",
+     "desc": "Cilt bariyerini destekleyen, 360° yaşlanma karşıtı bakım kremi.",
+     "kind": "Kremler",
+     "collection": null,
+     "image": null
+    },
+    {
+     "name": "Marine Plasma Fresh Serum 50 ml",
+     "desc": "Cilde yoğun nem desteği sağlayarak daha taze, canlı ve pürüzsüz bir görünüm kazandırmaya yardımcı serum.",
+     "kind": "Serumlar",
+     "collection": "ocean-miracle-treatment",
+     "image": "marine-fresh"
+    },
+    {
+     "name": "Marine Plasma Rich Serum 50 ml",
+     "desc": "Kuru ve nemsiz ciltlerde dolgunluk, konfor ve yoğun nem desteği sunan zengin bakım serumu.",
+     "kind": "Serumlar",
+     "collection": "ocean-miracle-treatment",
+     "image": null
+    },
+    {
+     "name": "Hydro Firming Cream 50 ml",
+     "desc": "Cildin nem dengesini desteklerken daha sıkı, canlı ve pürüzsüz bir görünüm sağlamaya yardımcı hafif dokulu krem.",
+     "kind": "Kremler",
+     "collection": "ocean-miracle-treatment",
+     "image": null
+    },
+    {
+     "name": "Nutri Firming Cream 50 ml",
+     "desc": "Besleyici dokusuyla cildin daha sıkı, yumuşak ve konforlu görünmesine yardımcı yoğun bakım kremi.",
+     "kind": "Kremler",
+     "collection": "ocean-miracle-treatment",
+     "image": null
+    },
+    {
+     "name": "Eye Contour Anti-puffiness & Dark Circles",
+     "desc": "Göz altı şişliği ve koyu halka görünümünü azaltmaya yardımcı göz çevresi bakımı.",
+     "kind": "Göz Çevresi",
+     "collection": "eye-perfection-beautyplan-treatment",
+     "image": null
+    },
+    {
+     "name": "Eye Contour Anti-wrinkle",
+     "desc": "Göz çevresindeki kırışıklık ve ince çizgi görünümünü azaltmaya yardımcı bakım kremi.",
+     "kind": "Göz Çevresi",
+     "collection": "eye-perfection-beautyplan-treatment",
+     "image": null
+    }
+   ],
+   "extra": {
+    "title": "Hassas ciltler için gelişmiş formüller",
+    "subtitle": "Kızarıklık ve tahriş görünümünü azaltmaya yardımcı bakım.",
+    "text": "Casmara’nın hassas ciltlere uygun formülleri, antioksidan bakım ve nem desteği sağlayarak cildin daha sakin, dengeli ve konforlu görünmesine yardımcı olur. Cilt bariyerini destekleyen yapısıyla günlük bakım rutinine nazik bir destek sunar."
+   },
+   "faqs": [
+    {
+     "q": "Hassas cilt neden kızarıklık veya rahatsızlıkla tepki verir?",
+     "a": "Cilt bariyeri daha kırılgan olduğunda dış etkenler cildi daha kolay etkileyebilir. Bu durum kızarıklık, gerginlik ve hassasiyet hissine yol açabilir."
+    },
+    {
+     "q": "Hassas cildime nasıl bakım yapabilirim?",
+     "a": "Nazik, yatıştırıcı ve bariyer destekleyici ürünler tercih edilmelidir. Alkol ve parfüm içermeyen formüller hassas ciltler için daha uygundur."
+    },
+    {
+     "q": "Hassas cildim varsa nelerden kaçınmalıyım?",
+     "a": "Agresif peelinglerden, sert temizleyicilerden ve ani sıcaklık değişimlerinden kaçınmak gerekir."
+    },
+    {
+     "q": "Hassas cilt için hangi krem iyidir?",
+     "a": "Cildi yatıştıran, nemlendiren ve bariyeri destekleyen kremler tercih edilmelidir."
+    },
+    {
+     "q": "Hassas cilt serumları ne için kullanılır?",
+     "a": "Cildi yatıştırmak, nemlendirmek ve daha dengeli bir görünüm kazandırmak için kullanılır."
+    }
+   ]
+  },
+  {
+   "title": "Olgun Cilt",
+   "slug": "olgun-cilt",
+   "heading": "Olgun Ciltler İçin Nemlendirici Kremler",
+   "tagline": "Sıkı, beslenmiş ve ışıltılı bir cilt.",
+   "intro": "Olgun cilt zamanın etkilerini yansıtır ve genellikle sıkılık kaybı, mimik çizgileri, kırışıklıklar veya lekeler gibi belirtiler gösterebilir. Ayrıca daha ince ve kuru hale gelme eğilimindedir. Bu nedenle besleyici, yoğun nem sağlayan ve cildi canlandırmaya yardımcı aktif içeriklere ihtiyaç duyar. Uygun bir rutinle olgun cilt daha sıkı, canlı ve ışıltılı görünebilir.",
+   "products": [
+    {
+     "name": "3 in 1 Deep Cleanser",
+     "desc": "3’ü 1 arada yüz temizleyici.",
+     "kind": "Temizleyiciler",
+     "collection": null,
+     "image": null
+    },
+    {
+     "name": "Golden Age Intense Serum 50 ml",
+     "desc": "Cildin daha canlı, dolgun ve aydınlık görünmesine yardımcı yoğun bakım serumu.",
+     "kind": "Serumlar",
+     "collection": "golden-age-intense-treatment",
+     "image": "golden-serum"
+    },
+    {
+     "name": "RGnerin Hydro-Nutri Wrinkle Cream",
+     "desc": "İnce çizgi ve kırışıklık görünümünü azaltmaya yardımcı nemlendirici bakım kremi.",
+     "kind": "Kremler",
+     "collection": "rgnerin-treatment",
+     "image": null
+    },
+    {
+     "name": "Golden Age Intense Cream",
+     "desc": "Cildi beslemeye ve yaş alma belirtilerinin görünümünü azaltmaya yardımcı yoğun bakım kremi.",
+     "kind": "Kremler",
+     "collection": "golden-age-intense-treatment",
+     "image": "golden-cream"
+    },
+    {
+     "name": "Q10 Rescue Intensive Nutri Cream",
+     "desc": "Olgun ve kuru ciltlerde yoğun besleyici bakım ve canlılık desteği sunan krem.",
+     "kind": "Kremler",
+     "collection": "q10-rescue-nutri-treatment",
+     "image": "q10-pack"
+    },
+    {
+     "name": "Golden Age Intense Cream 50 ml",
+     "desc": "Yaş alma belirtilerinin görünümünü azaltmaya, cildi beslemeye ve daha sıkı bir görünüm desteklemeye yardımcı bakım kremi.",
+     "kind": "Kremler",
+     "collection": "golden-age-intense-treatment",
+     "image": "golden-cream"
+    },
+    {
+     "name": "Golden Age Intense Eye Contour 15 ml",
+     "desc": "Göz çevresinde lifting, aydınlık ve dinlenmiş görünüm desteği sunan bakım ürünü.",
+     "kind": "Göz Çevresi",
+     "collection": "golden-age-intense-treatment",
+     "image": null
+    },
+    {
+     "name": "Golden Age Intense Ampoule 10 × 5 ml",
+     "desc": "Cilde yoğun bakım desteği sağlayarak daha canlı, yenilenmiş ve ışıltılı bir görünüm kazandırmaya yardımcı ampul.",
+     "kind": "Kremler",
+     "collection": "golden-age-intense-treatment",
+     "image": null
+    },
+    {
+     "name": "Eye Contour Anti-puffiness & Dark Circles",
+     "desc": "Göz altı şişliği ve koyu halka görünümünü azaltmaya yardımcı göz çevresi bakımı.",
+     "kind": "Göz Çevresi",
+     "collection": "eye-perfection-beautyplan-treatment",
+     "image": null
+    },
+    {
+     "name": "Eye Contour Anti-wrinkle",
+     "desc": "Göz çevresindeki kırışıklık ve ince çizgi görünümünü azaltmaya yardımcı bakım kremi.",
+     "kind": "Göz Çevresi",
+     "collection": "eye-perfection-beautyplan-treatment",
+     "image": null
+    }
+   ],
+   "extra": {
+    "title": "Besleyici formüller",
+    "subtitle": "Kuru ve olgun ciltler için mükemmel koleksiyon.",
+    "text": "Golden Age, sıkılık, canlılık ve konforunu geri kazanmaya ihtiyaç duyan kuru ve olgun ciltler için ideal koleksiyondur. Besleyici ve yenilikçi formülleriyle cildi destekler; daha yoğun, ışıltılı ve genç görünümlü bir cilt görünümü sunmaya yardımcı olur."
+   },
+   "faqs": [
+    {
+     "q": "Olgun cilt zamanla neden değişir?",
+     "a": "Yıllar geçtikçe cilt daha az kolajen, elastin ve doğal nem üretir. Bu durum sıkılık kaybı, kırışıklık ve mat görünüm oluşturabilir."
+    },
+    {
+     "q": "Olgun cilde günlük olarak nasıl bakım yapılır?",
+     "a": "Nazik temizlik, antioksidan serumlar, sıkılaştırıcı kremler ve günlük güneş koruması içeren zengin bir rutin önerilir."
+    },
+    {
+     "q": "Olgun cilt bir bakım ürününde ne arar?",
+     "a": "Sıkılık, canlılık, yoğun nem ve konfor sağlayan ürünler olgun ciltlerin temel ihtiyaçlarını destekler."
+    }
+   ]
+  },
+  {
+   "title": "Akneye Eğilimli Cilt",
+   "slug": "akneye-egilimli-cilt",
+   "heading": "Akneye Eğilimli Cilt",
+   "tagline": "Akneye eğilimli yağlı ciltler için özel bakım.",
+   "intro": "Yağlı veya akneye eğilimli cilt hassas bir dengeye ihtiyaç duyar. Sebum fazlalığı parlama, genişlemiş gözenekler veya sivilce oluşumuna neden olabilir. Buna rağmen cilt sağlıklı ve korunmuş kalmak için neme ihtiyaç duyar. Casmara’nın akneye eğilimli ciltlere uygun ürünleri, sebum dengesini desteklemeye ve cildi kurutmadan daha dengeli bir görünüm kazandırmaya yardımcı olur.",
+   "products": [
+    {
+     "name": "3 in 1 Deep Cleanser",
+     "desc": "3’ü 1 arada yüz temizleyici.",
+     "kind": "Temizleyiciler",
+     "collection": null,
+     "image": null
+    },
+    {
+     "name": "Shine Stop Hydro Sebo-regulating Gel-Cream",
+     "desc": "Yağlı ve karma ciltlerde nem desteği sağlarken mat görünümü destekleyen hafif krem-jel.",
+     "kind": "Kremler",
+     "collection": "shine-stop-beautyplan-treatment",
+     "image": null
+    },
+    {
+     "name": "Sebocontrol Anti-Blemish Gel",
+     "desc": "Bölgesel kusur görünümüne yönelik lokal bakım jeli.",
+     "kind": "Kremler",
+     "collection": null,
+     "image": null
+    },
+    {
+     "name": "Shine Stop Anti-aging Sebo-regulating Cream",
+     "desc": "Yağlı ve olgun ciltlerde sebum dengesini destekleyen matlaştırıcı yaşlanma karşıtı krem.",
+     "kind": "Kremler",
+     "collection": "shine-stop-beautyplan-treatment",
+     "image": null
+    }
+   ],
+   "extra": {
+    "title": "Yağlı ve karma ciltler için bakım",
+    "subtitle": "Sebum üretimi arttığında parlama, gözenek görünümü ve cilt kusurları belirginleşebilir. Shine Stop serisi, cildi kurutmadan sebum dengesini desteklemeye ve daha mat, pürüzsüz ve dengeli bir görünüm sağlamaya yardımcı olur.",
+    "text": ""
+   },
+   "faqs": [
+    {
+     "q": "Akne karşıtı kremler genişlemiş gözenekleri azaltmaya yardımcı olur mu?",
+     "a": "Evet. Sebum dengesini destekleyen ürünler gözenek görünümünün azalmasına katkı sağlayabilir."
+    },
+    {
+     "q": "Akne karşıtı krem ve serumu aynı anda kullanabilir miyim?",
+     "a": "Evet. Serum ve krem birlikte kullanıldığında bakım rutini daha etkili şekilde desteklenebilir."
+    },
+    {
+     "q": "Akneli cilt için krem seçerken hangi içeriklere bakmalıyım?",
+     "a": "Salicylic acid, niacinamide ve sebum dengeleyici aktifler akneye eğilimli ciltler için uygun içeriklerdir."
+    },
+    {
+     "q": "Akne karşıtı kremler hassas ciltler için uygun mudur?",
+     "a": "Nazik formüller tercih edildiğinde hassas ciltlerde de kullanılabilir."
+    },
+    {
+     "q": "Akneli cildimin bakımını nasıl iyileştirebilirim?",
+     "a": "Düzenli temizlik, hafif nemlendirme ve gözenekleri tıkamayan ürünler tercih edilmelidir."
+    }
+   ]
+  },
+  {
+   "title": "Lekeli Cilt",
+   "slug": "lekeli-cilt",
+   "heading": "Lekeli Cilt",
+   "tagline": "Yüz lekelerinin görünümünü azaltmaya yardımcı bakım.",
+   "intro": "Cilt lekeleri, melanin üretimi değiştiğinde ortaya çıkabilir. Güneşe maruz kalma, yaş alma, hormonal değişiklikler veya akne izleri cilt tonunun daha düzensiz görünmesine neden olabilir. Leke karşıtı bakım, pigment görünümünü düzenlemeye ve cildi yeni leke oluşumuna neden olabilecek faktörlere karşı desteklemeye odaklanır.",
+   "products": [
+    {
+     "name": "3 in 1 Deep Cleanser",
+     "desc": "3’ü 1 arada yüz temizleyici.",
+     "kind": "Temizleyiciler",
+     "collection": null,
+     "image": null
+    },
+    {
+     "name": "Lightening Clarifying Concentrated Serum",
+     "desc": "Leke görünümü ve ton eşitsizliğine karşı daha aydınlık cilt görünümünü destekleyen yoğun serum.",
+     "kind": "Serumlar",
+     "collection": "advanced-nacar-treatment",
+     "image": "serum-lightening"
+    },
+    {
+     "name": "Lightening Clarifying Anti-aging Cream SPF 50",
+     "desc": "Cilt tonunu eşitlemeye ve leke görünümünü azaltmaya yardımcı SPF 50 içeren gündüz bakım kremi.",
+     "kind": "Kremler",
+     "collection": "advanced-nacar-treatment",
+     "image": null
+    },
+    {
+     "name": "Eye Contour Anti-puffiness & Dark Circles",
+     "desc": "Göz altı şişliği ve koyu halka görünümünü azaltmaya yardımcı göz çevresi bakımı.",
+     "kind": "Göz Çevresi",
+     "collection": "eye-perfection-beautyplan-treatment",
+     "image": null
+    },
+    {
+     "name": "Eye Contour Anti-wrinkle",
+     "desc": "Göz çevresindeki kırışıklık ve ince çizgi görünümünü azaltmaya yardımcı bakım kremi.",
+     "kind": "Göz Çevresi",
+     "collection": "eye-perfection-beautyplan-treatment",
+     "image": null
+    }
+   ],
+   "extra": {
+    "title": "Leke açıcı formüller",
+    "subtitle": "Cilt tonu eşitsizliği ve hiperpigmentasyon görünümü için bakım.",
+    "text": "Lightening serisi, görünür leke ve ton eşitsizliği üzerinde çalışmaya yardımcı aktiflerle geliştirilmiştir. Gündüz ve gece bakım rutinine dahil edildiğinde cilt tonunun daha eşit, aydınlık ve canlı görünmesini destekler."
+   },
+   "faqs": [
+    {
+     "q": "Yüzdeki lekeler hızlı ve kolay bir şekilde nasıl giderilir?",
+     "a": "Leke görünümünü azaltmaya yardımcı ürünler düzenli kullanılmalı ve mutlaka güneş koruması uygulanmalıdır."
+    },
+    {
+     "q": "Yüzdeki lekeleri gidermek için en etkili yöntem nedir?",
+     "a": "Leke karşıtı aktif içerikler, antioksidanlar ve güneş korumasını birlikte kullanmak en etkili bakım yaklaşımıdır."
+    },
+    {
+     "q": "Yüz lekeleri için en etkili krem hangisidir?",
+     "a": "Cilt tonunu eşitlemeye ve pigment görünümünü azaltmaya yardımcı aktifler içeren leke karşıtı kremler tercih edilmelidir."
+    },
+    {
+     "q": "Akne lekelerini azaltmak için hangi krem iyidir?",
+     "a": "Akne lekelerinin görünümünü düzenlemeye ve cilt dokusunu iyileştirmeye yardımcı aktifler içeren kremler tercih edilebilir."
+    },
+    {
+     "q": "Yüz lekeleri için kremi gündüz kullanabilir miyim?",
+     "a": "Evet, ancak mutlaka güneş koruyucu ile birlikte kullanılmalıdır."
+    },
+    {
+     "q": "Leke karşıtı krem ile kırışıklık karşıtı krem arasındaki fark nedir?",
+     "a": "Leke karşıtı kremler cilt tonunu eşitlemeye odaklanır; kırışıklık karşıtı kremler ise ince çizgi, sıkılık ve elastikiyet kaybı görünümünü hedefler."
+    }
+   ]
+  }
+ ],
+ "cares": [
+  {
+   "title": "Göz Çevresi Bakımı",
+   "slug": "goz-cevresi-bakimi",
+   "heading": "Göz Çevresi Bakım Ürünleri",
+   "tagline": "Göz çevresini aydınlatmaya, pürüzsüzleştirmeye ve şişkinlik görünümünü azaltmaya yardımcı bakım ürünleri.",
+   "intro": "Göz çevresi, yüzün en hassas bölgelerinden biridir. İnce çizgi, kırışıklık, koyu halka ve yorgun görünüm gibi belirtiler bu bölgede daha hızlı fark edilebilir. Casmara göz çevresi bakım ürünleri, göz çevresinin daha aydınlık, canlı ve dinlenmiş görünmesini destekler.",
+   "products": [
+    {
+     "name": "Eye Contour Anti-wrinkle 15 ml",
+     "desc": "Göz çevresindeki ince çizgi ve kırışıklık görünümünü azaltmaya yardımcı bakım kremi.",
+     "kind": "Göz Çevresi",
+     "collection": "eye-perfection-beautyplan-treatment",
+     "image": null
+    },
+    {
+     "name": "Eye Contour Anti-puffiness & Dark Circles 15 ml",
+     "desc": "Göz altı torbaları, şişlik ve koyu halka görünümünü azaltmaya yardımcı göz çevresi bakımı.",
+     "kind": "Göz Çevresi",
+     "collection": "eye-perfection-beautyplan-treatment",
+     "image": null
+    },
+    {
+     "name": "Golden Age Intense Eye Contour 15 ml",
+     "desc": "Göz çevresinde lifting, aydınlık ve dinlenmiş görünüm desteği sunar.",
+     "kind": "Göz Çevresi",
+     "collection": "golden-age-intense-treatment",
+     "image": null
+    },
+    {
+     "name": "Eye Perfection Massage Glasses / Masaj Gözlüğü",
+     "desc": "Göz çevresi bakım rutinini destekleyen rahatlatıcı masaj gözlüğü.",
+     "kind": "Göz Çevresi",
+     "collection": null,
+     "image": null
+    }
+   ],
+   "extra": null,
+   "faqs": []
+  },
+  {
+   "title": "Nemlendirici Yüz Kremleri",
+   "slug": "nemlendirici-yuz-kremleri",
+   "heading": "Nemlendirici Yüz Kremleri",
+   "tagline": "Cilt için uzun süreli nem, koruma ve konfor sağlayan günlük bakım kremleri.",
+   "intro": "Nemini kaybeden cilt daha mat, yorgun ve konforsuz görünebilir. Casmara nemlendirici yüz kremleri, cildin nem dengesini desteklemeye, daha canlı ve pürüzsüz bir görünüm kazanmasına yardımcı olur.",
+   "products": [
+    {
+     "name": "Balancing Moisturizing Cream 50 ml",
+     "desc": "Cildin nem dengesini destekleyen, hafif dokulu günlük nemlendirici bakım kremi.",
+     "kind": "Kremler",
+     "collection": null,
+     "image": null
+    },
+    {
+     "name": "RGnerin Hydro-Nutri Wrinkle Cream 50 ml",
+     "desc": "İnce çizgi görünümünü azaltmaya ve cilde nem desteği sağlamaya yardımcı bakım kremi.",
+     "kind": "Kremler",
+     "collection": "rgnerin-treatment",
+     "image": null
+    },
+    {
+     "name": "Hydra Firming Cream 50 ml",
+     "desc": "Cildin daha sıkı, nemli ve canlı görünmesini destekleyen günlük bakım kremi.",
+     "kind": "Kremler",
+     "collection": null,
+     "image": null
+    },
+    {
+     "name": "Nutri Firming Cream 50 ml",
+     "desc": "Besleyici yapısıyla cildin elastikiyet ve konfor görünümünü destekleyen bakım kremi.",
+     "kind": "Kremler",
+     "collection": "ocean-miracle-treatment",
+     "image": null
+    },
+    {
+     "name": "Shine Stop Hydro Cream 50 ml",
+     "desc": "Yağlı ve karma ciltlerde nem desteği sağlarken mat görünümü destekleyen jel krem.",
+     "kind": "Kremler",
+     "collection": null,
+     "image": null
+    },
+    {
+     "name": "Oxygenating Moisturizing Cream 50 ml",
+     "desc": "Cilde ferahlık, nem ve daha canlı bir görünüm kazandırmaya yardımcı hafif bakım kremi.",
+     "kind": "Kremler",
+     "collection": "purifying-beautyplan-treatment",
+     "image": null
+    },
+    {
+     "name": "Age Defense Cream 50 ml",
+     "desc": "Cilt bariyerini destekleyen, yaşlanma belirtilerine karşı günlük bakım kremi.",
+     "kind": "Kremler",
+     "collection": null,
+     "image": null
+    },
+    {
+     "name": "Sensations Hydro Revitalizing Cream",
+     "desc": "Cildin daha canlı, nemli ve taze görünmesine yardımcı hafif dokulu bakım kremi.",
+     "kind": "Kremler",
+     "collection": "skin-sensations-treatment",
+     "image": null
+    },
+    {
+     "name": "Sensations Hydro-Nutri Revitalizing Cream",
+     "desc": "Nem ve besleyici bakım desteğiyle cildin daha konforlu görünmesine yardımcı krem.",
+     "kind": "Kremler",
+     "collection": "skin-sensations-treatment",
+     "image": "sensations-hydronutri"
+    },
+    {
+     "name": "Infinity Cream 50 ml",
+     "desc": "Cildin daha pürüzsüz, sıkı ve canlı görünmesine yardımcı yoğun bakım kremi.",
+     "kind": "Kremler",
+     "collection": "infinity-treatment",
+     "image": "infinity-cream"
+    }
+   ],
+   "extra": null,
+   "faqs": []
+  },
+  {
+   "title": "Besleyici Yüz Kremleri",
+   "slug": "besleyici-yuz-kremleri",
+   "heading": "Besleyici Yüz Kremleri",
+   "tagline": "Zengin dokularıyla cildi beslemeye, yumuşatmaya ve konfor hissini artırmaya yardımcı bakım kremleri.",
+   "intro": "Kuru ve beslenme ihtiyacı olan ciltler, yalnızca nemden fazlasına ihtiyaç duyabilir. Casmara besleyici yüz kremleri, yoğun bakım desteği sağlayarak cildin daha yumuşak, esnek ve sağlıklı görünmesine katkı sağlar.",
+   "products": [
+    {
+     "name": "Golden Age Intense Cream 50 ml",
+     "desc": "Cildi beslemeye, sıkılık görünümünü desteklemeye ve yaş alma belirtilerinin görünümünü azaltmaya yardımcı yoğun bakım kremi.",
+     "kind": "Kremler",
+     "collection": "golden-age-intense-treatment",
+     "image": "golden-cream"
+    },
+    {
+     "name": "Balancing Nourishing Cream 50 ml",
+     "desc": "Kuru ciltlerde nem ve besleyici bakım desteği sağlayan zengin dokulu krem.",
+     "kind": "Kremler",
+     "collection": null,
+     "image": null
+    },
+    {
+     "name": "RGnerin Nutri+ Rich Wrinkle Cream 50 ml",
+     "desc": "Kuru ve çok kuru ciltlerde kırışıklık görünümünü azaltmaya ve cilde yoğun konfor sağlamaya yardımcı bakım kremi.",
+     "kind": "Kremler",
+     "collection": "rgnerin-treatment",
+     "image": null
+    },
+    {
+     "name": "Q10 Rescue Intensive Nutri Cream 50 ml",
+     "desc": "Olgun ve kuru ciltlerde yoğun besleyici bakım sağlayarak daha canlı ve yumuşak bir görünüm destekleyen krem.",
+     "kind": "Kremler",
+     "collection": "q10-rescue-nutri-treatment",
+     "image": "q10-pack"
+    },
+    {
+     "name": "Oxygenating Nourishing Cream 50 ml",
+     "desc": "Kuru ciltlere besleyici bakım, nem ve daha canlı bir görünüm kazandırmaya yardımcı krem.",
+     "kind": "Kremler",
+     "collection": "purifying-beautyplan-treatment",
+     "image": null
+    },
+    {
+     "name": "Renewal Night Cream 30 ml",
+     "desc": "Gece bakımına uygun, cildin yenilenmiş, dinlenmiş ve daha pürüzsüz görünmesini destekleyen bakım kremi.",
+     "kind": "Kremler",
+     "collection": "retinol-proage-treatment",
+     "image": null
+    }
+   ],
+   "extra": null,
+   "faqs": []
+  },
+  {
+   "title": "Yüz Temizleyicileri",
+   "slug": "yuz-temizleyicileri",
+   "heading": "Yüz Temizleyicileri",
+   "tagline": "Her cilt tipi için günlük arındırma ve bakım hazırlığı sağlayan temizleyiciler.",
+   "intro": "Güzel bir cilt görünümünün ilk adımı, cildi sabah ve akşam nazikçe temizlemektir. Casmara yüz temizleyicileri, cildi arındırırken cilt bariyerine saygı duyar ve bakım ürünlerine hazır, temiz ve dengeli bir cilt görünümü destekler.",
+   "products": [
+    {
+     "name": "3 in 1 Cleanser Deep Cleansing Green Tea",
+     "desc": "Cildi temizlemeye, tonik etkisi sağlamaya ve makyaj kalıntılarını arındırmaya yardımcı çok fonksiyonlu temizleyici.",
+     "kind": "Temizleyiciler",
+     "collection": "temizleme-serisi",
+     "image": "cleanser-deep"
+    },
+    {
+     "name": "Detox Cleanser",
+     "desc": "Yağlı, karma ve problemli ciltlerde sebum dengesini destekleyen arındırıcı temizleyici.",
+     "kind": "Temizleyiciler",
+     "collection": "temizleme-serisi",
+     "image": null
+    }
+   ],
+   "extra": null,
+   "faqs": []
+  },
+  {
+   "title": "Serumlar",
+   "slug": "serumlar",
+   "heading": "Yüz Serumları",
+   "tagline": "Belirli cilt ihtiyaçlarına yönelik konsantre aktif içeriklerle geliştirilen yoğun bakım serumları.",
+   "intro": "Casmara serumları, hafif ve hızlı emilen dokularıyla cilt bakım rutinini güçlendirir. Yoğun aktif içerikleri sayesinde nem, canlılık, sıkılık, aydınlık görünüm ve cilt tonu dengesi gibi farklı ihtiyaçlara yönelik bakım desteği sunar.",
+   "products": [
+    {
+     "name": "Balancing Serum 50 ml",
+     "desc": "Cildin daha dengeli, canlı ve enerjik görünmesine yardımcı antioksidan bakım serumu.",
+     "kind": "Serumlar",
+     "collection": "goji-treatment",
+     "image": null
+    },
+    {
+     "name": "Marine Plasma Fresh Serum 50 ml",
+     "desc": "Cilde yoğun nem desteği sağlayarak daha canlı ve taze görünmesine yardımcı serum.",
+     "kind": "Serumlar",
+     "collection": "ocean-miracle-treatment",
+     "image": "marine-fresh"
+    },
+    {
+     "name": "Marine Plasma Rich Serum 50 ml",
+     "desc": "Kuru ve nemsiz ciltlerde dolgunluk, konfor ve yoğun nem görünümü sağlayan serum.",
+     "kind": "Serumlar",
+     "collection": "ocean-miracle-treatment",
+     "image": null
+    },
+    {
+     "name": "Oxygenating Serum 50 ml",
+     "desc": "Cildin daha ferah, canlı ve nemli görünmesine yardımcı oksijen destekli serum.",
+     "kind": "Serumlar",
+     "collection": "purifying-beautyplan-treatment",
+     "image": null
+    },
+    {
+     "name": "RGnerin Wrinkle Serum 50 ml",
+     "desc": "İnce çizgi ve kırışıklık görünümünü azaltmaya yardımcı yoğun bakım serumu.",
+     "kind": "Serumlar",
+     "collection": "rgnerin-treatment",
+     "image": "rgnerin-serum"
+    },
+    {
+     "name": "Clarifying Concentrated Serum 30 ml",
+     "desc": "Leke görünümü ve ton eşitsizliğine karşı daha aydınlık cilt görünümünü destekleyen serum.",
+     "kind": "Serumlar",
+     "collection": "advanced-nacar-treatment",
+     "image": "serum-lightening"
+    },
+    {
+     "name": "Golden Age Intense Serum 50 ml",
+     "desc": "Yoğun nem desteği sağlayarak cildin daha canlı, dolgun ve aydınlık görünmesine yardımcı serum.",
+     "kind": "Serumlar",
+     "collection": "golden-age-intense-treatment",
+     "image": "golden-serum"
+    },
+    {
+     "name": "4D Powerlift Super Concentrate",
+     "desc": "Cildin daha sıkı, dolgun ve toparlanmış görünmesini destekleyen yoğun bakım konsantresi.",
+     "kind": "Serumlar",
+     "collection": "super-konsantre-serumlar",
+     "image": null
+    },
+    {
+     "name": "Rose D-Tox Super Concentrate 30 ml",
+     "desc": "Cildi arındırmaya ve enerji kazandırmaya yardımcı yenileyici süper konsantre serum.",
+     "kind": "Serumlar",
+     "collection": "super-konsantre-serumlar",
+     "image": null
+    }
+   ],
+   "extra": null,
+   "faqs": []
+  }
+ ],
+ "actives": [
+  {
+   "name": "Hyadisine",
+   "slug": "hyadisine",
+   "tagline": "Hyadisine: Denizden gelen yoğun nem ve dolgunluk etkisi",
+   "desc": "Hyadisine, deniz kaynaklı biyoteknolojik bir aktif içeriktir. Cildin nem seviyesini artırmaya, daha dolgun, pürüzsüz ve canlı görünmesine yardımcı olur. Hafif dokusu sayesinde cilde ferahlık ve konfor kazandırır.",
+   "used": [
+    {
+     "text": "OCEAN MIRACLE TREATMENT Marine Plasma Fresh Serum",
+     "collection": "ocean-miracle-treatment"
+    },
+    {
+     "text": "OCEAN MIRACLE TREATMENT Hydra Lifting Marine Plasma Rich Serum",
+     "collection": "ocean-miracle-treatment"
+    }
+   ]
+  },
+  {
+   "name": "Hyaluronic Acid",
+   "slug": "hyaluronic-acid",
+   "tagline": "Hyaluronic acid: Cilt nemini korumanın vazgeçilmez anahtarı",
+   "desc": "Hyaluronic acid, güçlü nem tutma kapasitesiyle cildin daha dolgun, pürüzsüz ve esnek görünmesine yardımcı olan etkili bir aktif içeriktir. Cildin nem dengesini destekler, kuruluk hissini azaltır ve daha canlı bir görünüm kazandırır.",
+   "used": [
+    {
+     "text": "GOLDEN AGE INTENSE TREATMENT Golden Age Intense Eye Contour",
+     "collection": "golden-age-intense-treatment"
+    },
+    {
+     "text": "GOLDEN AGE INTENSE TREATMENT Golden Age Intense Serum",
+     "collection": "golden-age-intense-treatment"
+    },
+    {
+     "text": "PURIFYING TREATMENT Pure Oxygen Hydro Oxygenating Cream",
+     "collection": "purifying-beautyplan-treatment"
+    },
+    {
+     "text": "RETINOL PROAGE TREATMENT Renewal Night Cream",
+     "collection": "retinol-proage-treatment"
+    },
+    {
+     "text": "RETINOL PROAGE TREATMENT Renewal Day Cream",
+     "collection": "retinol-proage-treatment"
+    },
+    {
+     "text": "PURIFYING TREATMENT Pure Oxygen Oxygenating Serum",
+     "collection": "purifying-beautyplan-treatment"
+    },
+    {
+     "text": "PURIFYING TREATMENT Pure Oxygen Hydro-Nutri Oxygenating Cream",
+     "collection": "purifying-beautyplan-treatment"
+    },
+    {
+     "text": "SUPER KONSANTRE SERUMLAR 4D Powerlift Super Concentrate",
+     "collection": null
+    },
+    {
+     "text": "EYE PERFECTION TREATMENT Eye Contour Anti-puffiness & Dark Circles",
+     "collection": "eye-perfection-beautyplan-treatment"
+    }
+   ]
+  },
+  {
+   "name": "Coenzyme Q10",
+   "slug": "coenzyme-q10",
+   "tagline": "Coenzyme Q10: Cildi zamanın etkilerine karşı güçlendiren antioksidan destek",
+   "desc": "Coenzyme Q10, cildin enerji üretiminde rol oynayan güçlü bir antioksidandır. Yaşla birlikte azalan Q10 seviyelerini destekleyerek cildin daha canlı, sıkı ve sağlıklı görünmesine yardımcı olur. İnce çizgi ve kırışıklık görünümünü azaltmaya destek olur.",
+   "used": [
+    {
+     "text": "Q 10 RESCUE NUTRI TREATMENT Q10 Rescue Intensive Nutri Cream",
+     "collection": null
+    }
+   ]
+  },
+  {
+   "name": "Goji Berry Extract (Ecocert certified)",
+   "slug": "goji-berry-extract-ecocert-certified",
+   "tagline": "Goji berry extract: Cilde canlılık ve antioksidan destek kazandıran doğal güç",
+   "desc": "Goji berry extract, antioksidan bakımından zengin yapısıyla cildi çevresel faktörlere karşı destekleyen değerli bir bitkisel içeriktir. Cildin daha canlı, enerjik ve dengeli görünmesine yardımcı olurken, nem ve konfor hissini artırır.",
+   "used": [
+    {
+     "text": "GOJI TREATMENT Balancing Serum",
+     "collection": "goji-treatment"
+    },
+    {
+     "text": "GOJI TREATMENT Balancing Moisturizing Cream",
+     "collection": "goji-treatment"
+    },
+    {
+     "text": "GOJI TREATMENT Balancing Nourishing Cream",
+     "collection": "goji-treatment"
+    }
+   ]
+  },
+  {
+   "name": "Centella Asiatica",
+   "slug": "centella-asiatica",
+   "tagline": "Centella Asiatica: Hassas ciltler için yatıştırıcı ve onarıcı destek",
+   "desc": "Centella Asiatica, hassas ve yıpranmış ciltleri yatıştırmaya yardımcı olan bitkisel bir aktif içeriktir. Cilt bariyerini destekler, kızarıklık ve hassasiyet görünümünün azalmasına katkı sağlar. Düzenli kullanımda cildin daha sakin, dengeli ve konforlu görünmesine yardımcı olur.",
+   "used": [
+    {
+     "text": "GOLDEN AGE INTENSE TREATMENT Golden Age Intense Eye Contour",
+     "collection": "golden-age-intense-treatment"
+    },
+    {
+     "text": "GOLDEN AGE INTENSE TREATMENT Golden Age Intense Cream",
+     "collection": "golden-age-intense-treatment"
+    }
+   ]
+  },
+  {
+   "name": "Cosmetic Acids",
+   "slug": "cosmetic-acids",
+   "tagline": "Cosmetic acids: Cilt dokusunu yenileyen etkili bakım desteği",
+   "desc": "Cosmetic acids, cilt yüzeyindeki ölü deri hücrelerinin arındırılmasına ve cilt dokusunun daha pürüzsüz görünmesine yardımcı olur. Leke, matlık, gözenek görünümü ve düzensiz cilt tonu gibi endişelerde bakım rutinini destekler. Doğru formüllerle kullanıldığında cilde daha aydınlık, temiz ve yenilenmiş bir görünüm kazandırır.",
+   "used": [
+    {
+     "text": "ADVANCED NÁCAR TREATMENT Lightening Clarifying Concentrated Serum",
+     "collection": "advanced-nacar-treatment"
+    },
+    {
+     "text": "ADVANCED NÁCAR TREATMENT Lightening Clarifying Anti-aging Cream SPF 50",
+     "collection": "advanced-nacar-treatment"
+    },
+    {
+     "text": "TEMİZLEME SERİSİ Detox Cleanser",
+     "collection": null
+    },
+    {
+     "text": "TEMİZLEME SERİSİ Three Action Peel",
+     "collection": null
+    },
+    {
+     "text": "RGNERIN TREATMENT RGnerin Wrinkle Serum",
+     "collection": "rgnerin-treatment"
+    },
+    {
+     "text": "RGNERIN TREATMENT RGnerin Hydro-Nutri Wrinkle Cream",
+     "collection": "rgnerin-treatment"
+    },
+    {
+     "text": "RGNERIN TREATMENT RGnerin Nutri+ Rich Wrinkle Cream",
+     "collection": "rgnerin-treatment"
+    }
+   ]
+  },
+  {
+   "name": "Persian Silk Tree Extract",
+   "slug": "persian-silk-tree-extract",
+   "tagline": "Persian silk tree extract: Yorgun cilt görünümüne karşı canlılık desteği",
+   "desc": "Persian silk tree extract, yorgun ve mat görünen ciltlerde daha canlı, dinlenmiş ve aydınlık bir görünüm sağlamaya yardımcı olan bitkisel bir aktif içeriktir. Cildin enerjik görünümünü destekler ve yaşlanma belirtilerine karşı bakım rutinine katkı sağlar.",
+   "used": [
+    {
+     "text": "INFINITY TREATMENT Infinity Cream",
+     "collection": "infinity-treatment"
+    }
+   ]
+  },
+  {
+   "name": "Niacinamide",
+   "slug": "niacinamide",
+   "tagline": "Niacinamide: Cilt tonunu eşitleyen ve bariyeri güçlendiren çok yönlü içerik",
+   "desc": "Niacinamide, cilt bakımında çok yönlü etkileriyle öne çıkan güçlü bir aktif içeriktir. Cilt tonunu eşitlemeye, gözenek görünümünü azaltmaya ve cilt bariyerini desteklemeye yardımcı olur. Cildin daha aydınlık, dengeli ve sağlıklı görünmesine katkı sağlar.",
+   "used": [
+    {
+     "text": "ADVANCED NÁCAR TREATMENT Lightening Clarifying Concentrated Serum",
+     "collection": "advanced-nacar-treatment"
+    },
+    {
+     "text": "ADVANCED NÁCAR TREATMENT Lightening Clarifying Anti-aging Cream SPF 50",
+     "collection": "advanced-nacar-treatment"
+    }
+   ]
+  },
+  {
+   "name": "Exosomes",
+   "slug": "exosomes",
+   "tagline": "Exosomes: Cilt yenilenmesini destekleyen yeni nesil bakım teknolojisi",
+   "desc": "Exosomes, cildin yenilenme ve onarım süreçlerini desteklemeye yardımcı olan yeni nesil bakım teknolojilerinden biridir. Yorgun, mat ve yaşlanma belirtileri gösteren ciltlerde daha canlı, sıkı ve pürüzsüz bir görünüm sağlamaya destek olur.",
+   "used": [
+    {
+     "text": "GOLDEN AGE INTENSE TREATMENT Golden Age Intense Eye Contour",
+     "collection": "golden-age-intense-treatment"
+    },
+    {
+     "text": "GOLDEN AGE INTENSE TREATMENT Golden Age Intense Serum",
+     "collection": "golden-age-intense-treatment"
+    },
+    {
+     "text": "GOLDEN AGE INTENSE TREATMENT Golden Age Intense Cream",
+     "collection": "golden-age-intense-treatment"
+    }
+   ]
+  },
+  {
+   "name": "Pure Retinol",
+   "slug": "pure-retinol",
+   "tagline": "Pure retinol: Yaşlanma belirtilerine karşı güçlü yenileyici bakım",
+   "desc": "Pure retinol, ince çizgi, kırışıklık, cilt tonu eşitsizliği ve elastikiyet kaybı görünümüne karşı kullanılan güçlü bir aktif içeriktir. Cildin yenilenme sürecini destekleyerek daha pürüzsüz, aydınlık ve genç görünümlü bir cilt elde etmeye yardımcı olur.",
+   "used": [
+    {
+     "text": "RETINOL PROAGE TREATMENT Renewal Night Cream",
+     "collection": "retinol-proage-treatment"
+    },
+    {
+     "text": "RETINOL PROAGE TREATMENT Renewal Day Cream",
+     "collection": "retinol-proage-treatment"
+    }
+   ]
+  },
+  {
+   "name": "Vitamin B12",
+   "slug": "vitamin-b12",
+   "tagline": "Vitamin B12: Cilde canlılık ve enerji kazandıran vitamin desteği",
+   "desc": "Vitamin B12, cildin daha canlı, dinlenmiş ve enerjik görünmesine yardımcı olan değerli bir aktif içeriktir. Mat, yorgun ve solgun görünen ciltlerde ışıltıyı destekler. Cilt bakım formüllerinde daha taze, dengeli ve sağlıklı bir görünüm kazandırmak için kullanılır.",
+   "used": [
+    {
+     "text": "GOLDEN AGE INTENSE TREATMENT Golden Age Intense Eye Contour",
+     "collection": "golden-age-intense-treatment"
+    },
+    {
+     "text": "GOLDEN AGE INTENSE TREATMENT Golden Age Intense Cream",
+     "collection": "golden-age-intense-treatment"
+    }
+   ]
+  },
+  {
+   "name": "Prebiotic Complex",
+   "slug": "prebiotic-complex",
+   "tagline": "Prebiotic complex: Cilt bariyerini ve doğal dengesini destekleyen bakım",
+   "desc": "Prebiotic complex, cilt mikrobiyotasının dengesini desteklemeye yardımcı olan gelişmiş bir bakım bileşenidir. Cilt bariyerini güçlendirmeye, cildin daha dengeli ve dirençli görünmesine katkı sağlar. Özellikle hassasiyet, kuruluk ve yaşlanma belirtilerine karşı destekleyici bakım sunar.",
+   "used": [
+    {
+     "text": "AGE DEFENSE TREATMENT Age Defense Cream",
+     "collection": "age-defense-treatment"
+    }
+   ]
+  },
+  {
+   "name": "Bioavailable Vitamin C",
+   "slug": "bioavailable-vitamin-c",
+   "tagline": "Bioavailable Vitamin C: Aydınlık ve eşit tonlu cilt görünümü için antioksidan güç",
+   "desc": "Bioavailable Vitamin C, cilt tarafından daha etkili şekilde kullanılabilen güçlü bir antioksidan formudur. Cilt tonunu eşitlemeye, leke görünümünü azaltmaya ve cilde ışıltı kazandırmaya yardımcı olur. Aynı zamanda çevresel faktörlere karşı cildi destekler.",
+   "used": [
+    {
+     "text": "RETINOL PROAGE TREATMENT Renewal Day Cream",
+     "collection": "retinol-proage-treatment"
+    },
+    {
+     "text": "SKIN SENSATIONS TREATMENT Sensations Hydro-Nutri Revitalizing Cream",
+     "collection": "skin-sensations-treatment"
+    },
+    {
+     "text": "SKIN SENSATIONS TREATMENT Sensations Hydro Revitalizing Cream",
+     "collection": "skin-sensations-treatment"
+    },
+    {
+     "text": "SKIN SENSATIONS TREATMENT Sensations Vitamin Shot Serum",
+     "collection": "skin-sensations-treatment"
+    }
+   ]
+  },
+  {
+   "name": "Eyeseryl",
+   "slug": "eyeseryl",
+   "tagline": "Eyeseryl: Şişlik ve torbalanma görünümüne karşı hedefli göz çevresi desteği",
+   "desc": "Eyeseryl, göz çevresinde sıvı birikimine bağlı torbalanma ve şişlik görünümünü hedefleyen özel bir aktif içeriktir. Göz altı bölgesinin daha sıkı, toparlanmış ve düzgün görünmesine yardımcı olur. Düzenli kullanımda daha hafif ve dinlenmiş bir göz çevresi görünümünü destekler.",
+   "used": [
+    {
+     "text": "EYE PERFECTION TREATMENT Eye Contour Anti-puffiness & Dark Circles",
+     "collection": "eye-perfection-beautyplan-treatment"
+    }
+   ]
+  },
+  {
+   "name": "Eyeliss",
+   "slug": "eyeliss",
+   "tagline": "Eyeliss: Yorgun bakışlara karşı daha taze ve aydınlık göz çevresi görünümü",
+   "desc": "Eyeliss, göz altı torbaları, şişlik ve yorgun bakış görünümünü azaltmaya yardımcı olan özel bir bakım aktifidir. Göz çevresinin daha pürüzsüz, canlı ve dinlenmiş görünmesini destekler. Yoğun tempo, stres ve uykusuzluk belirtilerinin göz çevresindeki görünümünü hafifletmeye yardımcı olur.",
+   "used": [
+    {
+     "text": "EYE PERFECTION TREATMENT Eye Contour Anti-wrinkle",
+     "collection": "eye-perfection-beautyplan-treatment"
+    }
+   ]
+  }
+ ],
+ "blog": [
+  {
+   "slug": "casmaranin-tarihcesi",
+   "title": "Casmara: İspanya'dan Dünyaya Uzanan Güzellik ve Cilt Bakımı Yolculuğu",
+   "excerpt": "Casmara’nın kuruluş hikâyesini, profesyonel cilt bakım sektöründeki yeniliklerini ve dünya çapındaki başarısını keşfedin.",
+   "blocks": [
+    {
+     "t": "h2",
+     "x": "Casmara'nın Hikayesi"
+    },
+    {
+     "t": "p",
+     "x": "Profesyonel cilt bakımı ve dermokozmetik alanında dünyanın önde gelen markalarından biri olan Casmara, kökleri İspanya'ya dayanan güçlü bir güzellik markasıdır. Bilimsel araştırmaları, yenilikçi formülleri ve profesyonel bakım çözümleriyle bugün 70'ten fazla ülkede milyonlarca kullanıcıya ulaşmaktadır."
+    },
+    {
+     "t": "p",
+     "x": "Kurulduğu ilk günden itibaren Casmara'nın temel amacı, cildin doğal ihtiyaçlarını anlayarak etkili ve güvenilir bakım çözümleri geliştirmek olmuştur. Ar-Ge çalışmalarına verdiği önem sayesinde marka, profesyonel bakım sektöründe birçok yeniliğe öncülük etmiştir."
+    },
+    {
+     "t": "h2",
+     "x": "Bilim ve Güzelliğin Buluşma Noktası"
+    },
+    {
+     "t": "p",
+     "x": "Casmara'nın başarısının arkasında sürekli gelişen araştırma ve geliştirme çalışmaları yer almaktadır. Marka, cilt sağlığını destekleyen aktif içerikleri modern teknolojilerle birleştirerek profesyonel bakım ürünleri geliştirmektedir."
+    },
+    {
+     "t": "p",
+     "x": "Özellikle yaşlanma karşıtı bakım, nemlendirme, aydınlatıcı bakım ve cilt yenileme alanlarında geliştirdiği çözümler, güzellik uzmanları ve profesyonel merkezler tarafından tercih edilmektedir."
+    },
+    {
+     "t": "h2",
+     "x": "Dünyaca Ünlü Algae Peel-Off Maskeler"
+    },
+    {
+     "t": "p",
+     "x": "Casmara denildiğinde akla gelen ilk yeniliklerden biri, markanın geliştirdiği profesyonel Algae Peel-Off Maskeleridir."
+    },
+    {
+     "t": "p",
+     "x": "Deniz yosunlarından elde edilen özel formüllerle geliştirilen bu maskeler, uygulama sırasında cildi tamamen kaplayarak aktif içeriklerin daha etkili şekilde nüfuz etmesine yardımcı olur. Soğutucu ve rahatlatıcı etkisi sayesinde dünya genelinde binlerce güzellik merkezi ve spa tarafından kullanılmaktadır."
+    },
+    {
+     "t": "p",
+     "x": "Bu yenilikçi yaklaşım, Casmara'yı profesyonel cilt bakım sektöründe farklı bir konuma taşımıştır."
+    },
+    {
+     "t": "h2",
+     "x": "Global Bir Marka"
+    },
+    {
+     "t": "p",
+     "x": "Bugün Casmara ürünleri Avrupa, Amerika, Asya ve Orta Doğu başta olmak üzere birçok ülkede profesyonel kullanım ve ev bakımı kategorilerinde tercih edilmektedir."
+    },
+    {
+     "t": "p",
+     "x": "Uluslararası kalite standartlarına uygun üretim anlayışıyla faaliyet gösteren marka, sürekli yenilenen ürün gamı sayesinde farklı cilt ihtiyaçlarına yönelik çözümler sunmaktadır."
+    },
+    {
+     "t": "h2",
+     "x": "Casmara Türkiye"
+    },
+    {
+     "t": "p",
+     "x": "Casmara, Türkiye'de de profesyonel güzellik merkezleri, klinikler ve cilt bakım uzmanları tarafından tercih edilen markalar arasında yer almaktadır."
+    },
+    {
+     "t": "p",
+     "x": "Casmara Türkiye olarak amacımız, markanın bilimsel yaklaşımını ve profesyonel bakım deneyimini Türkiye'deki kullanıcılarla buluşturmak, cilt sağlığını destekleyen yenilikçi ürünleri güvenle sunmaktır."
+    },
+    {
+     "t": "h2",
+     "x": "Geleceğe Bakış"
+    },
+    {
+     "t": "p",
+     "x": "Cilt bakım teknolojileri sürekli gelişirken Casmara da yenilikçi yaklaşımını sürdürmeye devam etmektedir. Bilimsel araştırmalara dayanan ürün geliştirme anlayışı ve profesyonel bakım çözümleriyle marka, gelecekte de güzellik ve cilt bakım sektörünün öncü isimlerinden biri olmayı hedeflemektedir."
+    }
+   ]
+  },
+  {
+   "slug": "casmara-teknolojisi",
+   "title": "Casmara Teknolojisi: Bilim, İnovasyon ve Profesyonel Cilt Bakımında Yeni Bir Dönem",
+   "excerpt": "Casmara’nın dünyaca ünlü Peel-Off teknolojisini, kozmetik drone sistemlerini ve profesyonel cilt bakımında fark yaratan yenilikçi teknolojilerini keşfedin.",
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Cilt bakımında gerçek başarı, yalnızca etkili içeriklerle değil, bu içeriklerin cilde nasıl ulaştırıldığıyla da ilgilidir. Casmara, 50 yılı aşkın süredir geliştirdiği yenilikçi teknolojiler sayesinde profesyonel kozmetik sektörünün öncü markalarından biri olarak kabul edilmektedir. İspanya'nın Valencia kentindeki laboratuvarlarında geliştirilen teknolojiler, bugün 80'den fazla ülkede profesyonel bakım merkezlerinde kullanılmaktadır."
+    },
+    {
+     "t": "h2",
+     "x": "Casmara Teknolojisinin Temel Felsefesi"
+    },
+    {
+     "t": "p",
+     "x": "Casmara'nın yaklaşımı, aktif bileşenleri yalnızca cilde uygulamak değil, onların etkinliğini maksimum seviyeye çıkarmaktır. Marka, araştırma-geliştirme yatırımları sayesinde profesyonel bakım sektöründe birçok ilke imza atmış ve kozmetik uygulamalarına yeni standartlar kazandırmıştır."
+    },
+    {
+     "t": "p",
+     "x": "Bu anlayışın merkezinde üç temel unsur bulunur:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "İleri düzey Ar-Ge çalışmaları",
+      "Profesyonel uygulama teknolojileri",
+      "Aktif içeriklerin etkinliğini artıran taşıyıcı sistemler"
+     ]
+    },
+    {
+     "t": "h2",
+     "x": "Casmara'nın Dünyaca Ünlü Peel-Off Teknolojisi"
+    },
+    {
+     "t": "p",
+     "x": "Casmara denildiğinde akla gelen ilk yenilik, markanın geliştirdiği Algae Peel-Off Teknolojisidir."
+    },
+    {
+     "t": "p",
+     "x": "1979 yılında geliştirilen bu teknoloji, profesyonel kozmetik sektöründe bir dönüm noktası olarak kabul edilmektedir. Deniz yosunları ve aljinatlar kullanılarak geliştirilen özel formül, uygulama sırasında cilt üzerinde ikinci bir deri gibi şekillenerek aktif içeriklerin cilde daha etkili şekilde nüfuz etmesine yardımcı olur."
+    },
+    {
+     "t": "h3",
+     "x": "Peel-Off Teknolojisinin Avantajları"
+    },
+    {
+     "t": "h3",
+     "x": "Oklüzif Etki (Kapama Etkisi)"
+    },
+    {
+     "t": "p",
+     "x": "Maske cilt üzerinde bütünsel bir tabaka oluşturarak uygulanan serum ve aktif bileşenlerin etkinliğini destekler. Bu sayede bakımın performansı artırılır."
+    },
+    {
+     "t": "h3",
+     "x": "Göz ve Dudak Bölgesine Uygulanabilme"
+    },
+    {
+     "t": "p",
+     "x": "Birçok maskenin aksine Casmara Algae Peel-Off Maskeleri göz çevresi ve dudakları da kapsayacak şekilde uygulanabilir. Böylece yüzün genellikle ihmal edilen bölgelerinde de bakım sağlanır."
+    },
+    {
+     "t": "h3",
+     "x": "Soğutucu ve Rahatlatıcı Etki"
+    },
+    {
+     "t": "p",
+     "x": "Maskenin uygulama sırasında oluşturduğu serinletici etki, cildin rahatlamasına yardımcı olur ve bakım deneyimini üst seviyeye taşır."
+    },
+    {
+     "t": "h3",
+     "x": "Tek Parça Halinde Çıkarılabilme"
+    },
+    {
+     "t": "p",
+     "x": "Casmara'nın özel Peel-Off teknolojisi sayesinde maske uygulama sonunda tek parça halinde çıkarılır. Durulama gerektirmez ve ciltte kalıntı bırakmaz."
+    },
+    {
+     "t": "h2",
+     "x": "Tek Doz ve Sekanslı Bakım Teknolojisi"
+    },
+    {
+     "t": "p",
+     "x": "Casmara'nın bir diğer önemli yeniliği ise 1978 yılında geliştirdiği sekanslı ve tek dozlu profesyonel bakım sistemidir."
+    },
+    {
+     "t": "p",
+     "x": "Bu sistem, bakımın farklı aşamalarının birbirini tamamlayacak şekilde uygulanmasını sağlar. Böylece her aşama bir sonraki uygulamanın etkinliğini destekler ve bakım sonuçları optimize edilir. Bu yaklaşım bugün profesyonel kozmetik sektöründe yaygın olarak kullanılan uygulamaların öncülerinden biri olarak kabul edilmektedir."
+    },
+    {
+     "t": "h2",
+     "x": "Kozmetik Drone Teknolojisi"
+    },
+    {
+     "t": "p",
+     "x": "Casmara, yenilikçi yaklaşımını yalnızca maskelerle sınırlı tutmamış, hedef odaklı içerik taşımayı amaçlayan Kozmetik Drone Teknolojisi gibi ileri seviye sistemleri de geliştirmiştir."
+    },
+    {
+     "t": "p",
+     "x": "Bu teknoloji, aktif bileşenlerin belirli cilt bölgelerine daha kontrollü şekilde ulaştırılmasını hedefleyen modern kozmetik yaklaşımlar arasında yer almaktadır. Marka bu teknolojiyi profesyonel bakım uygulamalarına entegre eden ilk firmalardan biri olmuştur."
+    },
+    {
+     "t": "h2",
+     "x": "Prebiyotik ve Probiyotik Destekli Formüller"
+    },
+    {
+     "t": "p",
+     "x": "Casmara, cilt mikrobiyotasının öneminin anlaşılmasıyla birlikte prebiyotik ve probiyotik içerikli profesyonel bakım sistemlerini de ürün portföyüne dahil etmiştir."
+    },
+    {
+     "t": "p",
+     "x": "Bu yaklaşım, cildin doğal savunma mekanizmasını desteklemeye ve cilt bariyerinin korunmasına yardımcı olan modern dermokozmetik trendlerinin önemli bir parçasıdır."
+    },
+    {
+     "t": "h2",
+     "x": "Casmara Teknolojisini Farklı Kılan Nedir?"
+    },
+    {
+     "t": "p",
+     "x": "Casmara'nın başarısının temelinde yalnızca içerikler değil, bu içeriklerin uygulanma şekli ve taşıma sistemleri bulunmaktadır."
+    },
+    {
+     "t": "p",
+     "x": "Markanın geliştirdiği teknolojiler:"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Aktif içeriklerin etkinliğini artırır.",
+      "Profesyonel bakım sonuçlarını destekler.",
+      "Cilt konforunu ön planda tutar.",
+      "Bilimsel araştırmalarla geliştirilir.",
+      "Sürekli yenilik anlayışıyla güncellenir."
+     ]
+    },
+    {
+     "t": "h2",
+     "x": "Sonuç"
+    },
+    {
+     "t": "p",
+     "x": "Casmara teknolojisi, yarım asrı aşan araştırma ve geliştirme çalışmalarının sonucunda ortaya çıkan yenilikçi bir bakım anlayışını temsil etmektedir. Dünyaca ünlü Algae Peel-Off Teknolojisi, sekanslı bakım sistemleri, kozmetik drone teknolojileri ve gelişmiş aktif taşıma yöntemleri sayesinde Casmara, profesyonel cilt bakımında fark yaratan markalar arasında yer almaya devam etmektedir."
+    }
+   ]
+  },
+  {
+   "slug": "peel-off-mask-nedir",
+   "title": "Peel-Off Mask Nedir? Casmara Algae Peel-Off Maskelerin Farkı Nedir?",
+   "excerpt": "Peel-Off maskelerin ne olduğunu, nasıl çalıştığını ve Casmara Algae Peel-Off Maskelerin neden bu kadar özel olduğunu keşfedin.",
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Cilt bakımında kullanılan maskeler arasında son yıllarda en çok dikkat çeken uygulamalardan biri Peel-Off Maskelerdir. Ancak her peel-off maske aynı değildir. Casmara tarafından geliştirilen Algae Peel-Off Maskeler, profesyonel cilt bakım sektöründe yıllardır kullanılan ve dünya genelinde güzellik uzmanları tarafından tercih edilen özel bir teknolojiye sahiptir."
+    },
+    {
+     "t": "p",
+     "x": "Peki Peel-Off Mask nedir, nasıl çalışır ve Casmara Peel-Off Maskeleri neden bu kadar farklıdır?"
+    },
+    {
+     "t": "h2",
+     "x": "Peel-Off Mask Nedir?"
+    },
+    {
+     "t": "p",
+     "x": "Peel-Off Mask, uygulandıktan sonra cilt üzerinde elastik bir tabaka oluşturan ve işlem sonunda tek parça halinde çıkarılabilen özel bir maske türüdür."
+    },
+    {
+     "t": "p",
+     "x": "Geleneksel krem veya kil maskelerden farklı olarak cilt yüzeyini tamamen sarar ve uygulama boyunca aktif içeriklerin ciltle temasını sürdürmesine yardımcı olur. Bu sayede bakımın etkinliği desteklenir ve cilt daha yoğun bir bakım deneyimi yaşar."
+    },
+    {
+     "t": "h2",
+     "x": "Casmara Algae Peel-Off Teknolojisi"
+    },
+    {
+     "t": "p",
+     "x": "Casmara'nın geliştirdiği Algae Peel-Off Maskeler, deniz yosunları ve özel aktif bileşenler kullanılarak formüle edilmiştir. Marka tarafından geliştirilen özel Peel-Off Teknolojisi sayesinde maske yüz hatlarına mükemmel şekilde uyum sağlar ve uygulama sonunda tek parça halinde çıkarılır."
+    },
+    {
+     "t": "p",
+     "x": "Bu teknoloji yalnızca cilt yüzeyinde kalmaz; uygulanan serumların ve aktif içeriklerin etkinliğini destekleyen özel bir oklüzif etki oluşturur."
+    },
+    {
+     "t": "h2",
+     "x": "Casmara Peel-Off Maskelerin Avantajları"
+    },
+    {
+     "t": "h3",
+     "x": "Tek Parça Halinde Çıkarılır"
+    },
+    {
+     "t": "p",
+     "x": "Birçok maskenin aksine Casmara Peel-Off Maskeler uygulama sonrasında tek parça halinde çıkarılır. Durulama gerektirmez ve ciltte kalıntı bırakmaz."
+    },
+    {
+     "t": "h3",
+     "x": "Yoğun Nem Desteği Sağlar"
+    },
+    {
+     "t": "p",
+     "x": "Deniz yosunu bazlı formüller cildin nem seviyesinin korunmasına yardımcı olur. Özellikle nemsiz ve mat görünen ciltlerde daha canlı bir görünüm elde edilmesini destekler."
+    },
+    {
+     "t": "h3",
+     "x": "Soğutucu ve Rahatlatıcı Etki Sunar"
+    },
+    {
+     "t": "p",
+     "x": "Casmara maskeler uygulama sırasında serinletici bir etki oluşturur. Bu özellik sayesinde cilt daha rahat hisseder ve bakım deneyimi konforlu hale gelir."
+    },
+    {
+     "t": "h3",
+     "x": "Göz ve Dudak Bölgesine Uygulanabilir"
+    },
+    {
+     "t": "p",
+     "x": "Casmara'nın en dikkat çekici özelliklerinden biri, maskelerin göz çevresi ve dudak bölgesini de kapsayabilmesidir. Böylece yüzün genellikle bakım sırasında ihmal edilen alanları da uygulamadan faydalanabilir."
+    },
+    {
+     "t": "h3",
+     "x": "Ciltte Daha Aydınlık ve Dinlenmiş Görünüm Sağlar"
+    },
+    {
+     "t": "p",
+     "x": "Peel-Off teknolojisi sayesinde cilt daha canlı, pürüzsüz ve tazelenmiş görünür. Özellikle yorgun ve çevresel faktörlerden etkilenen ciltlerde bakım sonrası fark edilir bir ferahlık hissi oluşabilir."
+    },
+    {
+     "t": "h2",
+     "x": "Casmara Algae Peel-Off Mask Çeşitleri"
+    },
+    {
+     "t": "p",
+     "x": "Casmara, farklı cilt ihtiyaçlarına yönelik birçok özel Peel-Off Maske geliştirmiştir:"
+    },
+    {
+     "t": "h3",
+     "x": "Green Mask 2025"
+    },
+    {
+     "t": "p",
+     "x": "Mint ve deniz yosunu özleriyle formüle edilmiştir. Oksijen desteği sağlamaya ve cildi canlandırmaya yardımcı olur."
+    },
+    {
+     "t": "h3",
+     "x": "Sensitive Mask 2040"
+    },
+    {
+     "t": "p",
+     "x": "Hassas ciltler için geliştirilmiştir. Yatıştırıcı ve rahatlatıcı etki sunar."
+    },
+    {
+     "t": "h3",
+     "x": "Gold Mask 2080"
+    },
+    {
+     "t": "p",
+     "x": "24 ayar altın ve mineral içerikleriyle formüle edilmiştir. Cilde daha canlı ve ışıltılı bir görünüm kazandırmayı hedefler."
+    },
+    {
+     "t": "h3",
+     "x": "Goji Mask 2070"
+    },
+    {
+     "t": "p",
+     "x": "Antioksidan bakım sunan özel formülü sayesinde çevresel faktörlere karşı cildin korunmasına destek olur."
+    },
+    {
+     "t": "h3",
+     "x": "Re6tense Mask 2060"
+    },
+    {
+     "t": "p",
+     "x": "Sıkılaştırıcı ve yenileyici bakım arayan kullanıcılar için geliştirilmiştir."
+    },
+    {
+     "t": "h2",
+     "x": "Peel-Off Mask Kimler İçin Uygundur?"
+    },
+    {
+     "t": "p",
+     "x": "Peel-Off Maskeler;"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Nemsiz ciltler",
+      "Mat ve yorgun görünen ciltler",
+      "Elastikiyet kaybı yaşayan ciltler",
+      "Hassas ciltler",
+      "Profesyonel bakım sonrası destek arayan kullanıcılar için tercih edilebilmektedir.",
+      "Casmara'nın farklı formülleri sayesinde hemen her cilt tipi için uygun bir seçenek bulunmaktadır."
+     ]
+    },
+    {
+     "t": "h2",
+     "x": "Sonuç"
+    },
+    {
+     "t": "p",
+     "x": "Peel-Off Maskeler, cilt bakımında hem etkili hem de konforlu bir uygulama sunan yenilikçi ürünlerdir. Casmara'nın 1979 yılında geliştirdiği Algae Peel-Off Teknolojisi ise bu kategorinin öncülerinden biri olarak kabul edilmektedir. Deniz yosunlarından gelen doğal güç, profesyonel teknoloji ve özel formüllerle birleşerek cilde yoğun bakım, nem ve ferahlık sağlamaktadır."
+    }
+   ]
+  }
+ ],
+ "policies": [
+  {
+   "title": "Çerez Politikası",
+   "slug": "cerez-politikasi",
+   "blocks": [
+    {
+     "t": "h3",
+     "x": "1. Çerezlerin Amacı"
+    },
+    {
+     "t": "p",
+     "x": "Web sitemizde kullanıcı deneyimini geliştirmek, site kullanımını analiz etmek ve teknik olarak siteyi çalışır durumda tutmak amacıyla çerezler kullanılmaktadır. Çerezler, kullanıcıların cihazlarına yerleştirilen küçük veri dosyalarıdır ve kullanıcıların tarayıcı ayarlarıyla yönetilebilir."
+    },
+    {
+     "t": "h3",
+     "x": "2. Kullanılan Çerez Türleri"
+    },
+    {
+     "t": "p",
+     "x": "Web sitemizde aşağıdaki çerez türleri kullanılabilir;"
+    },
+    {
+     "t": "p",
+     "x": "Zorunlu Çerezler: Siteye erişim ve temel işlevlerin çalışması için gerekli çerezlerdir. Bu çerezler olmadan web sitesinin bazı bölümleri çalışmayabilir."
+    },
+    {
+     "t": "p",
+     "x": "Analitik/Performans Çerezleri: Site trafiğini ve kullanım verilerini analiz etmek, kullanıcı deneyimini iyileştirmek için kullanılır. Bu çerezler, kullanıcıların hangi sayfaları ziyaret ettiğini, ne kadar süre kaldığını ve siteyi nasıl kullandığını anlamamıza yardımcı olur."
+    },
+    {
+     "t": "p",
+     "x": "Fonksiyonel Çerezler: Kullanıcı tercihlerini hatırlamak veya kişiselleştirilmiş içerik sunmak için kullanılır."
+    },
+    {
+     "t": "h3",
+     "x": "3. Çerezlerin Yönetimi"
+    },
+    {
+     "t": "p",
+     "x": "Kullanıcılar çerezleri tarayıcı ayarlarından yönetebilir, reddedebilir veya silebilir. Çerezlerin devre dışı bırakılması durumunda, bazı web sitesi işlevleri kısıtlı çalışabilir."
+    },
+    {
+     "t": "h3",
+     "x": "4. Veri İşleme ve Saklama"
+    },
+    {
+     "t": "p",
+     "x": "Çerezler aracılığıyla elde edilen bilgiler, yalnızca belirtilen amaçlarla kullanılmakta ve KVKK'ya uygun olarak saklanmaktadır. İşleme süresi, verinin amacının ortadan kalkması veya yasal saklama sürelerinin sona ermesiyle sınırlıdır."
+    },
+    {
+     "t": "h3",
+     "x": "5. İletişim"
+    },
+    {
+     "t": "p",
+     "x": "Çerezler veya kişisel verilerin işlenmesi ile ilgili sorularınız için info@slimwell.com.tr üzerinden bizimle iletişime geçebilirsiniz."
+    }
+   ]
+  },
+  {
+   "title": "Gizlilik Politikası",
+   "slug": "gizlilik-politikasi",
+   "blocks": [
+    {
+     "t": "h3",
+     "x": "1. Amaç"
+    },
+    {
+     "t": "p",
+     "x": "Bu Gizlilik Politikası, Slimwell Kozmetik Medikal ve Sportif Ürünler A.Ş. tarafından işletilen web sitesini ziyaret eden kullanıcıların kişisel verilerinin gizliliğinin korunması ve işlenmesine ilişkin esasları açıklamak amacıyla hazırlanmıştır."
+    },
+    {
+     "t": "h3",
+     "x": "2. Toplanan Veriler"
+    },
+    {
+     "t": "p",
+     "x": "Web sitemizi ziyaret etmeniz ve iletişim formunu doldurmanız halinde aşağıdaki veriler toplanabilir;"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Ad ve soyad,",
+      "Telefon numarası ve e-posta adresi,",
+      "Talep konusu ve mesaj içeriği,",
+      "IP adresi ve site kullanım bilgileri,",
+      "Çerezler ve analitik araçlar aracılığıyla elde edilen teknik veriler."
+     ]
+    },
+    {
+     "t": "h3",
+     "x": "3. Verilerin Kullanım Amaçları"
+    },
+    {
+     "t": "p",
+     "x": "Toplanan veriler;"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Taleplerinizin değerlendirilmesi ve yanıtlanması,",
+      "Sizinle iletişime geçilmesi,",
+      "Hizmet kalitesinin artırılması,",
+      "Web sitesi güvenliğinin sağlanması ve analizlerin yapılması amaçlarıyla kullanılmaktadır."
+     ]
+    },
+    {
+     "t": "h3",
+     "x": "4. Verilerin Korunması"
+    },
+    {
+     "t": "p",
+     "x": "Slimwell Kozmetik Medikal ve Sportif Ürünler A.Ş., kişisel verilerinizi yetkisiz erişim, kayıp, kötüye kullanım veya ifşaya karşı korumak amacıyla uygun teknik ve idari güvenlik tedbirlerini almaktadır."
+    },
+    {
+     "t": "h3",
+     "x": "5. Verilerin Paylaşılması"
+    },
+    {
+     "t": "p",
+     "x": "Kişisel verileriniz; Yetkili kamu kurum ve kuruluşları ile Hizmet alınan teknik altyapı ve hizmet sağlayıcılarla mevzuata uygun olarak paylaşılabilir."
+    },
+    {
+     "t": "h3",
+     "x": "6. Çerezler ve Analitik Araçlar"
+    },
+    {
+     "t": "p",
+     "x": "Web sitemizde kullanıcı deneyimini geliştirmek ve site kullanımını analiz etmek amacıyla çerezler ve analitik araçlar kullanılabilir. Bu araçlar aracılığıyla elde edilen veriler, site performansını artırmak amacıyla işlenmektedir."
+    },
+    {
+     "t": "h3",
+     "x": "7. Veri Saklama Süresi"
+    },
+    {
+     "t": "p",
+     "x": "Kişisel veriler, işlenme amaçlarının gerektirdiği süre boyunca ve ilgili yasal süreler kapsamında saklanmakta, sürenin sona ermesiyle birlikte silinmekte veya anonim hale getirilmektedir."
+    },
+    {
+     "t": "h3",
+     "x": "8. Değişiklikler"
+    },
+    {
+     "t": "p",
+     "x": "Bu Gizlilik Politikası, gerekli görüldüğü takdirde güncellenebilir. Güncellemeler web sitesi üzerinden yayımlandığı tarihten itibaren geçerli olur."
+    },
+    {
+     "t": "h3",
+     "x": "9. İletişim"
+    },
+    {
+     "t": "p",
+     "x": "Gizlilik politikası hakkında sorularınız için info@slimwell.com.tr üzerinden bizimle iletişime geçebilirsiniz."
+    }
+   ]
+  },
+  {
+   "title": "KVKK Aydınlatma Metni",
+   "slug": "kisisel-verilerin-korunmasina-iliskin-aydinlatma-metni",
+   "blocks": [
+    {
+     "t": "h3",
+     "x": "1. Veri Sorumlusu"
+    },
+    {
+     "t": "p",
+     "x": "6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) uyarınca, Slimwell Kozmetik Medikal ve Sportif Ürünler A.Ş. olarak, kişisel verileriniz veri sorumlusu sıfatıyla işlenmektedir."
+    },
+    {
+     "t": "p",
+     "x": "Unvan: Slimwell Kozmetik Medikal ve Sportif Ürünler A.Ş."
+    },
+    {
+     "t": "p",
+     "x": "Adres: İçerenköy Mah. Karaman Çiftlik Yolu Cad. Karakum Sokak No:2 Ataşehir/İstanbul"
+    },
+    {
+     "t": "p",
+     "x": "Telefon: +90 216 369 1 3 69"
+    },
+    {
+     "t": "p",
+     "x": "E-posta: info@slimwell.com.tr"
+    },
+    {
+     "t": "h3",
+     "x": "2. Amaç ve Kapsam"
+    },
+    {
+     "t": "p",
+     "x": "Bu metin; www.playskin.com.tr internet sitesini ziyaret eden kişilere ait kişisel verilerin hangi kapsamda toplandığını, hangi amaçlarla işlendiğini, kimlere ve hangi hukuki sebeplerle aktarılabileceğini, ne kadar süre saklandığını ve ilgili kişilerin haklarını açıklamak amacıyla hazırlanmıştır."
+    },
+    {
+     "t": "h3",
+     "x": "3. İşlenen Kişisel Veriler"
+    },
+    {
+     "t": "p",
+     "x": "Web sitemizde yer alan iletişim formu ve site erişiminiz sırasında aşağıdaki kişisel verileriniz işlenebilmektedir;"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Ad ve soyad,",
+      "E-posta adresi,",
+      "Telefon numarası,",
+      "Adres,",
+      "Mesaj içeriği ve talep konusu,",
+      "IP adresi ve site erişim tarihleri,",
+      "Çerezler ve analitik araçlar yoluyla elde edilen cihaz ve kullanım bilgileri."
+     ]
+    },
+    {
+     "t": "h3",
+     "x": "4. Kişisel Verilerin İşlenme Amaçları"
+    },
+    {
+     "t": "p",
+     "x": "Toplanan kişisel verileriniz;"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Tarafınızca iletilen mesaj ve talep konusunun yanıtlanması,",
+      "Tarafınız ile iletişime geçilmesi,",
+      "Ürün ve hizmetlerimiz hakkında bilgi verilmesi,",
+      "Site güvenliğinin sağlanması ve trafik analizinin yapılması,",
+      "Himet kalitesinin artırılması ve kullanıcı deneyiminin geliştirilmesi amaçlarıyla işlenmektedir."
+     ]
+    },
+    {
+     "t": "h3",
+     "x": "5. Kişisel Verilerin Toplanma Yöntemi ve Hukuki Sebebi"
+    },
+    {
+     "t": "p",
+     "x": "Kişisel verileriniz web sitemizde yer alan iletişim formu ve vasıtası ile yapılan telefon, e-posta, whatsapp görüşmeleri ve yüzyüze görüşmeler, çerezler ve analitik araçlar aracılığıyla toplanmakta olup KVKK'nın 5/2 maddesi kapsamındaki aşağıdaki sebeplerle işlenmektedir;"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Bir sözleşmenin kurulması veya ifasıyla doğrudan ilgili olması-Form aracılığıyla başlatılan talepler ve hizmet öncesi iletişimler,",
+      "Hukuki yükümlülük-Kanunlar veya resmi yükümlülükler nedeniyle verilerin işlenmesi zorunlu olabilir,",
+      "İlgili kişinin kendisi tarafından alenileştirilmiş olması-Formda sağladığınız bilgiler tarafınızdan verilmiştir,",
+      "Bir hakkın tesisi, kullanılması ve korunması için veri işlemenin zorunlu olması-Talep ve destek süreçleri için veri işlenmiştir,",
+      "Veri sorumlusunun meşru menfaatleri-Site güvenliği, iletişim takibi ve hizmet sunumu amaçlarıyla,",
+      "Gerektiğinde açık rıza alınması-Form verileriniz belirli ek amaçlarla işlenmesi durumunda rıza alınır."
+     ]
+    },
+    {
+     "t": "h3",
+     "x": "6. Kişisel Verilerin Aktarılması"
+    },
+    {
+     "t": "p",
+     "x": "Kişisel verileriniz yukarıda belirtilen amaçların gerçekleştirilmesi doğrultusunda sınırlı ve ölçülü şekilde;"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "IT ve barındırma hizmet sağlayıcılarına,",
+      "İş ortaklarına,",
+      "Grup şirketlerine,",
+      "Yetkili kamu kurum ve kuruluşlarına"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "KVKK'nın 8. ve 9. maddelerine uygun olarak aktarılabilir."
+    },
+    {
+     "t": "h3",
+     "x": "7. Kişisel Verilerin Saklanma Süresi"
+    },
+    {
+     "t": "p",
+     "x": "Kişisel verileriniz işleme amacının gerektirdiği süre kadar saklanır ve sonrasında silinir, yok edilir veya anonim hale getirilir."
+    },
+    {
+     "t": "h3",
+     "x": "8. İlgili Kişinin Hakları;"
+    },
+    {
+     "t": "p",
+     "x": "KVKK'nın 11. maddesi uyarınca aşağıdaki haklara sahipsiniz;"
+    },
+    {
+     "t": "ul",
+     "x": [
+      "Kişisel verilerinizin işlenip işlenmediğini öğrenme,",
+      "İşlenmişse buna ilişkin bilgi talep etme,",
+      "İşlenme amacını ve amaca uygun kullanılıp kullanılmadığını öğrenme,",
+      "Yurt içinde veya yurt dışında aktarıldığı üçüncü kişileri bilme,",
+      "Eksik veya yanlış işlenmiş olması hâlinde düzeltilmesini isteme,",
+      "KVKK'ya uygun olarak silinmesini veya yok edilmesini isteme,",
+      "Düzletme, silinme veya yok edilme işlemlerinin üçüncü kişilere bildirilmesini isteme,",
+      "İşlenen verilerin münhasıran otomotik sistemler vasıtasıyla analiz edilmesi suretiyle aleyhinize bir sonucun ortaya çıkmasına itiraz etme,",
+      "Kanuna aykırı işlenmesi sebebiyle zarara uğramanız halinde zararın giderilmesini talep etme."
+     ]
+    },
+    {
+     "t": "h3",
+     "x": "9. Başvuru Yöntemi"
+    },
+    {
+     "t": "p",
+     "x": "KVKK'nın 11. maddesinde belirtilen haklarınıza ilişkin talebinizi yazılı olarak veya Kişisel Verileri Koruma Kurulu'nun belirlediği diğer yöntemlerle şirketimize iletebilirsiniz. Yazılı olarak başvurunuzu ileteceğiniz kanallar ve usuller aşağıda açıklanmaktadır."
+    },
+    {
+     "t": "p",
+     "x": "Kimliğinizi tespit edici gerekli bilgilerinizi ve KVKK'nın 11. maddesinde belirtilen haklardan kullanmayı talep ettiğiniz hakkınıza yönelik açıklamalarınızı içeren ıslak imzalı talebinizi \"İçerenköy Mah. Karaman Çiftlik Yolu Cad. Karakum Sokak No:2 Ataşehir/İstanbul\" adresine bizzat elden veya iadeli taahhütlü posta ile veya noter kanalıyla gönderebilirsiniz."
+    },
+    {
+     "t": "p",
+     "x": "Kişisel bilgilerini ve iletişim tercihlerini güncellemek isteyen Kullanıcılar taleplerini info@slimwell.com.tr adresine e-posta ile iletebilirler."
+    }
+   ]
+  }
+ ],
+ "about": {
+  "title": "50 Yılı Aşkın Kozmetik İnovasyonu",
+  "intro": "1974 yılında İspanya'nın Valencia şehrinde kurulan Casmara, profesyonel kozmetik sektöründe yenilikçi yaklaşımı, bilimsel uzmanlığı ve yüksek performanslı formülasyonlarıyla öne çıkan global bir markadır. Günümüzde 80'den fazla ülkede faaliyet gösteren Casmara, profesyonel bakım ürünleri ve ev bakım çözümleriyle farklı cilt ihtiyaçlarına yönelik kapsamlı bir ürün portföyü sunmaktadır.",
+  "chapters": [
+   {
+    "title": "Tek Çatı Altında Ar-Ge ve Üretim",
+    "text": []
+   },
+   {
+    "title": "Uçtan uca kontrollü süreç yönetimi",
+    "text": [
+     "Casmara, Valencia'daki Ar-Ge ve üretim tesislerinde ürün geliştirme sürecinin tüm aşamalarını kendi bünyesinde yönetir. Bu entegre yapı; kalite, güvenlik ve etkinlik standartlarının her aşamada titizlikle kontrol edilmesini sağlar.",
+     "Kurulduğu günden bu yana profesyonel kozmetik sektörüne birçok yenilik kazandıran marka, 1978 yılında ilk tek doz kişiye özel kit bakım uygulamalarını geliştirmiş; 1979 yılında ise bugün markanın simgesi haline gelen Algae Peel-Off Maskeleri ile profesyonel bakım deneyimine yeni bir yaklaşım kazandırmıştır."
+    ]
+   },
+   {
+    "title": "Kozmetik Tarihine Yön Veren Yenilikler",
+    "text": [
+     "Casmara'nın inovasyon yolculuğu, profesyonel bakım uygulamalarında öncü teknolojiler ve aktif içeriklerle şekillenmiştir. Marka; 1998 yılında Coenzyme Q10 içeren ilk profesyonel uygulamayı geliştirmiş, 2002 yılında Argireline® aktif bileşenini profesyonel bakım uygulamalarında kullanarak sektörde öncü bir rol üstlenmiştir.",
+     "2008 yılında çoklu aktif içerik teknolojisine sahip profesyonel bakım konseptlerini sunan Casmara, 2009 yılında Avrupa'nın ilk ECOCERT® sertifikalı Goji Berry içerikli dermokozmetik ürünlerini geliştirmiştir. 2014 yılında ilk iyonize maskeyi profesyonel kozmetik dünyasına kazandıran marka, 2017 yılında ise 3,5 yıllık Ar-Ge çalışmasının sonucunda dünyanın ilk pro ve prebiyotik kit bakımını geliştirerek cilt mikrobiyotasına yönelik bakım anlayışına öncülük etmiştir.",
+     "Bugün Casmara, bitki kökenli exosomes, senolytic technology ve polynucleotides bir araya getiren Golden Age Treatment ile profesyonel kozmetik sektöründe geleceğin bakım teknolojilerine yön vermeye devam etmektedir."
+    ]
+   },
+   {
+    "title": "Akdeniz Ruhu",
+    "text": [
+     "Akdeniz'in doğallığından, enerjisinden ve güzellik anlayışından ilham alan Casmara; 50 yılı aşkın deneyimini bilimsel yeniliklerle birleştirerek profesyonel kozmetik sektöründe ilklerin markası olmayı sürdürmektedir. Marka, etkili formülasyonları ve yenilikçi bakım konseptleriyle profesyonellerin ve kullanıcıların değişen ihtiyaçlarına yanıt veren çözümler geliştirmeye devam eder."
+    ]
+   },
+   {
+    "title": "Türkiye'de Casmara",
+    "text": [
+     "Casmara, 2017 yılından bu yana Türkiye'de Slimwell Group güvencesiyle temsil edilmektedir. Güzellik ve estetik sektöründe köklü bir geçmişe sahip olan Slimwell Group, markanın Türkiye'deki yetkili distribütörü olarak Casmara'nın profesyonel dermokozmetik ürünlerini ve uygulama konseptlerini Türkiye'deki güzellik ve estetik profesyonelleriyle buluşturmaktadır.",
+     "Slimwell Group, Casmara'nın global kalite standartlarını Türkiye pazarına güvenilir, sürdürülebilir ve profesyonel bir temsil anlayışıyla taşımayı hedefler."
+    ]
+   }
+  ]
+ }
+}
