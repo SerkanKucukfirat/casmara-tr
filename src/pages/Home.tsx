@@ -109,10 +109,10 @@ function Hero() {
 
 // Four tall panels side by side; the one under the pointer widens and tells more.
 const PANELS = [
-  { to: '/koleksiyonlar', label: 'Koleksiyonlar', text: '18 profesyonel bakım protokolü', image: 'vid-kit' },
-  { to: '/koleksiyonlar/algae-peel-off-maske-koleksiyonu', label: 'Peel-Off Maskeler', text: '1979’dan beri markanın simgesi', image: 'vid-mask' },
-  { to: '/cilt-endiseleri', label: 'Cilt Endişeleri', text: 'Cildinize uygun bakımı bulun', image: 'vid-smile' },
-  { to: '/aktif-icerikler', label: 'Aktif İçerikler', text: 'Formüllerin ardındaki bilim', image: 'vid-massage' },
+  { to: '/koleksiyonlar', label: 'Koleksiyonlar', text: '18 profesyonel bakım protokolü', image: 'stock-collections' },
+  { to: '/koleksiyonlar/algae-peel-off-maske-koleksiyonu', label: 'Peel-Off Maskeler', text: '1979’dan beri markanın simgesi', image: 'stock-masks' },
+  { to: '/cilt-endiseleri', label: 'Cilt Endişeleri', text: 'Cildinize uygun bakımı bulun', image: 'stock-concerns' },
+  { to: '/aktif-icerikler', label: 'Aktif İçerikler', text: 'Formüllerin ardındaki bilim', image: 'stock-actives' },
 ]
 
 function Panels() {
