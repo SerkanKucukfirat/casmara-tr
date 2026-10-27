@@ -1,4 +1,4 @@
-import { useState, type CSSProperties, type ReactNode } from 'react'
+import { useEffect, useState, type CSSProperties, type ReactNode } from 'react'
 import { Link } from 'react-router-dom'
 import { focus, img, type Collection, type Device, type Faq, type ListingProduct, type Product } from '../content'
 import { splitWords } from './motion'
@@ -82,6 +82,13 @@ export function CollectionCard({ c, index }: { c: Collection | Device; index?: n
     <Link to={`/koleksiyonlar/${c.slug}`} className="ccard" style={{ '--a': c.accent, '--t': c.tint } as CSSProperties}>
       <div className="ccard-img">
         <img src={img(c.card)} alt={c.title} loading="lazy" style={{ objectPosition: focus(c.card) }} />
+        {c.hero !== c.card && <img className="ccard-alt" src={img(c.hero)} alt="" loading="lazy" style={{ objectPosition: focus(c.hero) }} />}
+        <span className="ccard-hover">
+          <span>{c.tagline}</span>
+          <span className="ccard-btn">
+            Koleksiyonu keşfet <Arrow />
+          </span>
+        </span>
       </div>
       <div className="ccard-copy">
         {index !== undefined && <span className="ccard-n">{String(index + 1).padStart(2, '0')}</span>}
@@ -96,11 +103,12 @@ export function CollectionCard({ c, index }: { c: Collection | Device; index?: n
 }
 
 // A product without its own photo gets a quiet, typographic tile instead of a stand-in picture.
-export function ProductVisual({ image, name, accent }: { image?: string | null; name: string; accent?: string }) {
+export function ProductVisual({ image, name, accent, alt }: { image?: string | null; name: string; accent?: string; alt?: string }) {
   if (image)
     return (
       <div className="pv">
         <img src={img(image)} alt={name} loading="lazy" />
+        {alt && <img className="pv-alt" src={img(alt)} alt="" loading="lazy" style={{ objectPosition: focus(alt) }} />}
       </div>
     )
   return (
@@ -111,11 +119,11 @@ export function ProductVisual({ image, name, accent }: { image?: string | null; 
   )
 }
 
-export function ProductCard({ p, accent, to }: { p: Product | ListingProduct; accent?: string; to?: string | null }) {
+export function ProductCard({ p, accent, to, alt }: { p: Product | ListingProduct; accent?: string; to?: string | null; alt?: string }) {
   const full = p as Product
   const body = (
     <>
-      <ProductVisual image={p.image} name={p.name} accent={accent} />
+      <ProductVisual image={p.image} name={p.name} accent={accent} alt={alt} />
       <div className="pc-copy">
         {'kind' in p && p.kind && <span className="pc-kind">{p.kind}</span>}
         {full.tag && <span className="pc-kind">{full.tag}</span>}
@@ -201,6 +209,47 @@ export function CtaBand({ title, text, button, subject }: { title: ReactNode; te
           {button} <Arrow />
         </Link>
       </div>
+    </section>
+  )
+}
+
+// A wide still with a play button; the full protocol film opens in a lightbox and only then starts loading.
+export function VideoFeature({ title = 'Golden Age Intense Treatment', text = 'Profesyonel uygulama protokolünü adım adım izleyin.' }: { title?: string; text?: string }) {
+  const [open, setOpen] = useState(false)
+  useEffect(() => {
+    if (!open) return
+    document.documentElement.classList.add('locked')
+    const esc = (e: KeyboardEvent) => e.key === 'Escape' && setOpen(false)
+    window.addEventListener('keydown', esc)
+    return () => {
+      document.documentElement.classList.remove('locked')
+      window.removeEventListener('keydown', esc)
+    }
+  }, [open])
+  return (
+    <section className="vfeat">
+      <div className="wrap">
+        <button className="vfeat-frame rv-img" onClick={() => setOpen(true)} aria-label={`${title} uygulama videosunu oynat`}>
+          <img src={img('vid-touch')} alt="" loading="lazy" />
+          <span className="vfeat-shade" />
+          <span className="vfeat-copy">
+            <span className="eyebrow light">Uygulama videosu</span>
+            <span className="vfeat-title">{title}</span>
+            <span className="vfeat-text">{text}</span>
+          </span>
+          <span className="vfeat-play" aria-hidden>
+            <span className="ico-play" />
+          </span>
+        </button>
+      </div>
+      {open && (
+        <div className="lightbox" role="dialog" aria-label={title} onClick={e => e.target === e.currentTarget && setOpen(false)}>
+          <video src={`${import.meta.env.BASE_URL}video/golden-age-protokol.mp4`} poster={img('vid-salon')} controls autoPlay playsInline />
+          <button className="lightbox-x" onClick={() => setOpen(false)} aria-label="Kapat">
+            ×
+          </button>
+        </div>
+      )}
     </section>
   )
 }

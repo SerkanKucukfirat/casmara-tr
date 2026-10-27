@@ -1,15 +1,18 @@
 import { useEffect, useRef, useState, type CSSProperties } from 'react'
 import { gsap } from 'gsap'
 import { Link } from 'react-router-dom'
-import { CONTACT, cares, collections, concerns, favourites, heroSlides, img, milestones } from '../content'
+import { CONTACT, cares, collections, concerns, favourites, featured, focus, heroSlides, img, milestones } from '../content'
 import { reduced, useReveal } from '../components/motion'
-import { Arrow, CollectionCard, Marquee, Monogram } from '../components/ui'
+import { Arrow, CollectionCard, Marquee, VideoFeature } from '../components/ui'
 
-const DELAY = 6500
+const DELAY = 7000
 
+// Full-bleed film of the Golden Age protocol; the headline changes over it like a slow slideshow.
 function Hero() {
   const [i, setI] = useState(0)
+  const [playing, setPlaying] = useState(true)
   const root = useRef<HTMLElement>(null)
+  const video = useRef<HTMLVideoElement>(null)
   const timer = useRef<number>(0)
 
   const go = (n: number) => setI((n + heroSlides.length) % heroSlides.length)
@@ -20,39 +23,57 @@ function Hero() {
     return () => window.clearTimeout(timer.current)
   }, [i])
 
-  // each slide's words rise in; the picture settles from a slow zoom
   useEffect(() => {
     const el = root.current
     if (!el || reduced()) return
     const ctx = gsap.context(() => {
       const s = `.hs[data-i="${i}"]`
-      gsap.fromTo(`${s} .hs-word > span`, { yPercent: 115 }, { yPercent: 0, duration: 1.4, ease: 'expo.out', stagger: 0.08, delay: 0.15 })
-      gsap.fromTo(`${s} .hs-fade`, { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 1, ease: 'power3.out', stagger: 0.1, delay: 0.45 })
-      gsap.fromTo(`.hp[data-i="${i}"] img`, { scale: 1.14 }, { scale: 1, duration: DELAY / 1000 + 1.5, ease: 'power1.out' })
+      gsap.fromTo(`${s} .hs-word > span`, { yPercent: 115 }, { yPercent: 0, duration: 1.5, ease: 'expo.out', stagger: 0.09, delay: 0.1 })
+      gsap.fromTo(`${s} .hs-fade`, { y: 18, opacity: 0 }, { y: 0, opacity: 1, duration: 1.1, ease: 'power3.out', stagger: 0.1, delay: 0.4 })
     }, el)
     return () => ctx.revert()
   }, [i])
 
-  // the arch drifts with the scroll and the swirl turns slowly
+  // the film sinks and darkens slightly as the page scrolls over it
   useEffect(() => {
     const el = root.current
     if (!el || reduced()) return
     const ctx = gsap.context(() => {
-      gsap.to('.hero-arch', { yPercent: 12, ease: 'none', scrollTrigger: { trigger: el, start: 'top top', end: 'bottom top', scrub: true } })
-      gsap.to('.hero-copy', { yPercent: -18, opacity: 0.2, ease: 'none', scrollTrigger: { trigger: el, start: 'top top', end: 'bottom top', scrub: true } })
-      gsap.to('.hero-swirl', { rotate: 360, duration: 120, repeat: -1, ease: 'none' })
+      gsap.to('.hero-film', { yPercent: 18, scale: 1.08, ease: 'none', scrollTrigger: { trigger: el, start: 'top top', end: 'bottom top', scrub: true } })
+      gsap.to('.hero-copy', { yPercent: -30, opacity: 0, ease: 'none', scrollTrigger: { trigger: el, start: 'top top', end: 'bottom top', scrub: true } })
     }, el)
     return () => ctx.revert()
   }, [])
 
+  const toggle = () => {
+    const v = video.current
+    if (!v) return
+    if (v.paused) v.play()
+    else v.pause()
+    setPlaying(!v.paused)
+  }
+
   return (
     <section className="hero" ref={root}>
-      <Monogram className="hero-swirl" />
-      <div className="wrap hero-grid">
-        <div className="hero-copy">
+      <div className="hero-film">
+        <video
+          ref={video}
+          src={`${import.meta.env.BASE_URL}video/hero.mp4`}
+          poster={img('hero-poster')}
+          autoPlay={!reduced()}
+          muted
+          loop
+          playsInline
+          preload="auto"
+          aria-hidden
+        />
+      </div>
+      <div className="hero-shade" />
+      <div className="wrap hero-copy">
+        <div className="hero-slides">
           {heroSlides.map((s, n) => (
             <div key={s.slug} className={`hs ${n === i ? 'on' : ''}`} data-i={n} aria-hidden={n !== i}>
-              <p className="eyebrow hs-fade">{s.eyebrow}</p>
+              <p className="eyebrow light hs-fade">{s.eyebrow}</p>
               <h1 className="display hero-title">
                 <span className="hs-word">
                   <span>{s.title}</span>
@@ -61,11 +82,13 @@ function Hero() {
                   <span>{s.em}</span>
                 </span>
               </h1>
-              <Link to={`/koleksiyonlar/${s.slug}`} className="btn hs-fade" tabIndex={n === i ? 0 : -1}>
-                Koleksiyonu keşfedin <Arrow />
+              <Link to={`/koleksiyonlar/${s.slug}`} className="btn light hs-fade" tabIndex={n === i ? 0 : -1}>
+                Keşfedin <Arrow />
               </Link>
             </div>
           ))}
+        </div>
+        <div className="hero-bar">
           <div className="hero-dots" role="tablist" aria-label="Öne çıkanlar">
             {heroSlides.map((s, n) => (
               <button key={s.slug} role="tab" aria-selected={n === i} className={n === i ? 'on' : ''} onClick={() => go(n)}>
@@ -75,22 +98,40 @@ function Hero() {
               </button>
             ))}
           </div>
-        </div>
-        <div className="hero-arch">
-          {heroSlides.map((s, n) => (
-            <div key={s.slug} className={`hp ${n === i ? 'on' : ''}`} data-i={n}>
-              <img src={img(s.image)} alt="" style={{ objectPosition: s.pos }} fetchPriority={n === 0 ? 'high' : 'auto'} />
-            </div>
-          ))}
-          <div className="hero-badge">
-            <strong>1974</strong>
-            <span>Valencia · İspanya</span>
-          </div>
+          <button className="hero-play" onClick={toggle} aria-label={playing ? 'Videoyu durdur' : 'Videoyu oynat'}>
+            {playing ? <span className="ico-pause" /> : <span className="ico-play" />}
+          </button>
         </div>
       </div>
-      <a href="#marka" className="hero-scroll" aria-label="Aşağı kaydır">
-        <span />
-      </a>
+    </section>
+  )
+}
+
+// Four tall panels side by side; the one under the pointer widens and tells more.
+const PANELS = [
+  { to: '/koleksiyonlar', label: 'Koleksiyonlar', text: '18 profesyonel bakım protokolü', image: 'vid-kit' },
+  { to: '/koleksiyonlar/algae-peel-off-maske-koleksiyonu', label: 'Peel-Off Maskeler', text: '1979’dan beri markanın simgesi', image: 'vid-mask' },
+  { to: '/cilt-endiseleri', label: 'Cilt Endişeleri', text: 'Cildinize uygun bakımı bulun', image: 'vid-smile' },
+  { to: '/aktif-icerikler', label: 'Aktif İçerikler', text: 'Formüllerin ardındaki bilim', image: 'vid-massage' },
+]
+
+function Panels() {
+  return (
+    <section className="panels rv-stagger" aria-label="Keşfedin">
+      {PANELS.map(p => (
+        <Link key={p.to} to={p.to} className="panel">
+          <img src={img(p.image)} alt="" loading="lazy" />
+          <span className="panel-in">
+            <strong>{p.label}</strong>
+            <span className="panel-more">
+              <span>{p.text}</span>
+              <span className="panel-go">
+                Keşfet <Arrow />
+              </span>
+            </span>
+          </span>
+        </Link>
+      ))}
     </section>
   )
 }
@@ -175,34 +216,113 @@ function Favourites() {
   )
 }
 
-const HOME_CARE = [
-  { label: 'Golden Age', sub: 'Ev devam ürünleri', image: 'golden-serum', to: 'golden-age-intense-treatment' },
-  { label: 'Infinity Cream', sub: 'Rejuvenating cream', image: 'infinity-cream', to: 'infinity-treatment' },
-  { label: 'Purifying', sub: 'Ev devam ürünleri', image: 'purifying-cleanser', to: 'purifying-beautyplan-treatment' },
-  { label: 'Goji', sub: 'Ev devam ürünleri', image: 'goji-treatment', to: 'goji-treatment', cover: true },
-]
-
-function HomeCare() {
+// AB-style bestseller rail: the centred product is large, its neighbours recede; arrows, tabs and drag move it.
+function Featured() {
+  const tabs = ['Tümü', 'Serumlar', 'Kremler', 'Temizleyiciler']
+  const [tab, setTab] = useState('Tümü')
+  const list = featured.filter(f => tab === 'Tümü' || f.tab === tab)
+  const [i, setI] = useState(0)
+  const at = Math.min(i, list.length - 1)
+  const start = useRef<number | null>(null)
+  const go = (n: number) => setI((n + list.length) % list.length)
   return (
-    <section className="homecare">
+    <section className="featured">
       <div className="wrap">
-        <div className="sec-head">
-          <div>
-            <p className="eyebrow rv">Evde devam eden bakım</p>
-            <h2 className="display l rv">
-              Salondaki sonucu <em>her gün</em> sürdürün
-            </h2>
+        <div className="sec-head center">
+          <p className="eyebrow rv">Öne çıkanlar</p>
+          <h2 className="display l rv">
+            Evde devam eden <em>bakım</em>
+          </h2>
+          <div className="tabs rv" role="tablist">
+            {tabs.map(t => (
+              <button
+                key={t}
+                role="tab"
+                aria-selected={tab === t}
+                className={tab === t ? 'on' : ''}
+                onClick={() => {
+                  setTab(t)
+                  setI(0)
+                }}
+              >
+                {t}
+              </button>
+            ))}
           </div>
         </div>
-        <div className="hc-grid rv-stagger">
-          {HOME_CARE.map(h => (
-            <Link key={h.label} to={`/koleksiyonlar/${h.to}`} className="hc">
-              <div className={`hc-img ${'cover' in h ? 'cover' : ''}`}>
-                <img src={img(h.image)} alt={h.label} loading="lazy" />
+      </div>
+      <div
+        className="fr"
+        onPointerDown={e => (start.current = e.clientX)}
+        onPointerUp={e => {
+          if (start.current === null) return
+          const dx = e.clientX - start.current
+          start.current = null
+          if (Math.abs(dx) > 40) go(at + (dx < 0 ? 1 : -1))
+        }}
+      >
+        <div className="fr-track" style={{ transform: `translateX(calc(${-at} * var(--slot)))` }}>
+          {list.map((f, n) => (
+            <Link
+              key={f.name}
+              to={`/koleksiyonlar/${f.slug}`}
+              className={`fp ${n === at ? 'on' : ''}`}
+              onClick={e => {
+                if (n !== at) {
+                  e.preventDefault()
+                  setI(n)
+                }
+              }}
+              draggable={false}
+            >
+              <div className="fp-img">
+                <img src={img(f.image)} alt={f.name} draggable={false} loading="lazy" />
+                <img src={img(f.alt)} alt="" className="fp-alt" draggable={false} loading="lazy" style={{ objectPosition: focus(f.alt) }} />
               </div>
-              <span>{h.sub}</span>
-              <strong>{h.label}</strong>
+              <span className="fp-tab">{f.tab}</span>
+              <strong>{f.name}</strong>
+              <span className="fp-cta">Ürünü incele</span>
             </Link>
+          ))}
+        </div>
+        <button className="fr-arrow prev" aria-label="Önceki ürün" onClick={() => go(at - 1)}>
+          <Arrow />
+        </button>
+        <button className="fr-arrow next" aria-label="Sonraki ürün" onClick={() => go(at + 1)}>
+          <Arrow />
+        </button>
+      </div>
+    </section>
+  )
+}
+
+// "Bilimimiz eşsiz": three glass cards float over a wide still from the protocol film.
+const SCIENCE = [
+  { title: 'Tek çatı altında Ar-Ge ve üretim', text: 'Valencia’daki Ar-Ge ve üretim tesislerinde ürün geliştirme sürecinin tüm aşamaları marka bünyesinde yönetilir; kalite, güvenlik ve etkinlik her aşamada kontrol edilir.' },
+  { title: 'İlklerin markası', text: '1978’de ilk tek doz kit bakımı, 1979’da Algae Peel-Off maskeler, 1998’de Coenzyme Q10 içeren ilk profesyonel uygulama ve 2017’de dünyanın ilk pro ve prebiyotik kit bakımı.' },
+  { title: 'Akdeniz ruhu', text: 'Akdeniz’in doğallığından ve güzellik anlayışından ilham alan Casmara, 50 yılı aşkın deneyimini bilimsel yeniliklerle birleştirir.' },
+]
+
+function Science() {
+  return (
+    <section className="science">
+      <img className="science-bg" src={img('vid-lineup')} alt="" loading="lazy" data-parallax="8" />
+      <div className="science-shade" />
+      <div className="wrap science-in">
+        <p className="eyebrow light rv">Valencia · 1974</p>
+        <h2 className="display l rv">
+          Bilimimiz <em>eşsiz</em>
+        </h2>
+        <Link to="/hakkimizda" className="btn light rv">
+          Hikâyemiz <Arrow />
+        </Link>
+        <div className="glass-list rv-stagger">
+          {SCIENCE.map((s, n) => (
+            <div key={s.title} className="glass">
+              <em>{String(n + 1).padStart(2, '0')}.</em>
+              <h3>{s.title}</h3>
+              <p>{s.text}</p>
+            </div>
           ))}
         </div>
       </div>
@@ -390,10 +510,13 @@ export default function Home() {
   return (
     <div ref={page}>
       <Hero />
+      <Panels />
       <Statement />
       <Marquee items={['Profesyonel formülasyon', 'Valencia’da Ar-Ge ve üretim', 'Algae Peel-Off teknolojisi', '80+ ülke', 'Since 1974']} />
       <Favourites />
-      <HomeCare />
+      <Featured />
+      <Science />
+      <VideoFeature />
       <Editorial />
       <Milestones />
       <SkinFinder />

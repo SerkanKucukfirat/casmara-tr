@@ -117,3 +117,18 @@ export const milestones = [
   { year: '2014', text: 'İlk iyonize maske' },
   { year: '2017', text: 'Dünyanın ilk pro ve prebiyotik kit bakımı' },
 ]
+
+// Home "öne çıkanlar" rail: only products we have a real packshot for; the alt picture shows on hover.
+export const featured = [
+  { name: 'Golden Age Intense Serum', tab: 'Serumlar', slug: 'golden-age-intense-treatment', image: 'golden-serum', alt: 'golden-still' },
+  { name: 'Golden Age Intense Cream', tab: 'Kremler', slug: 'golden-age-intense-treatment', image: 'golden-cream', alt: 'vid-lineup' },
+  { name: 'Infinity Cream', tab: 'Kremler', slug: 'infinity-treatment', image: 'infinity-cream', alt: 'infinity-hero-tr' },
+  { name: 'Sensations Vitamin Shot', tab: 'Serumlar', slug: 'skin-sensations-treatment', image: 'sensations-shot', alt: 'sensations-hydronutri' },
+  { name: 'RGnerin Wrinkle Serum', tab: 'Serumlar', slug: 'rgnerin-treatment', image: 'rgnerin-serum', alt: 'rgnerin-treatment' },
+  { name: 'Marine Plasma Fresh Serum', tab: 'Serumlar', slug: 'ocean-miracle-treatment', image: 'marine-fresh', alt: 'ocean-pro' },
+  { name: 'Q10 Rescue Intensive Nutri Cream', tab: 'Kremler', slug: 'q10-rescue-nutri-treatment', image: 'q10-pack', alt: 'q10-treatment' },
+  { name: 'Clarifying Concentrated Serum', tab: 'Serumlar', slug: 'advanced-nacar-treatment', image: 'serum-lightening', alt: 'nacar-treatment' },
+  { name: '3 in 1 Deep Cleanser', tab: 'Temizleyiciler', slug: 'temizleme-serisi', image: 'cleanser-deep', alt: 'cleansers-banner' },
+  { name: 'Purifying Cleanser', tab: 'Temizleyiciler', slug: 'purifying-beautyplan-treatment', image: 'purifying-cleanser', alt: 'purifying-still' },
+  { name: 'Eye Contour', tab: 'Kremler', slug: 'eye-perfection-beautyplan-treatment', image: 'eye-retail', alt: 'eye-pro' },
+]

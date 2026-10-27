@@ -3,7 +3,7 @@ import { gsap } from 'gsap'
 import { Link, useParams } from 'react-router-dom'
 import { bySlug, collections, focus, img, ingredientImage, section, type Collection, type Device } from '../content'
 import { reduced, splitWords, useIntro, useReveal } from '../components/motion'
-import { Arrow, CollectionCard, Crumbs, CtaBand, Faqs, Marquee, Monogram, ProductCard } from '../components/ui'
+import { Arrow, CollectionCard, Crumbs, CtaBand, Faqs, Marquee, Monogram, ProductCard, VideoFeature } from '../components/ui'
 import NotFound from './NotFound'
 
 function Hero({ c, eyebrow, title, subtitle, desc, benefits }: { c: Collection | Device; eyebrow: string; title: string; subtitle: string; desc: string[]; benefits: string[] }) {
@@ -135,7 +135,7 @@ function Products({ c }: { c: Collection }) {
         </div>
         <div className={`pgrid n${Math.min(s.items.length, 4)} rv-stagger`}>
           {s.items.map(p => (
-            <ProductCard key={p.name} p={p} accent={c.accent} />
+            <ProductCard key={p.name} p={p} accent={c.accent} alt={c.hero} />
           ))}
         </div>
       </div>
@@ -326,6 +326,7 @@ export default function CollectionPage() {
       <Ingredients c={c} />
       <Wide c={c} />
       <Protocol c={c} />
+      {c.slug === 'golden-age-intense-treatment' && <VideoFeature />}
       <Products c={c} />
       <Effects c={c} />
       {cta && <CtaBand title={cta.text} button={cta.button} subject={c.title} />}
