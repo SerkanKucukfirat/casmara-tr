@@ -422,7 +422,7 @@
         "Nem desteği",
         "Tüm cilt tiplerine uygun"
        ],
-       "image": "cat-p-goji-2"
+       "image": "ct-goji-serum"
       },
       {
        "name": "Hydro Balancing Cream 50 ml",
@@ -434,7 +434,7 @@
         "Daha canlı görünüm",
         "Normal ve karma ciltler için uygun"
        ],
-       "image": "cat-p-goji-3"
+       "image": "ct-goji-hydro"
       },
       {
        "name": "Nutri Balancing Cream 50 ml",
@@ -446,7 +446,7 @@
         "Cilt bariyeri desteği",
         "Kuru ve çok kuru ciltler için uygun"
        ],
-       "image": "cat-p-goji-4"
+       "image": "ct-goji-nutri"
       }
      ]
     },
@@ -583,7 +583,7 @@
         "Konforlu nem desteği",
         "Normal, karma ve hassas ciltler için uygundur"
        ],
-       "image": "cat-p-skin-5"
+       "image": "hq-sens-hydro"
       },
       {
        "name": "Hydro-Nutri Revitalizing Cream 50 ml",
@@ -731,7 +731,7 @@
         "Daha dolgun görünüm",
         "Normal ve kuru cilt tipleri için uygundur"
        ],
-       "image": "cat-p-rgnerin-6"
+       "image": "hq-rg-hydronutri"
       },
       {
        "name": "Nutri+ Rich Wrinkle Cream 50 ml",
@@ -744,7 +744,7 @@
         "Yoğun nem ve konfor sağlar",
         "Kuru ve çok kuru ciltler için uygundur"
        ],
-       "image": "cat-p-rgnerin-7"
+       "image": "hq-rg-nutri"
       }
      ]
     },
@@ -875,7 +875,7 @@
         "Anti-aging etki sağlar",
         "Tüm cilt tiplerine uygundur"
        ],
-       "image": "cat-p-age-8"
+       "image": "hq-agedef"
       }
      ]
     },
@@ -1012,7 +1012,7 @@
         "Elastikiyet görünümünü destekler",
         "Kuru ve çok kuru cilt tiplerine uygundur"
        ],
-       "image": "cat-p-ocean-9"
+       "image": "hq-marine-rich"
       },
       {
        "name": "Hydro Firming Cream 50 ml",
@@ -1025,7 +1025,7 @@
         "Konforlu nem desteği",
         "Tüm cilt tipleri için uygundur."
        ],
-       "image": "cat-p-ocean-10"
+       "image": "hq-hydro-firming"
       },
       {
        "name": "Nutri Firming Cream 50 ml",
@@ -1037,7 +1037,7 @@
         "Cilt bariyerini destekler",
         "Kuru ve çok kuru ciltler için uygundur"
        ],
-       "image": "cat-p-ocean-11"
+       "image": "hq-nutri-firming"
       }
      ]
     },
@@ -1167,7 +1167,7 @@
         "Mat görünüm sağlar",
         "Yağlı ve olgun ciltler için uygundur"
        ],
-       "image": "cat-p-shine-12"
+       "image": "ct-shine-matte"
       },
       {
        "name": "Hydro Sebo-Regulating Gel Cream 50 ml",
@@ -1179,7 +1179,7 @@
         "Cilt bariyerini destekler",
         "Yağlı ve genç ciltler için uygundur"
        ],
-       "image": "cat-p-shine-13"
+       "image": "ct-shine-hydro"
       },
       {
        "name": "Sebo-Control Anti-Blemish Gel 10 ml",
@@ -1191,7 +1191,7 @@
         "Sivilce ve akne görünümünü azaltmaya yardımcı olur",
         "Yağlı ve problemli ciltler için uygundur"
        ],
-       "image": "cat-p-shine-14"
+       "image": "ct-sebocontrol"
       }
      ]
     },
@@ -1323,7 +1323,7 @@
         "Anti-aging bakım",
         "SPF 50"
        ],
-       "image": "cat-p-advanced-15"
+       "image": "ct-clar-cream"
       },
       {
        "name": "Clarifying Concentrated Serum 30 ml",
@@ -1594,7 +1594,7 @@
         "Yoğun nem desteği sunar",
         "Tüm cilt tipleri için uygundur"
        ],
-       "image": "cat-p-purifying-16"
+       "image": "ct-oxy-serum"
       },
       {
        "name": "Oxygenating Moisturizing Cream 50 ml",
@@ -1606,7 +1606,7 @@
         "Hafif dokuya sahiptir",
         "Normal ve karma ciltler için uygundur"
        ],
-       "image": "cat-p-purifying-17"
+       "image": "ct-oxy-moist"
       },
       {
        "name": "Oxygenating Nourishing Cream 50 ml",
@@ -1618,7 +1618,7 @@
         "Cilt konforunu destekler",
         "Kuru ve normal ciltler için uygundur"
        ],
-       "image": "cat-p-purifying-18"
+       "image": "ct-oxy-nour"
       }
      ]
     },
@@ -1885,7 +1885,7 @@
         "Göz çevresi kırışıklık görünümünü azaltmaya yardımcı olur",
         "Tüm cilt tiplerine uygundur"
        ],
-       "image": "cat-p-eye-21"
+       "image": "hq-eye-correct"
       },
       {
        "name": "Eye Contour Anti-Puffiness & Dark Circles 15 ml",
@@ -1897,7 +1897,7 @@
         "Göz altı şişliği görünümünü azaltır",
         "Tüm cilt tipleri için uygundur"
        ],
-       "image": "cat-p-eye-22"
+       "image": "hq-eye-perfect"
       }
      ]
     },
@@ -1993,7 +1993,7 @@
         "Yoğun nem ve dolgunluk sağlar",
         "Tüm cilt tiplerine uygundur"
        ],
-       "image": "cat-powerlift-4d"
+       "image": "hq-powerlift"
       },
       {
        "name": "Rose D-Tox Super Concentrate",
@@ -2006,7 +2006,7 @@
         "Yorgun cilt görünümünü destekler",
         "Tüm cilt tiplerine uygundur"
        ],
-       "image": "cat-rose-dtox"
+       "image": "hq-rosedtox"
       }
      ]
     },
@@ -2049,8 +2049,8 @@
    "short": "Süper Konsantre Serumlar",
    "accent": "#6c4a86",
    "tint": "#f0eaf4",
-   "hero": "cat-serums-hero",
-   "card": "cat-serums-hero",
+   "hero": "hq-powerlift",
+   "card": "hq-powerlift",
    "kind": "collection"
   },
   {
@@ -2121,7 +2121,7 @@
         "label": "İçerik",
         "value": "Glycolic Acid, Lactic Acid, Salicylic Acid"
        },
-       "image": "cat-three-action"
+       "image": "hq-three-action"
       },
       {
        "name": "Oxygenating Mask",
@@ -2138,7 +2138,7 @@
         "label": "İçerik",
         "value": "Riboxyl®, Avocado Oil, Surfactant"
        },
-       "image": "cat-oxygenating-mask"
+       "image": "ct-oxymask"
       }
      ]
     },
@@ -2447,7 +2447,7 @@
    "accent": "#a8786a",
    "tint": "#f6eeea",
    "hero": "cat-glasses-model",
-   "card": "cat-glasses",
+   "card": "ct-glasses",
    "eyebrow": "PROFESYONEL GÖZ ÇEVRESİ BAKIM CİHAZI",
    "desc": "Doğrudan takılarak kullanılan Masaj Gözlüğü; basınç, titreşim, sıcak-soğuk uygulama ve rahatlatıcı müzik özellikleriyle göz çevresi bakım deneyimini destekler. Göz çevresinde daha dinlenmiş, aydınlık ve toparlanmış bir görünüm kazandırmaya yardımcı olur.",
    "features": [
@@ -2567,7 +2567,7 @@
      "desc": "Cilt bariyerini destekleyen, 360° yaşlanma karşıtı bakım kremi.",
      "kind": "Kremler",
      "collection": "age-defense-treatment",
-     "image": "cat-p-age-8"
+     "image": "hq-agedef"
     },
     {
      "name": "Marine Plasma Fresh Serum 50 ml",
@@ -2581,35 +2581,35 @@
      "desc": "Kuru ve nemsiz ciltlerde dolgunluk, konfor ve yoğun nem desteği sunan zengin bakım serumu.",
      "kind": "Serumlar",
      "collection": "ocean-miracle-treatment",
-     "image": "cat-p-ocean-9"
+     "image": "hq-marine-rich"
     },
     {
      "name": "Hydro Firming Cream 50 ml",
      "desc": "Cildin nem dengesini desteklerken daha sıkı, canlı ve pürüzsüz bir görünüm sağlamaya yardımcı hafif dokulu krem.",
      "kind": "Kremler",
      "collection": "ocean-miracle-treatment",
-     "image": "cat-p-ocean-10"
+     "image": "hq-hydro-firming"
     },
     {
      "name": "Nutri Firming Cream 50 ml",
      "desc": "Besleyici dokusuyla cildin daha sıkı, yumuşak ve konforlu görünmesine yardımcı yoğun bakım kremi.",
      "kind": "Kremler",
      "collection": "ocean-miracle-treatment",
-     "image": "cat-p-ocean-11"
+     "image": "hq-nutri-firming"
     },
     {
      "name": "Eye Contour Anti-puffiness & Dark Circles",
      "desc": "Göz altı şişliği ve koyu halka görünümünü azaltmaya yardımcı göz çevresi bakımı.",
      "kind": "Göz Çevresi",
      "collection": "eye-perfection-beautyplan-treatment",
-     "image": "cat-p-eye-22"
+     "image": "hq-eye-perfect"
     },
     {
      "name": "Eye Contour Anti-wrinkle",
      "desc": "Göz çevresindeki kırışıklık ve ince çizgi görünümünü azaltmaya yardımcı bakım kremi.",
      "kind": "Göz Çevresi",
      "collection": "eye-perfection-beautyplan-treatment",
-     "image": "cat-p-eye-21"
+     "image": "hq-eye-correct"
     }
    ],
    "extra": {
@@ -2669,35 +2669,35 @@
      "desc": "Kuru ve nemsiz ciltlerde dolgunluk, konfor ve yoğun nem desteği sunan zengin bakım serumu.",
      "kind": "Serumlar",
      "collection": "ocean-miracle-treatment",
-     "image": "cat-p-ocean-9"
+     "image": "hq-marine-rich"
     },
     {
      "name": "Hydro Firming Cream 50 ml",
      "desc": "Cildin nem dengesini desteklerken daha sıkı, canlı ve pürüzsüz bir görünüm sağlamaya yardımcı hafif dokulu krem.",
      "kind": "Kremler",
      "collection": "ocean-miracle-treatment",
-     "image": "cat-p-ocean-10"
+     "image": "hq-hydro-firming"
     },
     {
      "name": "Nutri Firming Cream 50 ml",
      "desc": "Besleyici dokusuyla cildin daha sıkı, yumuşak ve konforlu görünmesine yardımcı yoğun bakım kremi.",
      "kind": "Kremler",
      "collection": "ocean-miracle-treatment",
-     "image": "cat-p-ocean-11"
+     "image": "hq-nutri-firming"
     },
     {
      "name": "Age Defense Anti-aging 360° Cream",
      "desc": "Cilt bariyerini destekleyen, 360° yaşlanma karşıtı bakım kremi.",
      "kind": "Kremler",
      "collection": "age-defense-treatment",
-     "image": "cat-p-age-8"
+     "image": "hq-agedef"
     },
     {
      "name": "Eye Contour Anti-wrinkle",
      "desc": "Göz çevresindeki kırışıklık ve ince çizgi görünümünü azaltmaya yardımcı bakım kremi.",
      "kind": "Göz Çevresi",
      "collection": "eye-perfection-beautyplan-treatment",
-     "image": "cat-p-eye-21"
+     "image": "hq-eye-correct"
     }
    ],
    "extra": {
@@ -2739,21 +2739,21 @@
      "desc": "Yağlı ve karma ciltlerde nem desteği sağlarken mat görünümü destekleyen hafif krem-jel.",
      "kind": "Kremler",
      "collection": "shine-stop-beautyplan-treatment",
-     "image": "cat-p-shine-13"
+     "image": "ct-shine-hydro"
     },
     {
      "name": "Shine Stop Anti-aging Sebo-regulating Cream",
      "desc": "Yağlı ve olgun ciltlerde sebum dengesini destekleyen matlaştırıcı yaşlanma karşıtı krem.",
      "kind": "Kremler",
      "collection": "shine-stop-beautyplan-treatment",
-     "image": "cat-p-shine-12"
+     "image": "ct-shine-matte"
     },
     {
      "name": "Eye Contour Anti-puffiness & Dark Circles",
      "desc": "Göz altı şişliği ve koyu halka görünümünü azaltmaya yardımcı göz çevresi bakımı.",
      "kind": "Göz Çevresi",
      "collection": "eye-perfection-beautyplan-treatment",
-     "image": "cat-p-eye-22"
+     "image": "hq-eye-perfect"
     }
    ],
    "extra": {
@@ -2802,28 +2802,28 @@
      "desc": "Cildin daha ferah, canlı ve nemli görünmesine yardımcı oksijen destekli serum.",
      "kind": "Serumlar",
      "collection": "purifying-beautyplan-treatment",
-     "image": "cat-p-purifying-16"
+     "image": "ct-oxy-serum"
     },
     {
      "name": "Hydra Lifting Hydro Firming Cream",
      "desc": "Hafif dokusuyla nem ve sıkılık görünümünü destekleyen günlük bakım kremi.",
      "kind": "Kremler",
      "collection": "ocean-miracle-treatment",
-     "image": "cat-p-ocean-10"
+     "image": "hq-hydro-firming"
     },
     {
      "name": "Balancing Moisturizing Cream",
      "desc": "Cildin nem dengesini destekleyen hafif dokulu günlük bakım kremi.",
      "kind": "Kremler",
      "collection": "goji-treatment",
-     "image": "cat-p-goji-3"
+     "image": "ct-goji-hydro"
     },
     {
      "name": "Eye Contour Anti-puffiness & Dark Circles",
      "desc": "Göz altı şişliği ve koyu halka görünümünü azaltmaya yardımcı göz çevresi bakımı.",
      "kind": "Göz Çevresi",
      "collection": "eye-perfection-beautyplan-treatment",
-     "image": "cat-p-eye-22"
+     "image": "hq-eye-perfect"
     }
    ],
    "extra": {
@@ -2865,7 +2865,7 @@
      "desc": "Cilt bariyerini destekleyen, 360° yaşlanma karşıtı bakım kremi.",
      "kind": "Kremler",
      "collection": "age-defense-treatment",
-     "image": "cat-p-age-8"
+     "image": "hq-agedef"
     },
     {
      "name": "Marine Plasma Fresh Serum 50 ml",
@@ -2879,35 +2879,35 @@
      "desc": "Kuru ve nemsiz ciltlerde dolgunluk, konfor ve yoğun nem desteği sunan zengin bakım serumu.",
      "kind": "Serumlar",
      "collection": "ocean-miracle-treatment",
-     "image": "cat-p-ocean-9"
+     "image": "hq-marine-rich"
     },
     {
      "name": "Hydro Firming Cream 50 ml",
      "desc": "Cildin nem dengesini desteklerken daha sıkı, canlı ve pürüzsüz bir görünüm sağlamaya yardımcı hafif dokulu krem.",
      "kind": "Kremler",
      "collection": "ocean-miracle-treatment",
-     "image": "cat-p-ocean-10"
+     "image": "hq-hydro-firming"
     },
     {
      "name": "Nutri Firming Cream 50 ml",
      "desc": "Besleyici dokusuyla cildin daha sıkı, yumuşak ve konforlu görünmesine yardımcı yoğun bakım kremi.",
      "kind": "Kremler",
      "collection": "ocean-miracle-treatment",
-     "image": "cat-p-ocean-11"
+     "image": "hq-nutri-firming"
     },
     {
      "name": "Eye Contour Anti-puffiness & Dark Circles",
      "desc": "Göz altı şişliği ve koyu halka görünümünü azaltmaya yardımcı göz çevresi bakımı.",
      "kind": "Göz Çevresi",
      "collection": "eye-perfection-beautyplan-treatment",
-     "image": "cat-p-eye-22"
+     "image": "hq-eye-perfect"
     },
     {
      "name": "Eye Contour Anti-wrinkle",
      "desc": "Göz çevresindeki kırışıklık ve ince çizgi görünümünü azaltmaya yardımcı bakım kremi.",
      "kind": "Göz Çevresi",
      "collection": "eye-perfection-beautyplan-treatment",
-     "image": "cat-p-eye-21"
+     "image": "hq-eye-correct"
     }
    ],
    "extra": {
@@ -2964,7 +2964,7 @@
      "desc": "İnce çizgi ve kırışıklık görünümünü azaltmaya yardımcı nemlendirici bakım kremi.",
      "kind": "Kremler",
      "collection": "rgnerin-treatment",
-     "image": "cat-p-rgnerin-6"
+     "image": "hq-rg-hydronutri"
     },
     {
      "name": "Golden Age Intense Cream",
@@ -3006,14 +3006,14 @@
      "desc": "Göz altı şişliği ve koyu halka görünümünü azaltmaya yardımcı göz çevresi bakımı.",
      "kind": "Göz Çevresi",
      "collection": "eye-perfection-beautyplan-treatment",
-     "image": "cat-p-eye-22"
+     "image": "hq-eye-perfect"
     },
     {
      "name": "Eye Contour Anti-wrinkle",
      "desc": "Göz çevresindeki kırışıklık ve ince çizgi görünümünü azaltmaya yardımcı bakım kremi.",
      "kind": "Göz Çevresi",
      "collection": "eye-perfection-beautyplan-treatment",
-     "image": "cat-p-eye-21"
+     "image": "hq-eye-correct"
     }
    ],
    "extra": {
@@ -3055,21 +3055,21 @@
      "desc": "Yağlı ve karma ciltlerde nem desteği sağlarken mat görünümü destekleyen hafif krem-jel.",
      "kind": "Kremler",
      "collection": "shine-stop-beautyplan-treatment",
-     "image": "cat-p-shine-13"
+     "image": "ct-shine-hydro"
     },
     {
      "name": "Sebocontrol Anti-Blemish Gel",
      "desc": "Bölgesel kusur görünümüne yönelik lokal bakım jeli.",
      "kind": "Kremler",
      "collection": "shine-stop-beautyplan-treatment",
-     "image": "cat-p-shine-14"
+     "image": "ct-sebocontrol"
     },
     {
      "name": "Shine Stop Anti-aging Sebo-regulating Cream",
      "desc": "Yağlı ve olgun ciltlerde sebum dengesini destekleyen matlaştırıcı yaşlanma karşıtı krem.",
      "kind": "Kremler",
      "collection": "shine-stop-beautyplan-treatment",
-     "image": "cat-p-shine-12"
+     "image": "ct-shine-matte"
     }
    ],
    "extra": {
@@ -3126,21 +3126,21 @@
      "desc": "Cilt tonunu eşitlemeye ve leke görünümünü azaltmaya yardımcı SPF 50 içeren gündüz bakım kremi.",
      "kind": "Kremler",
      "collection": "advanced-nacar-treatment",
-     "image": "cat-p-advanced-15"
+     "image": "ct-clar-cream"
     },
     {
      "name": "Eye Contour Anti-puffiness & Dark Circles",
      "desc": "Göz altı şişliği ve koyu halka görünümünü azaltmaya yardımcı göz çevresi bakımı.",
      "kind": "Göz Çevresi",
      "collection": "eye-perfection-beautyplan-treatment",
-     "image": "cat-p-eye-22"
+     "image": "hq-eye-perfect"
     },
     {
      "name": "Eye Contour Anti-wrinkle",
      "desc": "Göz çevresindeki kırışıklık ve ince çizgi görünümünü azaltmaya yardımcı bakım kremi.",
      "kind": "Göz Çevresi",
      "collection": "eye-perfection-beautyplan-treatment",
-     "image": "cat-p-eye-21"
+     "image": "hq-eye-correct"
     }
    ],
    "extra": {
@@ -3189,14 +3189,14 @@
      "desc": "Göz çevresindeki ince çizgi ve kırışıklık görünümünü azaltmaya yardımcı bakım kremi.",
      "kind": "Göz Çevresi",
      "collection": "eye-perfection-beautyplan-treatment",
-     "image": "cat-p-eye-21"
+     "image": "hq-eye-correct"
     },
     {
      "name": "Eye Contour Anti-puffiness & Dark Circles 15 ml",
      "desc": "Göz altı torbaları, şişlik ve koyu halka görünümünü azaltmaya yardımcı göz çevresi bakımı.",
      "kind": "Göz Çevresi",
      "collection": "eye-perfection-beautyplan-treatment",
-     "image": "cat-p-eye-22"
+     "image": "hq-eye-perfect"
     },
     {
      "name": "Golden Age Intense Eye Contour 15 ml",
@@ -3210,7 +3210,7 @@
      "desc": "Göz çevresi bakım rutinini destekleyen rahatlatıcı masaj gözlüğü.",
      "kind": "Göz Çevresi",
      "collection": "masaj-gozlugu",
-     "image": "cat-glasses"
+     "image": "ct-glasses"
     }
    ],
    "extra": null,
@@ -3228,56 +3228,56 @@
      "desc": "Cildin nem dengesini destekleyen, hafif dokulu günlük nemlendirici bakım kremi.",
      "kind": "Kremler",
      "collection": "goji-treatment",
-     "image": "cat-p-goji-3"
+     "image": "ct-goji-hydro"
     },
     {
      "name": "RGnerin Hydro-Nutri Wrinkle Cream 50 ml",
      "desc": "İnce çizgi görünümünü azaltmaya ve cilde nem desteği sağlamaya yardımcı bakım kremi.",
      "kind": "Kremler",
      "collection": "rgnerin-treatment",
-     "image": "cat-p-rgnerin-6"
+     "image": "hq-rg-hydronutri"
     },
     {
      "name": "Hydra Firming Cream 50 ml",
      "desc": "Cildin daha sıkı, nemli ve canlı görünmesini destekleyen günlük bakım kremi.",
      "kind": "Kremler",
      "collection": "ocean-miracle-treatment",
-     "image": "cat-p-ocean-10"
+     "image": "hq-hydro-firming"
     },
     {
      "name": "Nutri Firming Cream 50 ml",
      "desc": "Besleyici yapısıyla cildin elastikiyet ve konfor görünümünü destekleyen bakım kremi.",
      "kind": "Kremler",
      "collection": "ocean-miracle-treatment",
-     "image": "cat-p-ocean-11"
+     "image": "hq-nutri-firming"
     },
     {
      "name": "Shine Stop Hydro Cream 50 ml",
      "desc": "Yağlı ve karma ciltlerde nem desteği sağlarken mat görünümü destekleyen jel krem.",
      "kind": "Kremler",
      "collection": "shine-stop-beautyplan-treatment",
-     "image": "cat-p-shine-13"
+     "image": "ct-shine-hydro"
     },
     {
      "name": "Oxygenating Moisturizing Cream 50 ml",
      "desc": "Cilde ferahlık, nem ve daha canlı bir görünüm kazandırmaya yardımcı hafif bakım kremi.",
      "kind": "Kremler",
      "collection": "purifying-beautyplan-treatment",
-     "image": "cat-p-purifying-17"
+     "image": "ct-oxy-moist"
     },
     {
      "name": "Age Defense Cream 50 ml",
      "desc": "Cilt bariyerini destekleyen, yaşlanma belirtilerine karşı günlük bakım kremi.",
      "kind": "Kremler",
      "collection": "age-defense-treatment",
-     "image": "cat-p-age-8"
+     "image": "hq-agedef"
     },
     {
      "name": "Sensations Hydro Revitalizing Cream",
      "desc": "Cildin daha canlı, nemli ve taze görünmesine yardımcı hafif dokulu bakım kremi.",
      "kind": "Kremler",
      "collection": "skin-sensations-treatment",
-     "image": "cat-p-skin-5"
+     "image": "hq-sens-hydro"
     },
     {
      "name": "Sensations Hydro-Nutri Revitalizing Cream",
@@ -3316,14 +3316,14 @@
      "desc": "Kuru ciltlerde nem ve besleyici bakım desteği sağlayan zengin dokulu krem.",
      "kind": "Kremler",
      "collection": "goji-treatment",
-     "image": "cat-p-goji-4"
+     "image": "ct-goji-nutri"
     },
     {
      "name": "RGnerin Nutri+ Rich Wrinkle Cream 50 ml",
      "desc": "Kuru ve çok kuru ciltlerde kırışıklık görünümünü azaltmaya ve cilde yoğun konfor sağlamaya yardımcı bakım kremi.",
      "kind": "Kremler",
      "collection": "rgnerin-treatment",
-     "image": "cat-p-rgnerin-7"
+     "image": "hq-rg-nutri"
     },
     {
      "name": "Q10 Rescue Intensive Nutri Cream 50 ml",
@@ -3337,7 +3337,7 @@
      "desc": "Kuru ciltlere besleyici bakım, nem ve daha canlı bir görünüm kazandırmaya yardımcı krem.",
      "kind": "Kremler",
      "collection": "purifying-beautyplan-treatment",
-     "image": "cat-p-purifying-18"
+     "image": "ct-oxy-nour"
     },
     {
      "name": "Renewal Night Cream 30 ml",
@@ -3387,7 +3387,7 @@
      "desc": "Cildin daha dengeli, canlı ve enerjik görünmesine yardımcı antioksidan bakım serumu.",
      "kind": "Serumlar",
      "collection": "goji-treatment",
-     "image": "cat-p-goji-2"
+     "image": "ct-goji-serum"
     },
     {
      "name": "Marine Plasma Fresh Serum 50 ml",
@@ -3401,14 +3401,14 @@
      "desc": "Kuru ve nemsiz ciltlerde dolgunluk, konfor ve yoğun nem görünümü sağlayan serum.",
      "kind": "Serumlar",
      "collection": "ocean-miracle-treatment",
-     "image": "cat-p-ocean-9"
+     "image": "hq-marine-rich"
     },
     {
      "name": "Oxygenating Serum 50 ml",
      "desc": "Cildin daha ferah, canlı ve nemli görünmesine yardımcı oksijen destekli serum.",
      "kind": "Serumlar",
      "collection": "purifying-beautyplan-treatment",
-     "image": "cat-p-purifying-16"
+     "image": "ct-oxy-serum"
     },
     {
      "name": "RGnerin Wrinkle Serum 50 ml",
@@ -3436,14 +3436,14 @@
      "desc": "Cildin daha sıkı, dolgun ve toparlanmış görünmesini destekleyen yoğun bakım konsantresi.",
      "kind": "Serumlar",
      "collection": "super-konsantre-serumlar",
-     "image": "cat-powerlift-4d"
+     "image": "hq-powerlift"
     },
     {
      "name": "Rose D-Tox Super Concentrate 30 ml",
      "desc": "Cildi arındırmaya ve enerji kazandırmaya yardımcı yenileyici süper konsantre serum.",
      "kind": "Serumlar",
      "collection": "super-konsantre-serumlar",
-     "image": "cat-rose-dtox"
+     "image": "hq-rosedtox"
     }
    ],
    "extra": null,

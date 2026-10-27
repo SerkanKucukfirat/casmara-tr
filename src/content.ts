@@ -119,8 +119,8 @@ export const milestones = [
 
 // Home "öne çıkanlar" rail: only products we have a real packshot for; the alt picture shows on hover.
 export const featured = [
-  { name: 'Power Lift 4D Super Concentrate', tab: 'Serumlar', slug: 'super-konsantre-serumlar', image: 'cat-powerlift-4d', alt: 'cat-serums-hero' },
-  { name: 'Rose D-Tox Super Concentrate', tab: 'Serumlar', slug: 'super-konsantre-serumlar', image: 'cat-rose-dtox', alt: 'cat-serums-hero' },
+  { name: 'Power Lift 4D Super Concentrate', tab: 'Serumlar', slug: 'super-konsantre-serumlar', image: 'hq-powerlift', alt: 'stock-actives' },
+  { name: 'Rose D-Tox Super Concentrate', tab: 'Serumlar', slug: 'super-konsantre-serumlar', image: 'hq-rosedtox', alt: 'stock-collections' },
   { name: 'Golden Age Intense Serum', tab: 'Serumlar', slug: 'golden-age-intense-treatment', image: 'golden-serum', alt: 'golden-still' },
   { name: 'Golden Age Intense Cream', tab: 'Kremler', slug: 'golden-age-intense-treatment', image: 'golden-cream', alt: 'vid-lineup' },
   { name: 'Infinity Cream', tab: 'Kremler', slug: 'infinity-treatment', image: 'infinity-cream', alt: 'infinity-hero-tr' },
@@ -130,7 +130,9 @@ export const featured = [
   { name: 'Q10 Rescue Intensive Nutri Cream', tab: 'Kremler', slug: 'q10-rescue-nutri-treatment', image: 'q10-pack', alt: 'q10-treatment' },
   { name: 'Clarifying Concentrated Serum', tab: 'Serumlar', slug: 'advanced-nacar-treatment', image: 'serum-lightening', alt: 'nacar-treatment' },
   { name: '3 in 1 Deep Cleanser', tab: 'Temizleyiciler', slug: 'temizleme-serisi', image: 'cleanser-deep', alt: 'cleansers-banner' },
-  { name: 'Detox Cleanser', tab: 'Temizleyiciler', slug: 'temizleme-serisi', image: 'cat-detox-cleanser', alt: 'cleanser-balancing' },
+  { name: 'Three Action Peel Renewal Serum', tab: 'Temizleyiciler', slug: 'temizleme-serisi', image: 'hq-three-action', alt: 'cleansers-banner' },
+  { name: 'Hydra Lifting Nutri Firming Cream', tab: 'Kremler', slug: 'ocean-miracle-treatment', image: 'hq-nutri-firming', alt: 'kit-ocean-miracle-treatment' },
+  { name: 'RGnerin Nutri+ Rich Wrinkle Cream', tab: 'Kremler', slug: 'rgnerin-treatment', image: 'hq-rg-nutri', alt: 'kit-rgnerin-treatment' },
   { name: 'Purifying Cleanser', tab: 'Temizleyiciler', slug: 'purifying-beautyplan-treatment', image: 'purifying-cleanser', alt: 'purifying-still' },
   { name: 'Eye Contour', tab: 'Kremler', slug: 'eye-perfection-beautyplan-treatment', image: 'eye-retail', alt: 'eye-pro' },
 ]
