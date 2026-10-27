@@ -3,15 +3,17 @@ import { Link } from 'react-router-dom'
 import { focus, img, type Collection, type Device, type Faq, type ListingProduct, type Product } from '../content'
 import { splitWords } from './motion'
 
-// The wordmark and the swirl are drawn as CSS masks so they take the colour of the text around them.
+// The wordmark (a vector trace of the brand file) and the swirl are drawn as CSS masks so they take the colour of the text around them.
 export function Logo({ tagline = false }: { tagline?: boolean }) {
   return (
-    <span
-      className={`logo ${tagline ? 'with-tag' : ''}`}
-      style={{ ['--src' as string]: `url(${img(tagline ? 'logo-tag' : 'logo-white')})` }}
-      role="img"
-      aria-label="Casmara"
-    />
+    <span className={`logo ${tagline ? 'with-tag' : ''}`} role="img" aria-label={tagline ? 'Casmara — Cosmetics without limits' : 'Casmara'}>
+      <span className="logo-mark" style={{ ['--src' as string]: `url(${import.meta.env.BASE_URL}img/logo.svg)` }} />
+      {tagline && (
+        <span className="logo-tag" aria-hidden>
+          Cosmetics without limits
+        </span>
+      )}
+    </span>
   )
 }
 
