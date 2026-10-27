@@ -39,7 +39,7 @@ function Hero() {
     const el = root.current
     if (!el || reduced()) return
     const ctx = gsap.context(() => {
-      gsap.to('.hero-film', { yPercent: 18, scale: 1.08, ease: 'none', scrollTrigger: { trigger: el, start: 'top top', end: 'bottom top', scrub: true } })
+      gsap.to('.hero-film', { yPercent: 14, ease: 'none', scrollTrigger: { trigger: el, start: 'top top', end: 'bottom top', scrub: true } })
       gsap.to('.hero-copy', { yPercent: -30, opacity: 0, ease: 'none', scrollTrigger: { trigger: el, start: 'top top', end: 'bottom top', scrub: true } })
     }, el)
     return () => ctx.revert()
