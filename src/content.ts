@@ -1,6 +1,6 @@
 import data from './data/content.json'
 
-export type Ingredient = { name: string; sub?: string; desc: string }
+export type Ingredient = { name: string; sub?: string; desc: string; image?: string | null }
 export type Step = { n: string; title: string; desc: string }
 export type Product = {
   name: string
@@ -47,7 +47,7 @@ export type Listing = {
   extra?: { title: string; subtitle: string; text: string } | null
   faqs: Faq[]
 }
-export type Active = { name: string; slug: string; tagline: string; desc: string; used: { text: string; collection: string | null }[] }
+export type Active = { name: string; slug: string; tagline: string; desc: string; image?: string | null; used: { text: string; collection: string | null }[] }
 export type Block = { t: 'h2' | 'h3' | 'p' | 'ul'; x: string | string[] }
 export type Post = { slug: string; title: string; excerpt: string; blocks: Block[] }
 export type Policy = { slug: string; title: string; blocks: Block[] }
@@ -69,11 +69,10 @@ export const bySlug = <T extends { slug: string }>(list: T[], slug?: string) => 
 export const section = <K extends Section['kind']>(c: Collection, kind: K) =>
   c.sections.find(s => s.kind === kind) as Extract<Section, { kind: K }> | undefined
 
-// Ingredient pictures exist only for the two collections the brand designed pages for.
+// Ingredient pictures come from the printed catalogue; a few ingredients have none.
 export const ingredientImage = (c: Collection, i: number) => {
-  if (c.slug === 'golden-age-intense-treatment') return i > 0 ? img(`ing-golden-${i - 1}`) : null
-  if (c.slug === 'infinity-treatment') return img(`ing-infinity-${[0, 1, 4, 2, 3][i]}`)
-  return null
+  const pic = section(c, 'ingredients')?.items[i]?.image
+  return pic ? img(pic) : null
 }
 
 export const CONTACT = {
@@ -120,6 +119,8 @@ export const milestones = [
 
 // Home "öne çıkanlar" rail: only products we have a real packshot for; the alt picture shows on hover.
 export const featured = [
+  { name: 'Power Lift 4D Super Concentrate', tab: 'Serumlar', slug: 'super-konsantre-serumlar', image: 'cat-powerlift-4d', alt: 'cat-serums-hero' },
+  { name: 'Rose D-Tox Super Concentrate', tab: 'Serumlar', slug: 'super-konsantre-serumlar', image: 'cat-rose-dtox', alt: 'cat-serums-hero' },
   { name: 'Golden Age Intense Serum', tab: 'Serumlar', slug: 'golden-age-intense-treatment', image: 'golden-serum', alt: 'golden-still' },
   { name: 'Golden Age Intense Cream', tab: 'Kremler', slug: 'golden-age-intense-treatment', image: 'golden-cream', alt: 'vid-lineup' },
   { name: 'Infinity Cream', tab: 'Kremler', slug: 'infinity-treatment', image: 'infinity-cream', alt: 'infinity-hero-tr' },
@@ -129,6 +130,7 @@ export const featured = [
   { name: 'Q10 Rescue Intensive Nutri Cream', tab: 'Kremler', slug: 'q10-rescue-nutri-treatment', image: 'q10-pack', alt: 'q10-treatment' },
   { name: 'Clarifying Concentrated Serum', tab: 'Serumlar', slug: 'advanced-nacar-treatment', image: 'serum-lightening', alt: 'nacar-treatment' },
   { name: '3 in 1 Deep Cleanser', tab: 'Temizleyiciler', slug: 'temizleme-serisi', image: 'cleanser-deep', alt: 'cleansers-banner' },
+  { name: 'Detox Cleanser', tab: 'Temizleyiciler', slug: 'temizleme-serisi', image: 'cat-detox-cleanser', alt: 'cleanser-balancing' },
   { name: 'Purifying Cleanser', tab: 'Temizleyiciler', slug: 'purifying-beautyplan-treatment', image: 'purifying-cleanser', alt: 'purifying-still' },
   { name: 'Eye Contour', tab: 'Kremler', slug: 'eye-perfection-beautyplan-treatment', image: 'eye-retail', alt: 'eye-pro' },
 ]

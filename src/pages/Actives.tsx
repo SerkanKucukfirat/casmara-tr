@@ -1,6 +1,6 @@
 import { useEffect, useRef } from 'react'
 import { Link, useParams } from 'react-router-dom'
-import { actives, bySlug, collections } from '../content'
+import { actives, bySlug, collections, img } from '../content'
 import { useIntro, useReveal } from '../components/motion'
 import { Arrow, PageHero } from '../components/ui'
 import NotFound from './NotFound'
@@ -19,13 +19,13 @@ export function ActiveIndex() {
         title="Formüllerin ardındaki bilim"
         text="Casmara formüllerinde yer alan aktif içerikleri, nasıl çalıştıklarını ve hangi ürünlerde bulunduklarını keşfedin."
         crumbs={[{ label: 'Aktif İçerikler' }]}
-        image="ing-infinity-2"
+        image="golden-lab"
       />
       <section className="section">
         <div className="wrap agrid rv-stagger">
           {actives.map((a, n) => (
             <Link key={a.slug} to={`/aktif-icerikler/${a.slug}`} className="acard">
-              <em>{String(n + 1).padStart(2, '0')}</em>
+              {a.image ? <img className="acard-img" src={img(a.image)} alt="" loading="lazy" /> : <em>{String(n + 1).padStart(2, '0')}</em>}
               <h2>{a.name}</h2>
               <p>{a.tagline.replace(`${a.name}: `, '')}</p>
               <span className="link">
@@ -53,7 +53,12 @@ export function ActivePage() {
   const next = actives[(i + 1) % actives.length]
   return (
     <div ref={page} key={a.slug}>
-      <PageHero eyebrow="Aktif içerik" title={a.name} text={a.tagline.replace(`${a.name}: `, '')} crumbs={[{ to: '/aktif-icerikler', label: 'Aktif İçerikler' }, { label: a.name }]} />
+      <PageHero
+        eyebrow="Aktif içerik"
+        title={a.name}
+        text={a.tagline.replace(`${a.name}: `, '')}
+        crumbs={[{ to: '/aktif-icerikler', label: 'Aktif İçerikler' }, { label: a.name }]}
+      />
       <section className="section">
         <div className="wrap split">
           <p className="display m rv">{a.desc}</p>

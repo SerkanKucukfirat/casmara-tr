@@ -32,7 +32,7 @@ function Hero({ c, eyebrow, title, subtitle, desc, benefits }: { c: Collection |
             </ul>
           )}
         </div>
-        <div className="chero-img intro-img">
+        <div className={`chero-img intro-img ${c.hero.startsWith('kit-') ? 'kit' : ''}`}>
           <img src={img(c.hero)} alt={c.title} style={{ objectPosition: focus(c.hero) }} />
         </div>
       </div>
